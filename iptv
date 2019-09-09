@@ -143,7 +143,7 @@ http://omega.ws:8080/monir/123456/10403
 http://omega.ws:8080/monir/123456/10406
 #EXTINF:-1  group-title="Portugal",|PT| TV GLOBO PREMIUM
 http://omega.ws:8080/monir/123456/10407
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/PORTUGAL.png" group-title="XXX",XXX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rukakolink/iptv/master/x.ico" group-title="XXX",XXX
 http://fui.me
 #EXTINF:-1 group-title="XXX" group-title="XXX",XXX | BRAZZ 1 
 http://ecuaplaytv.com:8000/332/332/77101
