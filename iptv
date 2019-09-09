@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/PORTUGAL.png" group-title="Portugal",PORTUGAL
+http://fui.me
 #EXTINF:-1 group-title="Portugal",|PTT| RTP 1
 http://omega.ws:8080/monir/123456/1240
 #EXTINF:-1 group-title="Portugal",|PT| RTP 2
