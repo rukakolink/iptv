@@ -1,145 +1,145 @@
 #EXTM3U
-#EXTINF:-1,|PT| RTP 1
+#EXTINF:-1, group-title="Portugal"|PT| RTP 1
 http://omega.ws:8080/monir/123456/1240
-#EXTINF:-1,|PT| RTP 2
+#EXTINF:-1, group-title="Portugal"|PT| RTP 2
 http://omega.ws:8080/monir/123456/1239
-#EXTINF:-1,|PT| RTP 3
+#EXTINF:-1, group-title="Portugal"|PT| RTP 3
 http://omega.ws:8080/monir/123456/1238
-#EXTINF:-1,|PT| RTP Africa
+#EXTINF:-1, group-title="Portugal"|PT| RTP Africa
 http://omega.ws:8080/monir/123456/1234
-#EXTINF:-1,|PT| RTP Madeira
+#EXTINF:-1, group-title="Portugal"|PT| RTP Madeira
 http://omega.ws:8080/monir/123456/1235
-#EXTINF:-1,|PT| RTP-Acores
+#EXTINF:-1, group-title="Portugal"|PT| RTP-Acores
 http://omega.ws:8080/monir/123456/1231
-#EXTINF:-1,|PT| SIC
+#EXTINF:-1, group-title="Portugal"|PT| SIC
 http://omega.ws:8080/monir/123456/1236
-#EXTINF:-1,|PT| SIC MULHER
+#EXTINF:-1, group-title="Portugal"|PT| SIC MULHER
 http://omega.ws:8080/monir/123456/1230
-#EXTINF:-1,|PT| BBC WORLD
+#EXTINF:-1, group-title="Portugal"|PT| BBC WORLD
 http://omega.ws:8080/monir/123456/1263
-#EXTINF:-1,|PT| 24 KITCHEN
+#EXTINF:-1, group-title="Portugal"|PT| 24 KITCHEN
 http://omega.ws:8080/monir/123456/1278
-#EXTINF:-1,|PT| CACAVISION
+#EXTINF:-1, group-title="Portugal"|PT| CACAVISION
 http://omega.ws:8080/monir/123456/1280
-#EXTINF:-1,|PT| EURONEWS
+#EXTINF:-1, group-title="Portugal"|PT| EURONEWS
 http://omega.ws:8080/monir/123456/1232
-#EXTINF:-1,|PT| GLOBO PORTUGAL
+#EXTINF:-1, group-title="Portugal"|PT| GLOBO PORTUGAL
 http://omega.ws:8080/monir/123456/1267
-#EXTINF:-1,|PT| GLOBO PREMIUM
+#EXTINF:-1, group-title="Portugal"|PT| GLOBO PREMIUM
 http://omega.ws:8080/monir/123456/1266
-#EXTINF:-1,|PT| NAT GEO WILD
+#EXTINF:-1, group-title="Portugal"|PT| NAT GEO WILD
 http://omega.ws:8080/monir/123456/1283
-#EXTINF:-1,|PT| HISTORIA
+#EXTINF:-1, group-title="Portugal"|PT| HISTORIA
 http://omega.ws:8080/monir/123456/1215
-#EXTINF:-1,|PT| CACA E PESCA
+#EXTINF:-1, group-title="Portugal"|PT| CACA E PESCA
 http://omega.ws:8080/monir/123456/1281
-#EXTINF:-1,|PT| CI INVESTIGATION
+#EXTINF:-1, group-title="Portugal"|PT| CI INVESTIGATION
 http://omega.ws:8080/monir/123456/1279
-#EXTINF:-1,|PT| Discovery Channel
+#EXTINF:-1, group-title="Portugal"|PT| Discovery Channel
 http://omega.ws:8080/monir/123456/1213
-#EXTINF:-1,|PT| DISCOVERY SHOWCASE
+#EXTINF:-1, group-title="Portugal"|PT| DISCOVERY SHOWCASE
 http://omega.ws:8080/monir/123456/1282
-#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC
+#EXTINF:-1, group-title="Portugal"|PT| NATIONAL GEOGRAPHIC
 http://omega.ws:8080/monir/123456/1284
-#EXTINF:-1,|PT| Odisseia
+#EXTINF:-1, group-title="Portugal"|PT| Odisseia
 http://omega.ws:8080/monir/123456/1212
-#EXTINF:-1,|PT| SPORT TV+
+#EXTINF:-1, group-title="Desporto"|PT| SPORT TV+
 http://omega.ws:8080/monir/123456/1211
-#EXTINF:-1,|PT| SPORT TV 1 HD
+#EXTINF:-1, group-title="Desporto"|PT| SPORT TV 1 HD
 http://omega.ws:8080/monir/123456/1210
-#EXTINF:-1,|PT| SPORT TV 2 HD
+#EXTINF:-1, group-title="Desporto"|PT| SPORT TV 2 HD
 http://omega.ws:8080/monir/123456/1209
-#EXTINF:-1,|PT| SPORT TV 3 HD
+#EXTINF:-1, group-title="Desporto"|PT| SPORT TV 3 HD
 http://omega.ws:8080/monir/123456/1208
-#EXTINF:-1,|PT| SPORT TV 4 HD
+#EXTINF:-1, group-title="Desporto"|PT| SPORT TV 4 HD
 http://omega.ws:8080/monir/123456/1207
-#EXTINF:-1,|PT| SPORT TV 5 HD
+#EXTINF:-1, group-title="Desporto"|PT| SPORT TV 5 HD
 http://omega.ws:8080/monir/123456/1206
-#EXTINF:-1,|PT| Eleven Sport 1 HD
+#EXTINF:-1, group-title="Desporto"|PT| Eleven Sport 1 HD
 http://omega.ws:8080/monir/123456/10386
-#EXTINF:-1,|PT| Eleven Sport 2 HD
+#EXTINF:-1, group-title="Desporto"|PT| Eleven Sport 2 HD
 http://omega.ws:8080/monir/123456/10385
-#EXTINF:-1,|PT| Eleven Sport 3 HD
+#EXTINF:-1, group-title="Desporto"|PT| Eleven Sport 3 HD
 http://omega.ws:8080/monir/123456/10384
-#EXTINF:-1,|PT| Eleven Sport 4 HD
+#EXTINF:-1, group-title="Desporto"|PT| Eleven Sport 4 HD
 http://omega.ws:8080/monir/123456/10383
-#EXTINF:-1,|PT| Eleven Sport 5 HD
+#EXTINF:-1, group-title="Desporto"|PT| Eleven Sport 5 HD
 http://omega.ws:8080/monir/123456/10382
-#EXTINF:-1,|PT| Eleven Sport 6 HD
+#EXTINF:-1, group-title="Desporto"|PT| Eleven Sport 6 HD
 http://omega.ws:8080/monir/123456/10381
-#EXTINF:-1,|PT|  EUROSPORT
+#EXTINF:-1, group-title="Desporto"|PT|  EUROSPORT
 http://omega.ws:8080/monir/123456/1204
-#EXTINF:-1,|PT| EUROSPORT 2
+#EXTINF:-1, group-title="Desporto"|PT| EUROSPORT 2
 http://omega.ws:8080/monir/123456/1203
-#EXTINF:-1,|PT| KOMBAT SPORT
+#EXTINF:-1, group-title="Portugal"|PT| KOMBAT SPORT
 http://omega.ws:8080/monir/123456/1205
-#EXTINF:-1,|PT| Benefica Tv 1
+#EXTINF:-1, group-title="Desporto"|PT| Benefica Tv 1
 http://omega.ws:8080/monir/123456/1202
-#EXTINF:-1,|PT| Sporting-TV
+#EXTINF:-1, group-title="Desporto"|PT| Sporting-TV
 http://omega.ws:8080/monir/123456/1201
-#EXTINF:-1,|PT| NICKELODEON
+#EXTINF:-1, group-title="Portugal"|PT| NICKELODEON
 http://omega.ws:8080/monir/123456/1269
-#EXTINF:-1,|PT| BABY FIRST
+#EXTINF:-1, group-title="Portugal"|PT| BABY FIRST
 http://omega.ws:8080/monir/123456/1274
-#EXTINF:-1,|PT| BABY TV
+#EXTINF:-1, group-title="Portugal"|PT| BABY TV
 http://omega.ws:8080/monir/123456/1273
-#EXTINF:-1,|PT| BIGGS
+#EXTINF:-1, group-title="Portugal"|PT| BIGGS
 http://omega.ws:8080/monir/123456/1272
-#EXTINF:-1,|PT| JIM JAM
+#EXTINF:-1, group-title="Portugal"|PT| JIM JAM
 http://omega.ws:8080/monir/123456/1270
-#EXTINF:-1,|PT| CANAL-PANDA
+#EXTINF:-1, group-title="Portugal"|PT| CANAL-PANDA
 http://omega.ws:8080/monir/123456/1229
-#EXTINF:-1,|PT| CARTOON-NETWORK
+#EXTINF:-1, group-title="Portugal"|PT| CARTOON-NETWORK
 http://omega.ws:8080/monir/123456/1227
-#EXTINF:-1,|PT| DISNEY CHANNEL
+#EXTINF:-1, group-title="Portugal"|PT| DISNEY CHANNEL
 http://omega.ws:8080/monir/123456/1271
-#EXTINF:-1,|PT| DISNEY JUNIOR
+#EXTINF:-1, group-title="Portugal"|PT| DISNEY JUNIOR
 http://omega.ws:8080/monir/123456/1228
-#EXTINF:-1,|PT| TCV INTERNACIONAL
+#EXTINF:-1, group-title="Portugal"|PT| TCV INTERNACIONAL
 http://omega.ws:8080/monir/123456/1264
-#EXTINF:-1,|PT| TRAVEL CHANNEL
+#EXTINF:-1, group-title="Portugal"|PT| TRAVEL CHANNEL
 http://omega.ws:8080/monir/123456/1276
-#EXTINF:-1,|PT| TV GALICIA
+#EXTINF:-1, group-title="Portugal"|PT| TV GALICIA
 http://omega.ws:8080/monir/123456/1265
-#EXTINF:-1,|PT| TV RECORD
+#EXTINF:-1, group-title="Portugal"|PT| TV RECORD
 http://omega.ws:8080/monir/123456/1268
-#EXTINF:-1,|PT| TV SERIES
+#EXTINF:-1, group-title="Portugal"|PT| TV SERIES
 http://omega.ws:8080/monir/123456/1226
-#EXTINF:-1,|PT| TVI
+#EXTINF:-1, group-title="Portugal"|PT| TVI
 http://omega.ws:8080/monir/123456/1237
-#EXTINF:-1,|PT| TVI Reality
+#EXTINF:-1, group-title="Portugal"|PT| TVI Reality
 http://omega.ws:8080/monir/123456/1214
-#EXTINF:-1,|PT| TVI-24
+#EXTINF:-1, group-title="Portugal"|PT| TVI-24
 http://omega.ws:8080/monir/123456/1233
-#EXTINF:-1,|PT| MOV HD
+#EXTINF:-1, group-title="Filmes"|PT| MOV HD
 http://omega.ws:8080/monir/123456/1221
-#EXTINF:-1,|PT| AXN Black
+#EXTINF:-1, group-title="Filmes"|PT| AXN Black
 http://omega.ws:8080/monir/123456/1222
-#EXTINF:-1,|PT| AXN-HD
+#EXTINF:-1, group-title="Filmes"|PT| AXN-HD
 http://omega.ws:8080/monir/123456/1223
-#EXTINF:-1,|PT| AXN-WHITE
+#EXTINF:-1, group-title="Filmes"|PT| AXN-WHITE
 http://omega.ws:8080/monir/123456/1224
-#EXTINF:-1,|PT| FOX-CRIME
+#EXTINF:-1, group-title="Filmes"|PT| FOX-CRIME
 http://omega.ws:8080/monir/123456/1225
-#EXTINF:-1,|PT| TVCINE1
+#EXTINF:-1, group-title="Filmes"|PT| TVCINE1
 http://omega.ws:8080/monir/123456/1219
-#EXTINF:-1,|PT| TVCINE2
+#EXTINF:-1, group-title="Filmes"|PT| TVCINE2
 http://omega.ws:8080/monir/123456/1218
-#EXTINF:-1,|PT| TVCINE3
+#EXTINF:-1, group-title="Filmes"|PT| TVCINE3
 http://omega.ws:8080/monir/123456/1217
-#EXTINF:-1,|PT| TVCINE4
+#EXTINF:-1, group-title="Filmes"|PT| TVCINE4
 http://omega.ws:8080/monir/123456/1216
-#EXTINF:-1,|PT| Blaze
+#EXTINF:-1, group-title="Portugal"|PT| Blaze
 http://omega.ws:8080/monir/123456/10405
-#EXTINF:-1,|PT| CINEMUNDO
+#EXTINF:-1, group-title="Filmes"|PT| CINEMUNDO
 http://omega.ws:8080/monir/123456/10404
-#EXTINF:-1,|PT| Globo Internacional
+#EXTINF:-1, group-title="Portugal"|PT| Globo Internacional
 http://omega.ws:8080/monir/123456/10408
-#EXTINF:-1,|PT| PFC
+#EXTINF:-1, group-title="Portugal"|PT| PFC
 http://omega.ws:8080/monir/123456/10403
-#EXTINF:-1,|PT| TPA INTERNACIONAL
+#EXTINF:-1, group-title="Portugal"|PT| TPA INTERNACIONAL
 http://omega.ws:8080/monir/123456/10406
-#EXTINF:-1,|PT| TV GLOBO PREMIUM
+#EXTINF:-1, group-title="Portugal"|PT| TV GLOBO PREMIUM
 http://omega.ws:8080/monir/123456/10407
 #EXTINF:-1 group-title="XXX" group-title="XXX",XXX | BRAZZ 1 
 http://ecuaplaytv.com:8000/332/332/77101
