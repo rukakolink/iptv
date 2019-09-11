@@ -1,239 +1,775 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/PORTUGAL.png" group-title="Portugal",PORTUGAL
 http://fui.me
-#EXTINF:-1 group-title="Portugal",|PT| RTP 1
-http://omega.ws:8080/monir/123456/1240
-#EXTINF:-1  group-title="Portugal",|PT| RTP 2
-http://omega.ws:8080/monir/123456/1239
-#EXTINF:-1  group-title="Portugal",|PT| RTP 3
-http://omega.ws:8080/monir/123456/1238
-#EXTINF:-1  group-title="Portugal",|PT| RTP Africa
-http://omega.ws:8080/monir/123456/1234
-#EXTINF:-1  group-title="Portugal",|PT| RTP Madeira
-http://omega.ws:8080/monir/123456/1235
-#EXTINF:-1  group-title="Portugal",|PT| RTP-Acores
-http://omega.ws:8080/monir/123456/1231
-#EXTINF:-1  group-title="Portugal",|PT| SIC
-http://omega.ws:8080/monir/123456/1236
-#EXTINF:-1  group-title="Portugal",|PT| SIC MULHER
-http://omega.ws:8080/monir/123456/1230
-#EXTINF:-1  group-title="Portugal",|PT| BBC WORLD
-http://omega.ws:8080/monir/123456/1263
-#EXTINF:-1  group-title="Portugal",|PT| 24 KITCHEN
-http://omega.ws:8080/monir/123456/1278
-#EXTINF:-1  group-title="Portugal",|PT| CACAVISION
-http://omega.ws:8080/monir/123456/1280
-#EXTINF:-1  group-title="Portugal",|PT| EURONEWS
-http://omega.ws:8080/monir/123456/1232
-#EXTINF:-1  group-title="Portugal",|PT| GLOBO PORTUGAL
-http://omega.ws:8080/monir/123456/1267
-#EXTINF:-1  group-title="Portugal",|PT| GLOBO PREMIUM
-http://omega.ws:8080/monir/123456/1266
-#EXTINF:-1  group-title="Portugal",|PT| NAT GEO WILD
-http://omega.ws:8080/monir/123456/1283
-#EXTINF:-1  group-title="Portugal",|PT| HISTORIA
-http://omega.ws:8080/monir/123456/1215
-#EXTINF:-1  group-title="Portugal",|PT| CACA E PESCA
-http://omega.ws:8080/monir/123456/1281
-#EXTINF:-1  group-title="Portugal",|PT| CI INVESTIGATION
-http://omega.ws:8080/monir/123456/1279
-#EXTINF:-1  group-title="Portugal",|PT| Discovery Channel
-http://omega.ws:8080/monir/123456/1213
-#EXTINF:-1  group-title="Portugal",|PT| DISCOVERY SHOWCASE
-http://omega.ws:8080/monir/123456/1282
-#EXTINF:-1  group-title="Portugal",|PT| NATIONAL GEOGRAPHIC
-http://omega.ws:8080/monir/123456/1284
-#EXTINF:-1  group-title="Portugal",|PT| Odisseia
-http://omega.ws:8080/monir/123456/1212
-#EXTINF:-1  group-title="Desporto",|PT| SPORT TV+
-http://omega.ws:8080/monir/123456/1211
-#EXTINF:-1  group-title="Desporto",|PT| SPORT TV 1 HD
-http://omega.ws:8080/monir/123456/1210
-#EXTINF:-1  group-title="Desporto",|PT| SPORT TV 2 HD
-http://omega.ws:8080/monir/123456/1209
-#EXTINF:-1  group-title="Desporto",|PT| SPORT TV 3 HD
-http://omega.ws:8080/monir/123456/1208
-#EXTINF:-1  group-title="Desporto",|PT| SPORT TV 4 HD
-http://omega.ws:8080/monir/123456/1207
-#EXTINF:-1  group-title="Desporto",|PT| SPORT TV 5 HD
-http://omega.ws:8080/monir/123456/1206
-#EXTINF:-1  group-title="Desporto",|PT| Eleven Sport 1 HD
-http://omega.ws:8080/monir/123456/10386
-#EXTINF:-1  group-title="Desporto",|PT| Eleven Sport 2 HD
-http://omega.ws:8080/monir/123456/10385
-#EXTINF:-1  group-title="Desporto",|PT| Eleven Sport 3 HD
-http://omega.ws:8080/monir/123456/10384
-#EXTINF:-1  group-title="Desporto",|PT| Eleven Sport 4 HD
-http://omega.ws:8080/monir/123456/10383
-#EXTINF:-1  group-title="Desporto",|PT| Eleven Sport 5 HD
-http://omega.ws:8080/monir/123456/10382
-#EXTINF:-1  group-title="Desporto",|PT| Eleven Sport 6 HD
-http://omega.ws:8080/monir/123456/10381
-#EXTINF:-1  group-title="Desporto",|PT|  EUROSPORT
-http://omega.ws:8080/monir/123456/1204
-#EXTINF:-1  group-title="Desporto",|PT| EUROSPORT 2
-http://omega.ws:8080/monir/123456/1203
-#EXTINF:-1  group-title="Portugal",|PT| KOMBAT SPORT
-http://omega.ws:8080/monir/123456/1205
-#EXTINF:-1  group-title="Desporto",|PT| Benefica Tv 1
-http://omega.ws:8080/monir/123456/1202
-#EXTINF:-1  group-title="Desporto",|PT| Sporting-TV
-http://omega.ws:8080/monir/123456/1201
-#EXTINF:-1  group-title="Portugal",|PT| NICKELODEON
-http://omega.ws:8080/monir/123456/1269
-#EXTINF:-1  group-title="Portugal",|PT| BABY FIRST
-http://omega.ws:8080/monir/123456/1274
-#EXTINF:-1  group-title="Portugal",|PT| BABY TV
-http://omega.ws:8080/monir/123456/1273
-#EXTINF:-1  group-title="Portugal",|PT| BIGGS
-http://omega.ws:8080/monir/123456/1272
-#EXTINF:-1  group-title="Portugal",|PT| JIM JAM
-http://omega.ws:8080/monir/123456/1270
-#EXTINF:-1  group-title="Portugal",|PT| CANAL-PANDA
-http://omega.ws:8080/monir/123456/1229
-#EXTINF:-1  group-title="Portugal",|PT| CARTOON-NETWORK
-http://omega.ws:8080/monir/123456/1227
-#EXTINF:-1  group-title="Portugal",|PT| DISNEY CHANNEL
-http://omega.ws:8080/monir/123456/1271
-#EXTINF:-1  group-title="Portugal",|PT| DISNEY JUNIOR
-http://omega.ws:8080/monir/123456/1228
-#EXTINF:-1  group-title="Portugal",|PT| TCV INTERNACIONAL
-http://omega.ws:8080/monir/123456/1264
-#EXTINF:-1  group-title="Portugal",|PT| TRAVEL CHANNEL
-http://omega.ws:8080/monir/123456/1276
-#EXTINF:-1  group-title="Portugal",|PT| TV GALICIA
-http://omega.ws:8080/monir/123456/1265
-#EXTINF:-1  group-title="Portugal",|PT| TV RECORD
-http://omega.ws:8080/monir/123456/1268
-#EXTINF:-1  group-title="Portugal",|PT| TV SERIES
-http://omega.ws:8080/monir/123456/1226
-#EXTINF:-1  group-title="Portugal",|PT| TVI
-http://omega.ws:8080/monir/123456/1237
-#EXTINF:-1  group-title="Portugal",|PT| TVI Reality
-http://omega.ws:8080/monir/123456/1214
-#EXTINF:-1  group-title="Portugal",|PT| TVI-24
-http://omega.ws:8080/monir/123456/1233
-#EXTINF:-1  group-title="Filmes",|PT| MOV HD
-http://omega.ws:8080/monir/123456/1221
-#EXTINF:-1  group-title="Filmes",|PT| AXN Black
-http://omega.ws:8080/monir/123456/1222
-#EXTINF:-1  group-title="Filmes",|PT| AXN-HD
-http://omega.ws:8080/monir/123456/1223
-#EXTINF:-1  group-title="Filmes",|PT| AXN-WHITE
-http://omega.ws:8080/monir/123456/1224
-#EXTINF:-1  group-title="Filmes",|PT| FOX-CRIME
-http://omega.ws:8080/monir/123456/1225
-#EXTINF:-1  group-title="Filmes",|PT| TVCINE1
-http://omega.ws:8080/monir/123456/1219
-#EXTINF:-1  group-title="Filmes",|PT| TVCINE2
-http://omega.ws:8080/monir/123456/1218
-#EXTINF:-1  group-title="Filmes",|PT| TVCINE3
-http://omega.ws:8080/monir/123456/1217
-#EXTINF:-1  group-title="Filmes",|PT| TVCINE4
-http://omega.ws:8080/monir/123456/1216
-#EXTINF:-1  group-title="Portugal",|PT| Blaze
-http://omega.ws:8080/monir/123456/10405
-#EXTINF:-1  group-title="Filmes",|PT| CINEMUNDO
-http://omega.ws:8080/monir/123456/10404
-#EXTINF:-1  group-title="Portugal",|PT| Globo Internacional
-http://omega.ws:8080/monir/123456/10408
-#EXTINF:-1  group-title="Portugal",|PT| PFC
-http://omega.ws:8080/monir/123456/10403
-#EXTINF:-1  group-title="Portugal",|PT| TPA INTERNACIONAL
-http://omega.ws:8080/monir/123456/10406
-#EXTINF:-1  group-title="Portugal",|PT| TV GLOBO PREMIUM
-http://omega.ws:8080/monir/123456/10407
+#EXTINF:-1 group-title="Portugal, "PT: 24 KITCHEN HD
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86814
+#EXTINF:-1 group-title="Portugal, "PT: ABola TV
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86813
+#EXTINF:-1 group-title="Portugal, "PT: AE
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86812
+#EXTINF:-1 group-title="Portugal, "PT: Afro Music
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86807
+#EXTINF:-1 group-title="Portugal, "PT: AMC
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86811
+#EXTINF:-1 group-title="Portugal, "PT: AXN BLACK HD
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86810
+#EXTINF:-1 group-title="Portugal, "PT: AXN HD
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86809
+#EXTINF:-1 group-title="Portugal, "PT: AXN WHITE HD
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86808
+#EXTINF:-1 group-title="Portugal, "PT: Baby First
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86805
+#EXTINF:-1 group-title="Portugal, "PT: Biggs
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86804
+#EXTINF:-1 group-title="Portugal, "PT: BTV 1 HD
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86806
+#EXTINF:-1 group-title="Portugal, "PT: Canal NOS
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86800
+#EXTINF:-1 group-title="Portugal, "PT: Canal Panda
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86799
+#EXTINF:-1 group-title="Portugal, "PT: Canal Q
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86798
+#EXTINF:-1 group-title="Portugal, "PT: Cartoon Network Portugal
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86797
+#EXTINF:-1 group-title="Portugal, "PT: caza pesca
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86722
+#EXTINF:-1 group-title="Portugal, "PT: CBS Reality
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86803
+#EXTINF:-1 group-title="Portugal, "PT: CINEMUNDO
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86802
+#EXTINF:-1 group-title="Portugal, "PT: CMTV
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86801
+#EXTINF:-1 group-title="Portugal, "PT: Discovery
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86796
+#EXTINF:-1 group-title="Portugal, "PT: Discovery Channel
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86795
+#EXTINF:-1 group-title="Portugal, "PT: Disney Channel
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86794
+#EXTINF:-1 group-title="Portugal, "PT: Disney Junior
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86793
+#EXTINF:-1 group-title="Portugal, "PT: E Entertainment
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86792
+#EXTINF:-1 group-title="Portugal, "PT: EMC
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86791
+#EXTINF:-1 group-title="Portugal, "PT: Euronews
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86789
+#EXTINF:-1 group-title="Portugal, "PT: EUROSPORT 1 HD
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86790
+#EXTINF:-1 group-title="Portugal, "PT: Eurosport News
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86788
+#EXTINF:-1 group-title="Portugal, "PT: FOX Comedy
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86786
+#EXTINF:-1 group-title="Portugal, "PT: FOX CRIME HD
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86787
+#EXTINF:-1 group-title="Portugal, "PT: FOX LIFE HD
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86785
+#EXTINF:-1 group-title="Portugal, "PT: FOX Movies
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86784
+#EXTINF:-1 group-title="Portugal, "PT: FOX News
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86783
+#EXTINF:-1 group-title="Portugal, "PT: FTV
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86782
+#EXTINF:-1 group-title="Portugal, "PT: Fuel TV
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86781
+#EXTINF:-1 group-title="Portugal, "PT: GLOBO PREMIUM
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86780
+#EXTINF:-1 group-title="Portugal, "PT: Historia
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86778
+#EXTINF:-1 group-title="Portugal, "PT: HOLLYWOOD
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86779
+#EXTINF:-1 group-title="Portugal, "PT: Hot
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86777
+#EXTINF:-1 group-title="Portugal, "PT: JimJam
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86776
+#EXTINF:-1 group-title="Portugal, "PT: MCM Pop
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86775
+#EXTINF:-1 group-title="Portugal, "PT: MCS Extreme
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86774
+#EXTINF:-1 group-title="Portugal, "PT: Mezzo
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86772
+#EXTINF:-1 group-title="Portugal, "PT: Motor vision
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86771
+#EXTINF:-1 group-title="Portugal, "PT: MTV Portugal
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86773
+#EXTINF:-1 group-title="Portugal, "PT: Nat Geo Wild
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86768
+#EXTINF:-1 group-title="Portugal, "PT: NATIONAL GEOGRAPHIC HD
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86770
+#EXTINF:-1 group-title="Portugal, "PT: NBA TV
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86769
+#EXTINF:-1 group-title="Portugal, "PT: Nickelodeon
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86767
+#EXTINF:-1 group-title="Portugal, "PT: Nova
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86766
+#EXTINF:-1 group-title="Portugal, "PT: Odisseia
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86765
+#EXTINF:-1 group-title="Portugal, "PT: PFC
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86764
+#EXTINF:-1 group-title="Portugal, "PT: Porto Canal
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86763
+#EXTINF:-1 group-title="Portugal, "PT: Real Madrid TV
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86755
+#EXTINF:-1 group-title="Portugal, "PT: RTP 1
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86762
+#EXTINF:-1 group-title="Portugal, "PT: RTP 2
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86761
+#EXTINF:-1 group-title="Portugal, "PT: RTP 3
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86760
+#EXTINF:-1 group-title="Portugal, "PT: RTP Africa
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86759
+#EXTINF:-1 group-title="Portugal, "PT: RTP Alores
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86758
+#EXTINF:-1 group-title="Portugal, "PT: RTP MADEIRA
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86757
+#EXTINF:-1 group-title="Portugal, "PT: RTP MEMORIA
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86756
+#EXTINF:-1 group-title="Portugal, "PT: SIC
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86754
+#EXTINF:-1 group-title="Portugal, "PT: SIC CARAS
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86753
+#EXTINF:-1 group-title="Portugal, "PT: SIC K
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86752
+#EXTINF:-1 group-title="Portugal, "PT: SIC Mulher
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86751
+#EXTINF:-1 group-title="Portugal, "PT: SIC Notcias
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86750
+#EXTINF:-1 group-title="Portugal, "PT: SIC RADICAL
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86749
+#EXTINF:-1 group-title="Portugal, "PT: SPORT TV
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86748
+#EXTINF:-1 group-title="Portugal, "PT: SPORT TV 1 HD
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86747
+#EXTINF:-1 group-title="Portugal, "PT: SPORT TV 2 HD
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86746
+#EXTINF:-1 group-title="Portugal, "PT: SPORT TV 3 HD
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86745
+#EXTINF:-1 group-title="Portugal, "PT: Sporting TV
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86744
+#EXTINF:-1 group-title="Portugal, "PT: Syfy
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86743
+#EXTINF:-1 group-title="Portugal, "PT: TLC
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86742
+#EXTINF:-1 group-title="Portugal, "PT: Toros TV
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86727
+#EXTINF:-1 group-title="Portugal, "PT: Trace TV
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86726
+#EXTINF:-1 group-title="Portugal, "PT: TRAVEL CHANNEL
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86741
+#EXTINF:-1 group-title="Portugal, "PT: TV Galicia
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86740
+#EXTINF:-1 group-title="Portugal, "PT: TV SERIES
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86739
+#EXTINF:-1 group-title="Portugal, "PT: TVCINE 1 HD
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86738
+#EXTINF:-1 group-title="Portugal, "PT: TVCINE 2 HD
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86737
+#EXTINF:-1 group-title="Portugal, "PT: TVCINE 3 HD
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86736
+#EXTINF:-1 group-title="Portugal, "PT: TVCINE 4 HD
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86735
+#EXTINF:-1 group-title="Portugal, "PT: TVE 24h
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86734
+#EXTINF:-1 group-title="Portugal, "PT: TVE Internacional
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86733
+#EXTINF:-1 group-title="Portugal, "PT: TVI
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86732
+#EXTINF:-1 group-title="Portugal, "PT: TVI 24
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86731
+#EXTINF:-1 group-title="Portugal, "PT: TVI Ficlo
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86730
+#EXTINF:-1 group-title="Portugal, "PT: TVI Reality
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86729
+#EXTINF:-1 group-title="Portugal, "PT: TVSeries HD
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86728
+#EXTINF:-1 group-title="Portugal, "PT: Venus
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86723
+#EXTINF:-1 group-title="Portugal, "PT: VH1
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86725
+#EXTINF:-1 group-title="Portugal, "PT: VH1 Classic
+http://streamsmax.eu:8080/JAYKHANVOD/IIyrTwNovI/86724
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rukakolink/iptv/master/x2.ico" group-title="XXX",XXX
 http://fui.me
-#EXTINF:-1 group-title="XXX" group-title="XXX",XXX | BRAZZ 1 
-http://ecuaplaytv.com:8000/332/332/77101
-#EXTINF:-1 group-title="XXX" group-title="XXX",XXX | BRAZZ 2
-http://ecuaplaytv.com:8000/332/332/77100
-#EXTINF:-1 group-title="XXX",XXX | DUSK
-http://ecuaplaytv.com:8000/332/332/77099
-#EXTINF:-1 group-title="XXX",XXX | EROTIC 1 LA 1
-http://ecuaplaytv.com:8000/332/332/77098
-#EXTINF:-1 group-title="XXX",XXX | EROTIC 1 LA 2
-http://ecuaplaytv.com:8000/332/332/77097
-#EXTINF:-1 group-title="XXX",XXX | EROTIC 2 LA 1
-http://ecuaplaytv.com:8000/332/332/77096
-#EXTINF:-1 group-title="XXX",XXX | EROTIC 2 LA 2
-http://ecuaplaytv.com:8000/332/332/77095
-#EXTINF:-1 group-title="XXX",XXX | EROTIC 3 LA 1
-http://ecuaplaytv.com:8000/332/332/77094
-#EXTINF:-1 group-title="XXX",XXX | EROTIC 3 LA 2
-http://ecuaplaytv.com:8000/332/332/77093
-#EXTINF:-1 group-title="XXX",XXX | EROTIC 4 LA 1
-http://ecuaplaytv.com:8000/332/332/77092
-#EXTINF:-1 group-title="XXX",XXX | EROTIC 4 LA 2
-http://ecuaplaytv.com:8000/332/332/77091
-#EXTINF:-1 group-title="XXX",XXX | EROTIC 5 LA 1
-http://ecuaplaytv.com:8000/332/332/77090
-#EXTINF:-1 group-title="XXX",XXX | EROTIC 5 LA 2
-http://ecuaplaytv.com:8000/332/332/77089
-#EXTINF:-1 group-title="XXX",XXX | EROTIC 6 LA 1
-http://ecuaplaytv.com:8000/332/332/77088
-#EXTINF:-1 group-title="XXX",XXX | EROTIC 6 LA 2
-http://ecuaplaytv.com:8000/332/332/77087
-#EXTINF:-1 group-title="XXX",XXX | EROTIC 7 LA 1
-http://ecuaplaytv.com:8000/332/332/77086
-#EXTINF:-1 group-title="XXX",XXX | EROTIC 7 LA 2
-http://ecuaplaytv.com:8000/332/332/77085
-#EXTINF:-1 group-title="XXX",XXX | EROXX
-http://ecuaplaytv.com:8000/332/332/77084
-#EXTINF:-1 group-title="XXX",XXX | FUNDORADO
-http://ecuaplaytv.com:8000/332/332/77083
-#EXTINF:-1 group-title="XXX",XXX | HOT CLUB
-http://ecuaplaytv.com:8000/332/332/77082
-#EXTINF:-1 group-title="XXX",XXX | HOT LA 1
-http://ecuaplaytv.com:8000/332/332/77081
-#EXTINF:-1 group-title="XXX",XXX | HOT LA 2
-http://ecuaplaytv.com:8000/332/332/77080
-#EXTINF:-1 group-title="XXX",XXX | HUSTLER
-http://ecuaplaytv.com:8000/332/332/77079
-#EXTINF:-1 group-title="XXX",XXX | HUSTLER 1
-http://ecuaplaytv.com:8000/332/332/77078
-#EXTINF:-1 group-title="XXX",XXX | HUSTLER 2
-http://ecuaplaytv.com:8000/332/332/77077
-#EXTINF:-1 group-title="XXX",XXX | OLALA
-http://ecuaplaytv.com:8000/332/332/77076
-#EXTINF:-1 group-title="XXX",XXX | OLALA 1
-http://ecuaplaytv.com:8000/332/332/77075
-#EXTINF:-1 group-title="XXX",XXX | OLALA 2
-http://ecuaplaytv.com:8000/332/332/77074
-#EXTINF:-1 group-title="XXX",XXX | PASSIE
-http://ecuaplaytv.com:8000/332/332/77073
-#EXTINF:-1 group-title="XXX",XXX | PENTHOUSE GOLD
-http://ecuaplaytv.com:8000/332/332/77072
-#EXTINF:-1 group-title="XXX",XXX | PENTHOUSE HD
-http://ecuaplaytv.com:8000/332/332/77071
-#EXTINF:-1 group-title="XXX",XXX | PINKO LA 1
-http://ecuaplaytv.com:8000/332/332/77070
-#EXTINF:-1 group-title="XXX",XXX | PINKO LA 3
-http://ecuaplaytv.com:8000/332/332/77069
-#EXTINF:-1 group-title="XXX",XXX | PLAYBOY
-http://ecuaplaytv.com:8000/332/332/77068
-#EXTINF:-1 group-title="XXX",XXX | PRIVATE LA 1
-http://ecuaplaytv.com:8000/332/332/77067
-#EXTINF:-1 group-title="XXX",XXX | PRIVATE LA 2
-http://ecuaplaytv.com:8000/332/332/77066
-#EXTINF:-1 group-title="XXX",XXX | RED LIGHT HD
-http://ecuaplaytv.com:8000/332/332/77065
-#EXTINF:-1 group-title="XXX",XXX | SEXTREME LA 1
-http://ecuaplaytv.com:8000/332/332/77064
-#EXTINF:-1 group-title="XXX",XXX | SEXTREME LA 2
-http://ecuaplaytv.com:8000/332/332/77063
-#EXTINF:-1 group-title="XXX",XXX | SEXY HOT
-http://ecuaplaytv.com:8000/332/332/77062
-#EXTINF:-1 group-title="XXX",XXX | SEXY HOT LA 1
-http://ecuaplaytv.com:8000/332/332/77061
-#EXTINF:-1 group-title="XXX",XXX | SEXY HOT LA 2
-http://ecuaplaytv.com:8000/332/332/77060
-#EXTINF:-1 group-title="XXX",XXX | SIRINA
-http://ecuaplaytv.com:8000/332/332/77059
-#EXTINF:-1 group-title="XXX",XXX | VENUS
-http://ecuaplaytv.com:8000/332/332/77058
-#EXTINF:-1 group-title="XXX",XXX | VENUS LA 2
-http://ecuaplaytv.com:8000/332/332/77057
-#EXTINF:-1 group-title="XXX",XXX | VISIT XTV
-http://ecuaplaytv.com:8000/332/332/77056
+#EXTINF:-1 group-title="XXX"l,Videos :Adult 4K: VOD1
+http://clienteworld.com:8080/bela/123/4874
+#EXTINF:-1 group-title="XXX"l,Videos :Adult 4K: VOD10
+http://clienteworld.com:8080/bela/123/4873
+#EXTINF:-1 group-title="XXX"l,Videos :Adult 4K: VOD11
+http://clienteworld.com:8080/bela/123/4872
+#EXTINF:-1 group-title="XXX"l,Videos :Adult 4K: VOD2
+http://clienteworld.com:8080/bela/123/4871
+#EXTINF:-1 group-title="XXX"l,Videos :Adult 4K: VOD3
+http://clienteworld.com:8080/bela/123/4870
+#EXTINF:-1 group-title="XXX"l,Videos :Adult 4K: VOD4
+http://clienteworld.com:8080/bela/123/4869
+#EXTINF:-1 group-title="XXX"l,Videos :Adult 4K: VOD5
+http://clienteworld.com:8080/bela/123/4868
+#EXTINF:-1 group-title="XXX"l,Videos :Adult 4K: VOD7
+http://clienteworld.com:8080/bela/123/4866
+#EXTINF:-1 group-title="XXX"l,Videos :Adult 4K: VOD8
+http://clienteworld.com:8080/bela/123/4865
+#EXTINF:-1 group-title="XXX"l,Videos :Adult 4K: VOD9
+http://clienteworld.com:8080/bela/123/4864
+
+#EXTINF:-1,PORNO ESPAÑOL 1
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/41648
+#EXTINF:-1,PORNO ESPAÑOL 2
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/41649
+#EXTINF:-1,CULIONEROS  TETANGAS XXX
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/36269
+#EXTINF:-1,Balkan Erotic (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26722
+#EXTINF:-1,Bang U (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26723
+#EXTINF:-1,Bangerz HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26724
+#EXTINF:-1,Barely Legal (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26725
+#EXTINF:-1,Beate-Uhse.TV HD DE (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26801
+#EXTINF:-1,BLUE HUSTLER (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26726
+#EXTINF:-1,BRAZZERS TV (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26727
+#EXTINF:-1,BRAZZERS TV Europe (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26728
+#EXTINF:-1,BUNGA BUNGA X  (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26729
+#EXTINF:-1,Candyman Gay (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26717
+#EXTINF:-1,Dog House  XXX
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/36267
+#EXTINF:-1,Dorcel TV HD 1080 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26796
+#EXTINF:-1,Dorcel TV XXX HD 1080 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26794
+#EXTINF:-1,Dream Porn HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26779
+#EXTINF:-1,DUSK! (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26730
+#EXTINF:-1,Emanuelle HD ( 18)
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26787
+#EXTINF:-1,EROX HD  (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26789
+#EXTINF:-1,EROXXX  HD 1080 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26790
+#EXTINF:-1,EVIL ANGEL  HD 1080 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26799
+#EXTINF:-1,Extasy HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26732
+#EXTINF:-1,Extrem X (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26733
+#EXTINF:-1,Fast Boyz Gay (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26719
+#EXTINF:-1,Free X TV (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26734
+#EXTINF:-1,French Lover (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26735
+#EXTINF:-1,Hot Pleasure ( 18)
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26736
+#EXTINF:-1,HOT TV PT (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26738
+#EXTINF:-1,HUSTLER TV (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26739
+#EXTINF:-1,INTERNAL DATNATION  XXX
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/36265
+#EXTINF:-1,IRRESISTIBLE/VERONICAFASTEROVA
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/36266
+#EXTINF:-1,Leo TV (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26742
+#EXTINF:-1,Lesbian Affair HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26780
+#EXTINF:-1,Meiden Van Holland Hard (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26743
+#EXTINF:-1,Milf TV (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26744
+#EXTINF:-1,Net XXL (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26745
+#EXTINF:-1,NUART HD  (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26802
+#EXTINF:-1,O la la TV (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26746
+#EXTINF:-1,Oldtimer HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26768
+#EXTINF:-1,PASSIE XXX (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26747
+#EXTINF:-1,Passion XXX (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26748
+#EXTINF:-1,Penthouse Black (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26785
+#EXTINF:-1,Penthouse HD1 1080 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26792
+#EXTINF:-1,Penthouse HD2 1080 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26791
+#EXTINF:-1,PINK EROTIC 1 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26749
+#EXTINF:-1,PINK EROTIC 2 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26750
+#EXTINF:-1,PINK EROTIC 3  (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26751
+#EXTINF:-1,PINK EROTIC 4 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26752
+#EXTINF:-1,PINK EROTIC 5 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26753
+#EXTINF:-1,PINK EROTIC 6  (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26754
+#EXTINF:-1,PINK EROTIC 7 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26755
+#EXTINF:-1,PINK EROTIC 8 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26756
+#EXTINF:-1,PINK O TV (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26757
+#EXTINF:-1,Playboy Europe (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26759
+#EXTINF:-1,Playhouse  (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26760
+#EXTINF:-1,Prive TV (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26761
+#EXTINF:-1,Private TV HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/36263
+#EXTINF:-1,Prıvate TV HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26788
+#EXTINF:-1,Reality Kings XX (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26784
+#EXTINF:-1,Red XXX (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26762
+#EXTINF:-1,Robin Hood
+http://manumetall.eu:80/movie/eqnzmSkeGd/6jllpf6kju/23130.mkv
+#EXTINF:-1,Russian Night (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26763
+#EXTINF:-1,SCT  (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26764
+#EXTINF:-1,Secret Circle (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26765
+#EXTINF:-1,SESTO SENSO TV (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26766
+#EXTINF:-1,SEX ATION HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26767
+#EXTINF:-1,SEXTREME XXX (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26721
+#EXTINF:-1,SEXY HOT BR (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26720
+#EXTINF:-1,Stars  XXX HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26793
+#EXTINF:-1,SUPER ONE HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26800
+#EXTINF:-1,Taboo HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26769
+#EXTINF:-1,VENUS  TV (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26770
+#EXTINF:-1,VIVID RED HD 1080 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26786
+#EXTINF:-1,VIVID TV EUROPE (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26771
+#EXTINF:-1,X Bizarre (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26772
+#EXTINF:-1,X Desire (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26773
+#EXTINF:-1,X Dream TV (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26774
+#EXTINF:-1,X Dream TV 2 (18 )  Candy HD
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26775
+#EXTINF:-1,X-MO  Gay ( 18)
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26718
+#EXTINF:-1,X1 ( 18)
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26776
+#EXTINF:-1,XXL (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26778
+#EXTINF:-1,XY Max HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26781
+#EXTINF:-1,XY Mix HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26782
+#EXTINF:-1,XY Plus HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26783
+#EXTINF:-1,Zest TV (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26777
+#EXTINF:-1,ADULT | Brazzers TV HD (US)
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120781
+#EXTINF:-1,ADULT | CentoXcento HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120786
+#EXTINF:-1,ADULT | DORCEL HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120780
+#EXTINF:-1,ADULT | Dusk TV HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120773
+#EXTINF:-1,ADULT | Exotica TV HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120779
+#EXTINF:-1,ADULT | Hot Club 1 HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120760
+#EXTINF:-1,ADULT | Hot Club 10 HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120759
+#EXTINF:-1,ADULT | Hot Club 2 HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120758
+#EXTINF:-1,ADULT | Hot Club 3 HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120757
+#EXTINF:-1,ADULT | Hot Club 4 HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120756
+#EXTINF:-1,ADULT | Hot Club 5 HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120755
+#EXTINF:-1,ADULT | Hot Club 6 HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120754
+#EXTINF:-1,ADULT | Hot Club 7 HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120753
+#EXTINF:-1,ADULT | Hot Club 8 HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120752
+#EXTINF:-1,ADULT | Hot Club 9 HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120751
+#EXTINF:-1,ADULT | HOT HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120769
+#EXTINF:-1,ADULT | HUSTLER HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120768
+#EXTINF:-1,ADULT | Jasmin TV / Live Strip Club
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120782
+#EXTINF:-1,ADULT | Meiden Van Holland HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120767
+#EXTINF:-1,ADULT | Penthouse HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120766
+#EXTINF:-1,ADULT | Penthouse2 HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120765
+#EXTINF:-1,ADULT | PinkOTV HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120784
+#EXTINF:-1,ADULT | Playboy HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120764
+#EXTINF:-1,ADULT | Reality Kings TV HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120772
+#EXTINF:-1,ADULT | Redlight HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120763
+#EXTINF:-1,ADULT | SCT TV
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120787
+#EXTINF:-1,ADULT | Sexto Senso HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120778
+#EXTINF:-1,ADULT | SIRIN Hot 2 HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120777
+#EXTINF:-1,ADULT | SIRIN Hot HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120776
+#EXTINF:-1,ADULT | SuperOne HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120774
+#EXTINF:-1,ADULT | TaquillaXX (Eroxx) HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120761
+#EXTINF:-1,ADULT | Venus HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120783
+#EXTINF:-1,ADULT | XMUVI HD
+http://jokeriptv.online:1453/vedathc02/yeOEhDKSU4/120785
+#EXTINF:-1,PINK EROTIC 2
+http://cdn.miip.tv:80/juanc/1234/80
+#EXTINF:-1,PINK EROTIC 3
+http://cdn.miip.tv:80/juanc/1234/79
+#EXTINF:-1,PINK EROTIC 4
+http://cdn.miip.tv:80/juanc/1234/78
+#EXTINF:-1,PINK EROTIC 5
+http://cdn.miip.tv:80/juanc/1234/5845
+#EXTINF:-1,PINK EROTIC 6
+http://cdn.miip.tv:80/juanc/1234/5863
+#EXTINF:-1,PINK EROTIC 7
+http://cdn.miip.tv:80/juanc/1234/5864
+#EXTINF:-1,PINK EROTIC 8
+http://cdn.miip.tv:80/juanc/1234/5865
+#EXTINF:-1,PINK O TV.
+http://cdn.miip.tv:80/juanc/1234/3140
+#EXTINF:-1,PENTHOUSE HD 1
+http://cdn.miip.tv:80/juanc/1234/3276
+#EXTINF:-1,PENTHOUSE HD 2
+http://cdn.miip.tv:80/juanc/1234/3275
+#EXTINF:-1,PEPPA PIG 24/7
+http://cdn.miip.tv:80/juanc/1234/6247
+#EXTINF:-1,PORNO ESPAÑOL 1
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/41648
+#EXTINF:-1,PORNO ESPAÑOL 2
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/41649
+#EXTINF:-1,CULIONEROS  TETANGAS XXX
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/36269
+#EXTINF:-1,Balkan Erotic (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26722
+#EXTINF:-1,Bang U (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26723
+#EXTINF:-1,Bangerz HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26724
+#EXTINF:-1,Barely Legal (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26725
+#EXTINF:-1,Beate-Uhse.TV HD DE (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26801
+#EXTINF:-1,BLUE HUSTLER (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26726
+#EXTINF:-1,BRAZZERS TV (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26727
+#EXTINF:-1,BRAZZERS TV Europe (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26728
+#EXTINF:-1,BUNGA BUNGA X  (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26729
+#EXTINF:-1,Candyman Gay (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26717
+#EXTINF:-1,Dog House  XXX
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/36267
+#EXTINF:-1,Dorcel TV HD 1080 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26796
+#EXTINF:-1,Dorcel TV XXX HD 1080 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26794
+#EXTINF:-1,Dream Porn HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26779
+#EXTINF:-1,DUSK! (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26730
+#EXTINF:-1,Emanuelle HD ( 18)
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26787
+#EXTINF:-1,EROX HD  (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26789
+#EXTINF:-1,EROXXX  HD 1080 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26790
+#EXTINF:-1,EVIL ANGEL  HD 1080 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26799
+#EXTINF:-1,Extasy HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26732
+#EXTINF:-1,Extrem X (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26733
+#EXTINF:-1,Fast Boyz Gay (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26719
+#EXTINF:-1,Free X TV (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26734
+#EXTINF:-1,French Lover (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26735
+#EXTINF:-1,Hot Pleasure ( 18)
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26736
+#EXTINF:-1,HOT TV PT (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26738
+#EXTINF:-1,HUSTLER TV (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26739
+#EXTINF:-1,INTERNAL DATNATION  XXX
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/36265
+#EXTINF:-1,IRRESISTIBLE/VERONICAFASTEROVA
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/36266
+#EXTINF:-1,Leo TV (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26742
+#EXTINF:-1,Lesbian Affair HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26780
+#EXTINF:-1,Meiden Van Holland Hard (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26743
+#EXTINF:-1,Milf TV (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26744
+#EXTINF:-1,Net XXL (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26745
+#EXTINF:-1,NUART HD  (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26802
+#EXTINF:-1,O la la TV (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26746
+#EXTINF:-1,Oldtimer HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26768
+#EXTINF:-1,PASSIE XXX (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26747
+#EXTINF:-1,Passion XXX (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26748
+#EXTINF:-1,Penthouse Black (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26785
+#EXTINF:-1,Penthouse HD1 1080 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26792
+#EXTINF:-1,Penthouse HD2 1080 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26791
+#EXTINF:-1,PINK EROTIC 1 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26749
+#EXTINF:-1,PINK EROTIC 2 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26750
+#EXTINF:-1,PINK EROTIC 3  (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26751
+#EXTINF:-1,PINK EROTIC 4 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26752
+#EXTINF:-1,PINK EROTIC 5 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26753
+#EXTINF:-1,PINK EROTIC 6  (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26754
+#EXTINF:-1,PINK EROTIC 7 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26755
+#EXTINF:-1,PINK EROTIC 8 (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26756
+#EXTINF:-1,PINK O TV (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26757
+#EXTINF:-1,Playboy Europe (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26759
+#EXTINF:-1,Playhouse  (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26760
+#EXTINF:-1,Prive TV (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26761
+#EXTINF:-1,Private TV HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/36263
+#EXTINF:-1,Prıvate TV HD (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26788
+#EXTINF:-1,Reality Kings XX (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26784
+#EXTINF:-1,Red XXX (18 )
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/26762
+#EXTINF:-1,PORNO ESPAÑOL 1
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/41648
+#EXTINF:-1,PORNO ESPAÑOL 2
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/41649
+#EXTINF:-1,CULIONEROS  TETANGAS XXX
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/36269
+#EXTINF:-1,Balkan Erotic (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26722
+#EXTINF:-1,Bang U (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26723
+#EXTINF:-1,Bangerz HD (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26724
+#EXTINF:-1,Barely Legal (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26725
+#EXTINF:-1,Beate-Uhse.TV HD DE (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26801
+#EXTINF:-1,BLUE HUSTLER (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26726
+#EXTINF:-1,BRAZZERS TV (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26727
+#EXTINF:-1,BRAZZERS TV Europe (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26728
+#EXTINF:-1,BUNGA BUNGA X  (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26729
+#EXTINF:-1,Candyman Gay (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26717
+#EXTINF:-1,Dog House  XXX
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/36267
+#EXTINF:-1,Dorcel TV HD 1080 (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26796
+#EXTINF:-1,Dorcel TV XXX HD 1080 (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26794
+#EXTINF:-1,Dream Porn HD (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26779
+#EXTINF:-1,DUSK! (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26730
+#EXTINF:-1,Emanuelle HD ( 18)
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26787
+#EXTINF:-1,EROX HD  (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26789
+#EXTINF:-1,EROXXX  HD 1080 (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26790
+#EXTINF:-1,EVIL ANGEL  HD 1080 (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26799
+#EXTINF:-1,Extasy HD (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26732
+#EXTINF:-1,Extrem X (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26733
+#EXTINF:-1,Fast Boyz Gay (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26719
+#EXTINF:-1,Free X TV (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26734
+#EXTINF:-1,French Lover (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26735
+#EXTINF:-1,Hot Pleasure ( 18)
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26736
+#EXTINF:-1,HOT TV PT (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26738
+#EXTINF:-1,HUSTLER TV (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26739
+#EXTINF:-1,INTERNAL DATNATION  XXX
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/36265
+#EXTINF:-1,IRRESISTIBLE/VERONICAFASTEROVA
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/36266
+#EXTINF:-1,Leo TV (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26742
+#EXTINF:-1,Lesbian Affair HD (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26780
+#EXTINF:-1,Meiden Van Holland Hard (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26743
+#EXTINF:-1,Milf TV (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26744
+#EXTINF:-1,Net XXL (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26745
+#EXTINF:-1,NUART HD  (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26802
+#EXTINF:-1,O la la TV (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26746
+#EXTINF:-1,Oldtimer HD (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26768
+#EXTINF:-1,PASSIE XXX (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26747
+#EXTINF:-1,Passion XXX (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26748
+#EXTINF:-1,Penthouse Black (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26785
+#EXTINF:-1,Penthouse HD1 1080 (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26792
+#EXTINF:-1,Penthouse HD2 1080 (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26791
+#EXTINF:-1,PINK EROTIC 1 (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26749
+#EXTINF:-1,PINK EROTIC 2 (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26750
+#EXTINF:-1,PINK EROTIC 3  (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26751
+#EXTINF:-1,PINK EROTIC 4 (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26752
+#EXTINF:-1,PINK EROTIC 5 (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26753
+#EXTINF:-1,PINK EROTIC 6  (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26754
+#EXTINF:-1,PINK EROTIC 7 (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26755
+#EXTINF:-1,PINK EROTIC 8 (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26756
+#EXTINF:-1,PINK O TV (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26757
+#EXTINF:-1,Playboy Europe (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26759
+#EXTINF:-1,Playhouse  (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26760
+#EXTINF:-1,Prive TV (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26761
+#EXTINF:-1,Private TV HD (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/36263
+#EXTINF:-1,Prıvate TV HD (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26788
+#EXTINF:-1,Reality Kings XX (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26784
+#EXTINF:-1,Red XXX (18 )
+http://wolftm.in:80/eqnzmSkeGd/6jllpf6kju/26762
+#EXTM3U
+#EXTINF:1350,XXX Nicole Aniston
+http://bit.ly/2KssqjC
+#EXTINF:4511,ADULT
+https://tinyurl.com/y3oma2m6
+#EXTINF:4202,ADULT
+https://tinyurl.com/y3b9kl7z
+#EXTINF:0,ADULT
+http://bit.ly/2MGLSM6
+#EXTINF:0,ADULT
+http://bit.ly/2Z7f2Hw
+#EXTINF:0,ADULT
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/84251
+#EXTINF:0,ADULT
+http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57734
+#EXTINF:0,ADULT
+http://142.44.213.119:8000/live/Albertoprado/Albertoprado/1564.ts
+#EXTINF:0,ADULT
+http://mediaptv1.zuneserver.com:8000/4hj34hu34ih3/sdf43fw32p34e54/61
+#EXTINF:2374,ADULT
+https://tinyurl.com/y6jjfa3h
+#EXTINF:2166,ADULT
+https://tinyurl.com/yymlee5c
+#EXTINF:5331,ADULT
+https://tinyurl.com/yxgaesot
+#EXTINF:8975,ADULT
+https://tinyurl.com/y5mmw8ze
+#EXTINF:5443,ADULT
+https://tinyurl.com/yxej82pl
+#EXTINF:4832,ADULT
+https://tinyurl.com/y6po6tp6
+#EXTINF:6233,ADULT
+https://tinyurl.com/y3vv4jz7
+#EXTINF:636,ADULT
+https://tinyurl.com/y4djat33
+#EXTINF:4398,ADULT
+https://tinyurl.com/y3uwn4nu
+#EXTINF:714,ADULT
+https://tinyurl.com/y5tvlvm6
+#EXTINF:2307,XXX Nicole Aniston
+https://tinyurl.com/yylyp96a
+#EXTINF:2447,XXX Nicole Aniston
+https://tinyurl.com/y53y37f7
+#EXTINF:5956,ADULT
+https://tinyurl.com/yxj675w4
+#EXTINF:3932,ADULT
+https://tinyurl.com/yysdmwct
+#EXTINF:0,ADULT
+http://thenew.tv:8000/3155002232/4411231/80367
+#EXTINF:0,ADULT
+http://cdn.miip.tv:80/Damian/123456/3278
+#EXTINF:0,ADULT
+http://cdn.miip.tv:80/Damian/123456/3273
+#EXTINF:0,ADULT
+http://cdn.miip.tv:80/Damian/123456/3273
+#EXTINF:0,ADULT
+http://everest.servegame.com:8000/rafael/rafael/47460
+#EXTINF:0,ADULT
+http://cdn.miip.tv:80/Damian/123456/3278
