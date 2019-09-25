@@ -1,860 +1,2240 @@
 #EXTM3U 
-#EXTINF: -1 group-title="Portugal_01", PT: SPORT TV 2 HD(1)
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/159
-#EXTINF: -1 group-title="Portugal_01", PT:SPORT TV 1 HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/160
-#EXTINF: -1 group-title="Portugal_01", PT: VH1 CLASSIC
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4293
-#EXTINF: -1 group-title="Portugal_01", PT: VH1
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3945
-#EXTINF: -1 group-title="Portugal_01", PT: TVI Reality (A Quinta)
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3946
-#EXTINF: -1 group-title="Portugal_01", PT: TVI REALITY
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3974
-#EXTINF: -1 group-title="Portugal_01", PT: TVI 24
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3947
-#EXTINF: -1 group-title="Portugal_01", PT: TVI
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3948
-#EXTINF: -1 group-title="Portugal_01", PT: TVCseries
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3949
-#EXTINF: -1 group-title="Portugal_01", PT: TVC HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4294
-#EXTINF: -1 group-title="Portugal_01", PT: TV RECORD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3950
-#EXTINF: -1 group-title="Portugal_01", PT: TV Globo Premium
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3951
-#EXTINF: -1 group-title="Portugal_01", PT: TV GLOBO
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3952
-#EXTINF: -1 group-title="Portugal_01", PT: TV CINE 4
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3990
-#EXTINF: -1 group-title="Portugal_01", PT: TV CINE 3 HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3989
-#EXTINF: -1 group-title="Portugal_01", PT: TV CINE 2  HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3988
-#EXTINF: -1 group-title="Portugal_01", PT: TV CINE 1  HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3987
-#EXTINF: -1 group-title="Portugal_01", PT: TOUROS TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3953
-#EXTINF: -1 group-title="Portugal_01", PT: TLC
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3954
-#EXTINF: -1 group-title="Portugal_01", PT: SYFY
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3933
-#EXTINF: -1 group-title="Portugal_01", PT: SPORTING TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3991
-#EXTINF: -1 group-title="Portugal_01", PT: SPORT TV 5HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/2496
-#EXTINF: -1 group-title="Portugal_01", PT: SPORT TV 5
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3997
-#EXTINF: -1 group-title="Portugal_01", PT: SPORT TV 4HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/2495
-#EXTINF: -1 group-title="Portugal_01", PT: SPORT TV 4
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3995
-#EXTINF: -1 group-title="Portugal_01", PT: SPORT TV 3 HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3994
-#EXTINF: -1 group-title="Portugal_01", PT: SPORT TV 2 HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3993
-#EXTINF: -1 group-title="Portugal_01", PT: SPORT TV 1 HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3992
-#EXTINF: -1 group-title="Portugal_01", PT: SIC RADICAL
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3934
-#EXTINF: -1 group-title="Portugal_01", PT: SIC NOTICIAS
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3935
-#EXTINF: -1 group-title="Portugal_01", PT: SIC MULHER
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3955
-#EXTINF: -1 group-title="Portugal_01", PT: Sic
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3998
-#EXTINF: -1 group-title="Portugal_01", PT: RTP MEMÓRIA
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3956
-#EXTINF: -1 group-title="Portugal_01", PT: RTP ÁFRICA
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3957
-#EXTINF: -1 group-title="Portugal_01", PT: RTP AÇORES
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3958
-#EXTINF: -1 group-title="Portugal_01", PT: RTP 3
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3986
-#EXTINF: -1 group-title="Portugal_01", PT: RTP 2
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3999
-#EXTINF: -1 group-title="Portugal_01", PT: RTP 1
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4000
-#EXTINF: -1 group-title="Portugal_01", PT: PORTO CANAL
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3936
-#EXTINF: -1 group-title="Portugal_01", PT: PFC
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3959
-#EXTINF: -1 group-title="Portugal_01", PT: ODISSEIA
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3960
-#EXTINF: -1 group-title="Portugal_01", PT: NICKELODEON
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3961
-#EXTINF: -1 group-title="Portugal_01", PT: Nat Geo Wild
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3962
-#EXTINF: -1 group-title="Portugal_01", PT: NATIONAL GEOGRAPHIC
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3963
-#EXTINF: -1 group-title="Portugal_01", PT: MTV PORTUGAL
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4295
-#EXTINF: -1 group-title="Portugal_01", PT: Mtv Portuga
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3941
-#EXTINF: -1 group-title="Portugal_01", PT: MOV HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4001
-#EXTINF: -1 group-title="Portugal_01", PT: MOTORVISION TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/934
-#EXTINF: -1 group-title="Portugal_01", PT: MOTORVISION
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4296
-#EXTINF: -1 group-title="Portugal_01", PT: MOTORS TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3964
-#EXTINF: -1 group-title="Portugal_01", PT: JIM JAM
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4297
-#EXTINF: -1 group-title="Portugal_01", PT: HOLLYWOOD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3937
-#EXTINF: -1 group-title="Portugal_01", PT: GLOBO
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4298
-#EXTINF: -1 group-title="Portugal_01", PT: FUEL TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4299
-#EXTINF: -1 group-title="Portugal_01", PT: FOX TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3938
-#EXTINF: -1 group-title="Portugal_01", PT: FOX MOVIES
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3996
-#EXTINF: -1 group-title="Portugal_01", PT: FOX LIFE
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3939
-#EXTINF: -1 group-title="Portugal_01", PT: FOX CRIME
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3940
-#EXTINF: -1 group-title="Portugal_01", PT: Fox Comedy
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3965
-#EXTINF: -1 group-title="Portugal_01", PT: EUROSPORT
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3942
-#EXTINF: -1 group-title="Portugal_01", PT: E! Entertainment
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3966
-#EXTINF: -1 group-title="Portugal_01", PT: DISNEY JUNIOR
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3967
-#EXTINF: -1 group-title="Portugal_01", PT: DISNEY CHANNEL
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3968
-#EXTINF: -1 group-title="Portugal_01", PT: Discovery HD Showcase
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3969
-#EXTINF: -1 group-title="Portugal_01", PT: DISCOVERY CHANNEL
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3970
-#EXTINF: -1 group-title="Portugal_01", PT: CM TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3971
-#EXTINF: -1 group-title="Portugal_01", PT: CINEMUNDO
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3972
-#EXTINF: -1 group-title="Portugal_01", PT: CBS REALITY
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4300
-#EXTINF: -1 group-title="Portugal_01", PT: CARTOON  NETWORK
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4301
-#EXTINF: -1 group-title="Portugal_01", PT: CANAL Q
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3975
-#EXTINF: -1 group-title="Portugal_01", PT: CANAL PANDA
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3976
-#EXTINF: -1 group-title="Portugal_01", PT: CANAL HISTÓRIA
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3977
-#EXTINF: -1 group-title="Portugal_01", PT: CAÇA & PESCA
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3978
-#EXTINF: -1 group-title="Portugal_01", PT: BENFICA TV 2
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3943
-#EXTINF: -1 group-title="Portugal_01", PT: BENFICA TV 1
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3944
-#EXTINF: -1 group-title="Portugal_01", PT: BABY TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3979
-#EXTINF: -1 group-title="Portugal_01", PT: AXN WHITE
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3984
-#EXTINF: -1 group-title="Portugal_01", PT: AXN
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3985
-#EXTINF: -1 group-title="Portugal_01", PT: AMC
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3980
-#EXTINF: -1 group-title="Portugal_01", PT: A BOLA TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3981
-#EXTINF: -1 group-title="Portugal_01", PT: A & E
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3982
-#EXTINF: -1 group-title="Portugal_01", PT: 24 KITCHEN
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3983
-#EXTINF: -1 group-title="Portugal_01", PT:  Historia
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4302
-#EXTINF: -1 group-title="Portugal_01", PT:  Fox Crime
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4303
-#EXTINF: -1 group-title="Portugal_01", PT: RTP MADEIRA
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/6622
-#EXTINF: -1 group-title="Portugal_01", PT: AMC HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7034
-#EXTINF: -1 group-title="Portugal_01", PT: AXN BLACK HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7031
-#EXTINF: -1 group-title="Portugal_01", PT: AXN HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7033
-#EXTINF: -1 group-title="Portugal_01", PT: AXN WHITE HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7032
-#EXTINF: -1 group-title="Portugal_01", PT: BTV 1 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7039
-#EXTINF: -1 group-title="Portugal_01", PT: EUROSPORT 1 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7047
-#EXTINF: -1 group-title="Portugal_01", PT: FIGHT NETWORK HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7046
-#EXTINF: -1 group-title="Portugal_01", PT: FOX Comedy HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7027
-#EXTINF: -1 group-title="Portugal_01", PT: FOX CRIME HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7028
-#EXTINF: -1 group-title="Portugal_01", PT: FOX HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7030
-#EXTINF: -1 group-title="Portugal_01", PT: FOX LIFE HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7029
-#EXTINF: -1 group-title="Portugal_01", PT: FUEL TV HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7045
-#EXTINF: -1 group-title="Portugal_01", PT: SIC NOTICIAS HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7053
-#EXTINF: -1 group-title="Portugal_01", PT: SIC RADICAL HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7052
-#EXTINF: -1 group-title="Portugal_01", PT: SPORT TV+
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7050
-#EXTINF: -1 group-title="Portugal_01", PT: SPORT TV+  HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7051
-#EXTINF: -1 group-title="Portugal_01", PT: SPORT TV 1 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7049
-#EXTINF: -1 group-title="Portugal_01", PT: SPORT TV 2 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7043
-#EXTINF: -1 group-title="Portugal_01", PT: SPORT TV 3 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7042
-#EXTINF: -1 group-title="Portugal_01", PT: SPORT TV 4 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7041
-#EXTINF: -1 group-title="Portugal_01", PT: SPORT TV 5 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7040
-#EXTINF: -1 group-title="Portugal_01", PT: Sporting TV HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7048
-#EXTINF: -1 group-title="Portugal_01", PT: SyFy HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7026
-#EXTINF: -1 group-title="Portugal_01", PT: TVCINE 1 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7038
-#EXTINF: -1 group-title="Portugal_01", PT: TVCINE 2 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7037
-#EXTINF: -1 group-title="Portugal_01", PT: TVCINE 3 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7036
-#EXTINF: -1 group-title="Portugal_01", PT: TVCINE 4 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7035
-#EXTINF: -1 group-title="Portugal_01", PT: SPORT TV 3HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/158
-#EXTINF: -1 group-title="Portugal_01", PT: Eurosport new
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/28
-#EXTINF: -1 group-title="Portugal_01", PT: Eurosport 1
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/27
-#EXTINF: -1 group-title="Portugal_01", PT: DISCOVERY HD 1080 SHOWCASE
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7722
-#EXTINF: -1 group-title="Portugal_01", PT: FASHION TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7720
-#EXTINF: -1 group-title="Portugal_01", PT: Fine Living Network HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7719
-#EXTINF: -1 group-title="Portugal_01", PT: FOX Movies HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7726
-#EXTINF: -1 group-title="Portugal_01", PT: HOLLYWOOD HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7728
-#EXTINF: -1 group-title="Portugal_01", PT: MOV HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7729
-#EXTINF: -1 group-title="Portugal_01", PT: Nat Geo Wild HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7723
-#EXTINF: -1 group-title="Portugal_01", PT: NATIONAL GEOGRAPHIC HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7724
-#EXTINF: -1 group-title="Portugal_01", PT: Outdoor Channel HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7721
-#EXTINF: -1 group-title="Portugal_01", PT: SPORT TV  HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7731
-#EXTINF: -1 group-title="Portugal_01", PT: SUNDANCE HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7727
-#EXTINF: -1 group-title="Portugal_01", PT: TRAVEL CHANNEL HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7725
-#EXTINF: -1 group-title="Portugal_01", PT: Panda Biggs
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/8526
-#EXTINF: -1 group-title="Portugal_01", PT: TVI Fic
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16144
-#EXTINF: -1 group-title="Portugal_01", PT: TVI FHD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16181
-#EXTINF: -1 group-title="Portugal_01", PT: Benfica TV 1 backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16731
-#EXTINF: -1 group-title="Portugal_01", PT: Sport TV  backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16742
-#EXTINF: -1 group-title="Portugal_01", PT: Sport TV 1 backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16741
-#EXTINF: -1 group-title="Portugal_01", PT: Sport TV 1 HD backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16740
-#EXTINF: -1 group-title="Portugal_01", PT: Sport TV 2 backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16739
-#EXTINF: -1 group-title="Portugal_01", PT: Sport TV 2 HD backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16738
-#EXTINF: -1 group-title="Portugal_01", PT: Sport TV 3 backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16737
-#EXTINF: -1 group-title="Portugal_01", PT: Sport TV 3 HD backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16736
-#EXTINF: -1 group-title="Portugal_01", PT: Sport TV 4 backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16735
-#EXTINF: -1 group-title="Portugal_01", PT: Sport TV 4 HD backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16734
-#EXTINF: -1 group-title="Portugal_01", PT: Sport TV 5 backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16733
-#EXTINF: -1 group-title="Portugal_01", PT: Sport TV 5 HD backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16732
-#EXTINF: -1 group-title="Portugal_01", PT: ARTV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/17079
-#EXTINF: -1 group-title="Portugal_01", PT: CAçAVISION
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/17491
-#EXTINF: -1 group-title="Portugal_01", PT: Abola TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/26868
-#EXTINF: -1 group-title="Portugal_01", PT: Afro Music
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/26601
-#EXTINF: -1 group-title="Portugal_01", PT: Baby First
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19204
-#EXTINF: -1 group-title="Portugal_01", PT: C MUSIC
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19202
-#EXTINF: -1 group-title="Portugal_01", PT: CLUBBING TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19203
-#EXTINF: -1 group-title="Portugal_01", PT: DOG TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19198
-#EXTINF: -1 group-title="Portugal_01", PT: EUROSPORT 2
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19205
-#EXTINF: -1 group-title="Portugal_01", PT: MCS EXTREME
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19200
-#EXTINF: -1 group-title="Portugal_01", PT: TV GALICIA
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19197
-#EXTINF: -1 group-title="Portugal_01", PT: TVI REALITY CAMARA 1
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19206
-#EXTINF: -1 group-title="Portugal_01", PT: TVI REALITY CAMARA 3
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19208
-#EXTINF: -1 group-title="Portugal_01", PT: TVI REALITY CAMARA 4
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19209
-#EXTINF: -1 group-title="Portugal_01", PT: SIC Caras
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/31557
-#EXTINF: -1 group-title="Portugal_02", PT-Sport_TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6106
-#EXTINF: -1 group-title="Portugal_02", PT-Sport_TV_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6105
-#EXTINF: -1 group-title="Portugal_02", PT-Sport_TV_1
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6104
-#EXTINF: -1 group-title="Portugal_02", PT-Sport_TV_1_FHD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6100
-#EXTINF: -1 group-title="Portugal_02", PT-Sport_TV_1_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6103
-#EXTINF: -1 group-title="Portugal_02", PT-Sport_TV_2
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6099
-#EXTINF: -1 group-title="Portugal_02", PT-Sport_TV_2_FHD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6096
-#EXTINF: -1 group-title="Portugal_02", PT-Sport_TV_2_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6098
-#EXTINF: -1 group-title="Portugal_02", PT-Sport_TV_3_FHD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6093
-#EXTINF: -1 group-title="Portugal_02", PT-Sport_TV_3
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6095
-#EXTINF: -1 group-title="Portugal_02", PT-Sport_TV_3_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6094
-#EXTINF: -1 group-title="Portugal_02", PT-Sport_TV_4_FHD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6090
-#EXTINF: -1 group-title="Portugal_02", PT-Sport_TV_4
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6092
-#EXTINF: -1 group-title="Portugal_02", PT-Sport_TV_4_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6091
-#EXTINF: -1 group-title="Portugal_02", PT-Sport_TV_5
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6089
-#EXTINF: -1 group-title="Portugal_02", PT-Sport_TV_5_FHD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6086
-#EXTINF: -1 group-title="Portugal_02", PT-Sport_TV_5_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6088
-#EXTINF: -1 group-title="Portugal_02", PT-Sporting_TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6078
-#EXTINF: -1 group-title="Portugal_02", PT-Sporting_TV_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6077
-#EXTINF: -1 group-title="Portugal_02", PT-TV_Globo
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2169
-#EXTINF: -1 group-title="Portugal_02", PT-Globo_now
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6016
-#EXTINF: -1 group-title="Portugal_02", PT-Globo_Premium
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6015
-#EXTINF: -1 group-title="Portugal_02", PT-RTP_1
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2173
-#EXTINF: -1 group-title="Portugal_02", PT-RTP_2
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2172
-#EXTINF: -1 group-title="Portugal_02", PT-RTP_3 HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6127
-#EXTINF: -1 group-title="Portugal_02", PT-RTP_1_FHD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6131
-#EXTINF: -1 group-title="Portugal_02", PT-RTP_2_FHD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6130
-#EXTINF: -1 group-title="Portugal_02", PT-RTP_A
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6117
-#EXTINF: -1 group-title="Portugal_02", PT-RTP_Africa
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6116
-#EXTINF: -1 group-title="Portugal_02", PT-RTP_Madeira
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6118
-#EXTINF: -1 group-title="Portugal_02", PT-SIC
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5606
-#EXTINF: -1 group-title="Portugal_02", PT-SIC_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6129
-#EXTINF: -1 group-title="Portugal_02", PT-SIC_Radical_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6058
-#EXTINF: -1 group-title="Portugal_02", PT-Sic_Radical
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3405
-#EXTINF: -1 group-title="Portugal_02", PT-Sic_Mulher
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3406
-#EXTINF: -1 group-title="Portugal_02", PT-SIC Noticias
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5966
-#EXTINF: -1 group-title="Portugal_02", PT-Record
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3408
-#EXTINF: -1 group-title="Portugal_02", PT-REDE TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6012
-#EXTINF: -1 group-title="Portugal_02", PT-Benfica TV HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6014
-#EXTINF: -1 group-title="Portugal_02", PT-TV_Record_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6013
-#EXTINF: -1 group-title="Portugal_02", PT-TVCine1
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2168
-#EXTINF: -1 group-title="Portugal_02", PT-TVCine2
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2167
-#EXTINF: -1 group-title="Portugal_02", PT-TVCine3
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2166
-#EXTINF: -1 group-title="Portugal_02", PT-TVCine4
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5699
-#EXTINF: -1 group-title="Portugal_02", PT-TVCine_1_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6053
-#EXTINF: -1 group-title="Portugal_02", PT-TVCine_2_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6052
-#EXTINF: -1 group-title="Portugal_02", PT-TVCine_3_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6051
-#EXTINF: -1 group-title="Portugal_02", PT-TVCine_4_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6049
-#EXTINF: -1 group-title="Portugal_02", PT-TVSeries_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6048
-#EXTINF: -1 group-title="Portugal_02", PT-TVE_24_Horas
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6029
-#EXTINF: -1 group-title="Portugal_02", PT-TVE_Internacional
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6028
-#EXTINF: -1 group-title="Portugal_02", PT-TVI_24
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6126
-#EXTINF: -1 group-title="Portugal_02", PT-TVI_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6128
-#EXTINF: -1 group-title="Portugal_02", PT-TVI_Reality
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6123
-#EXTINF: -1 group-title="Portugal_02", PT-TVI_Reality_Mosaico
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6122
-#EXTINF: -1 group-title="Portugal_02", PT-24_Kitchen_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6027
-#EXTINF: -1 group-title="Portugal_02", PT-A_Bola_TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6075
-#EXTINF: -1 group-title="Portugal_02", PT-JIMJAM
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5607
-#EXTINF: -1 group-title="Portugal_02", PT-A&E
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6026
-#EXTINF: -1 group-title="Portugal_02", PT-Afro_Music_Channel
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6000
-#EXTINF: -1 group-title="Portugal_02", PT-AMC
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6032
-#EXTINF: -1 group-title="Portugal_02", PT-AMC_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6033
-#EXTINF: -1 group-title="Portugal_02", PT-AXN_Black_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6037
-#EXTINF: -1 group-title="Portugal_02", PT-AXN_HD_(F)
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6040
-#EXTINF: -1 group-title="Portugal_02", PT-AXN_White_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6039
-#EXTINF: -1 group-title="Portugal_02", PT-Blaze
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6038
-#EXTINF: -1 group-title="Portugal_02", PT-SIC_K
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6057
-#EXTINF: -1 group-title="Portugal_02", PT-Baby_TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6056
-#EXTINF: -1 group-title="Portugal_02", PT-Cartoon_Network
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6061
-#EXTINF: -1 group-title="Portugal_02", PT-Sic kids
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5989
-#EXTINF: -1 group-title="Portugal_02", PT-CBS_R
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6020
-#EXTINF: -1 group-title="Portugal_02", PT-Trace Urban TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6113
-#EXTINF: -1 group-title="Portugal_02", PT-PANDA Biggs
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6059
-#EXTINF: -1 group-title="Portugal_02", PT-Bloomberg
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6109
-#EXTINF: -1 group-title="Portugal_02", PT-BTV_1
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6085
-#EXTINF: -1 group-title="Portugal_02", PT-BTV_1_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6083
-#EXTINF: -1 group-title="Portugal_02", PT-Canal_Panda
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6060
-#EXTINF: -1 group-title="Portugal_02", PT-Canal Odisseia
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6119
-#EXTINF: -1 group-title="Portugal_02", PT-Caza_e_Pesca
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5988
-#EXTINF: -1 group-title="Portugal_02", PT-CBS_Reality
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6111
-#EXTINF: -1 group-title="Portugal_02", PT-FORCES_TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6073
-#EXTINF: -1 group-title="Portugal_02", PT-Cinemundo
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6045
-#EXTINF: -1 group-title="Portugal_02", PT-CMTV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6125
-#EXTINF: -1 group-title="Portugal_02", PT-Fox_Movies
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2170
-#EXTINF: -1 group-title="Portugal_02", PT-SIC_Caras
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2171
-#EXTINF: -1 group-title="Portugal_02", PT-Fox_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2175
-#EXTINF: -1 group-title="Portugal_02", PT-Fox_Crime
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2176
-#EXTINF: -1 group-title="Portugal_02", PT-Fox_Comedy
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2177
-#EXTINF: -1 group-title="Portugal_02", PT-Disney_Junior
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2178
-#EXTINF: -1 group-title="Portugal_02", PT-Disney_Channel
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2179
-#EXTINF: -1 group-title="Portugal_02", PT-TVI
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5702
-#EXTINF: -1 group-title="Portugal_02", PT-TVI_Ficcao
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3402
-#EXTINF: -1 group-title="Portugal_02", PT-TV_Cseries
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3403
-#EXTINF: -1 group-title="Portugal_02", PT-BTV HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5700
-#EXTINF: -1 group-title="Portugal_02", PT-CMTV FHD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5701
-#EXTINF: -1 group-title="Portugal_02", PT-Travel Channel HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5698
-#EXTINF: -1 group-title="Portugal_02", PT-Toros_tv
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3404
-#EXTINF: -1 group-title="Portugal_02", PT-RTP_Memoria
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3407
-#EXTINF: -1 group-title="Portugal_02", PT-Motors_TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3409
-#EXTINF: -1 group-title="Portugal_02", PT-Jim_Jim
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3410
-#EXTINF: -1 group-title="Portugal_02", PT-Nat Geo Wild
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5608
-#EXTINF: -1 group-title="Portugal_02", PT-Discovery_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3411
-#EXTINF: -1 group-title="Portugal_02", PT-Canal_Porto
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3412
-#EXTINF: -1 group-title="Portugal_02", PT-AXN_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3413
-#EXTINF: -1 group-title="Portugal_02", PT-Abola_tv
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3414
-#EXTINF: -1 group-title="Portugal_02", PT-Crime_Investigation_CI
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6031
-#EXTINF: -1 group-title="Portugal_02", PT-Discovery_Channel
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5999
-#EXTINF: -1 group-title="Portugal_02", PT-Discovery_Showcase_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5998
-#EXTINF: -1 group-title="Portugal_02", PT-MOV HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6120
-#EXTINF: -1 group-title="Portugal_02", PT-E!_Entertainment
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6024
-#EXTINF: -1 group-title="Portugal_02", PT-Eurosport_1
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6072
-#EXTINF: -1 group-title="Portugal_02", PT-Eurosport_2
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6070
-#EXTINF: -1 group-title="Portugal_02", PT-Eurosport_News
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6069
-#EXTINF: -1 group-title="Portugal_02", PT-Fashion_TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6110
-#EXTINF: -1 group-title="Portugal_02", PT-Fight_Network_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6066
-#EXTINF: -1 group-title="Portugal_02", PT-Fine_Living_Network_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6021
-#EXTINF: -1 group-title="Portugal_02", PT-Food_Network_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6022
-#EXTINF: -1 group-title="Portugal_02", PT-FOX_Comedy_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6041
-#EXTINF: -1 group-title="Portugal_02", PT-FOX_Crime_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6042
-#EXTINF: -1 group-title="Portugal_02", PT-FOX_Life_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6043
-#EXTINF: -1 group-title="Portugal_02", PT-FOX_Movies_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6044
-#EXTINF: -1 group-title="Portugal_02", PT-FOX_News
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6107
-#EXTINF: -1 group-title="Portugal_02", PT-Fuel_TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6064
-#EXTINF: -1 group-title="Portugal_02", PT-Hollywood
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6047
-#EXTINF: -1 group-title="Portugal_02", PT-Hollywood_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6046
-#EXTINF: -1 group-title="Portugal_02", PT-Kuriakos
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5994
-#EXTINF: -1 group-title="Portugal_02", PT-Localvisao_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6121
-#EXTINF: -1 group-title="Portugal_02", PT-MCM_TOP
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6006
-#EXTINF: -1 group-title="Portugal_02", PT-MCS_Extreme
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5991
-#EXTINF: -1 group-title="Portugal_02", PT-MCS_LifeStyle
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5990
-#EXTINF: -1 group-title="Portugal_02", PT-Motors TV HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6068
-#EXTINF: -1 group-title="Portugal_02", PT-MTV_Portugal
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6011
-#EXTINF: -1 group-title="Portugal_02", PT-Nat_Geo_Wild
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5996
-#EXTINF: -1 group-title="Portugal_02", PT-NBA HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5995
-#EXTINF: -1 group-title="Portugal_02", PT-National_Geographic_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5997
-#EXTINF: -1 group-title="Portugal_02", PT-Nickelodeon
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6062
-#EXTINF: -1 group-title="Portugal_02", PT-Chelsea TV HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5992
-#EXTINF: -1 group-title="Portugal_02", PT-Outdoor_Channel_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6065
-#EXTINF: -1 group-title="Portugal_02", PT-PFC
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6017
-#EXTINF: -1 group-title="Portugal_02", PT-Historia
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5993
-#EXTINF: -1 group-title="Portugal_02", PT-Porto_Canal
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6115
-#EXTINF: -1 group-title="Portugal_02", PT-Real_Madrid_TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6074
-#EXTINF: -1 group-title="Portugal_02", PT-europe_News
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6108
-#EXTINF: -1 group-title="Portugal_02", PT-TPA (Angola)
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6004
-#EXTINF: -1 group-title="Portugal_02", PT-SyFy
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6035
-#EXTINF: -1 group-title="Portugal_02", PT-SyFy_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6034
-#EXTINF: -1 group-title="Portugal_02", PT-TLC
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6025
-#EXTINF: -1 group-title="Portugal_02", PT-VH1 EUROPE
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6005
-#EXTINF: -1 group-title="Portugal_02", PT-Travel_Channel_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6023
-#EXTINF: -1 group-title="Portugal_02", PT-VH1
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6009
-#EXTINF: -1 group-title="Portugal_02", PT-VH1_Classic
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6008
-#EXTINF: -1 group-title="Portugal_02", PT-trc_Exclusiva_1
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5987
-#EXTINF: -1 group-title="Portugal_02", PT-trc_Exclusiva_2
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5986
-#EXTINF: -1 group-title="Portugal_02", PT-trc_Exclusiva_3
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5985
-#EXTINF: -1 group-title="Portugal_02", PT-trc_Exclusiva_4
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5984
-#EXTINF: -1 group-title="Portugal_03", |PT| 24KITCHEN
-http://tv.bestiptv-shop.com:7000/873974867/439074973/257
-#EXTINF: -1 group-title="Portugal_03", |PT| A BOLA TV
-http://tv.bestiptv-shop.com:7000/873974867/439074973/207
-#EXTINF: -1 group-title="Portugal_03", |PT| AFRO MUSIC
-http://tv.bestiptv-shop.com:7000/873974867/439074973/205
-#EXTINF: -1 group-title="Portugal_03", |PT| AMC
-http://tv.bestiptv-shop.com:7000/873974867/439074973/256
-#EXTINF: -1 group-title="Portugal_03", |PT| AXN Black
-http://tv.bestiptv-shop.com:7000/873974867/439074973/204
-#EXTINF: -1 group-title="Portugal_03", |PT| AXN BLACK HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/160
-#EXTINF: -1 group-title="Portugal_03", |PT| AXN HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/203
-#EXTINF: -1 group-title="Portugal_03", |PT| AXN WHITE HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/202
-#EXTINF: -1 group-title="Portugal_03", |PT| BABY FIRST
-http://tv.bestiptv-shop.com:7000/873974867/439074973/166
-#EXTINF: -1 group-title="Portugal_03", |PT| BABY TV
-http://tv.bestiptv-shop.com:7000/873974867/439074973/255
-#EXTINF: -1 group-title="Portugal_03", |PT| BBC ENTERTAINMENT
-http://tv.bestiptv-shop.com:7000/873974867/439074973/165
-#EXTINF: -1 group-title="Portugal_03", |PT| BBC WORLD NEWS
-http://tv.bestiptv-shop.com:7000/873974867/439074973/164
-#EXTINF: -1 group-title="Portugal_03", |PT| BENIFICA TV1
-http://tv.bestiptv-shop.com:7000/873974867/439074973/201
-#EXTINF: -1 group-title="Portugal_03", |PT| BENIFICA TV1HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/200
-#EXTINF: -1 group-title="Portugal_03", |PT| BIGGS
-http://tv.bestiptv-shop.com:7000/873974867/439074973/254
-#EXTINF: -1 group-title="Portugal_03", |PT| BLAZE
-http://tv.bestiptv-shop.com:7000/873974867/439074973/206
-#EXTINF: -1 group-title="Portugal_03", |PT| BTV 1
-http://tv.bestiptv-shop.com:7000/873974867/439074973/163
-#EXTINF: -1 group-title="Portugal_03", |PT| CAZA Y PESCA
-http://tv.bestiptv-shop.com:7000/873974867/439074973/199
-#EXTINF: -1 group-title="Portugal_03", |PT| CANAL HISTORIA
-http://tv.bestiptv-shop.com:7000/873974867/439074973/253
-#EXTINF: -1 group-title="Portugal_03", |PT| CANAL PANDA
-http://tv.bestiptv-shop.com:7000/873974867/439074973/252
-#EXTINF: -1 group-title="Portugal_03", |PT| CANAL Q
-http://tv.bestiptv-shop.com:7000/873974867/439074973/251
-#EXTINF: -1 group-title="Portugal_03", |PT| CASAVISION
-http://tv.bestiptv-shop.com:7000/873974867/439074973/249
-#EXTINF: -1 group-title="Portugal_03", |PT| CBS REALITY
-http://tv.bestiptv-shop.com:7000/873974867/439074973/248
-#EXTINF: -1 group-title="Portugal_03", |PT| CINEMUNDO
-http://tv.bestiptv-shop.com:7000/873974867/439074973/247
-#EXTINF: -1 group-title="Portugal_03", |PT| CM TV
-http://tv.bestiptv-shop.com:7000/873974867/439074973/198
-#EXTINF: -1 group-title="Portugal_03", |PT| CNN
-http://tv.bestiptv-shop.com:7000/873974867/439074973/162
-#EXTINF: -1 group-title="Portugal_03", |PT| DISCOVERY
-http://tv.bestiptv-shop.com:7000/873974867/439074973/197
-#EXTINF: -1 group-title="Portugal_03", |PT| DISCOVERY SHOWCASE FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/168
-#EXTINF: -1 group-title="Portugal_03", |PT| DISNEY CHANNEL
-http://tv.bestiptv-shop.com:7000/873974867/439074973/246
-#EXTINF: -1 group-title="Portugal_03", |PT| DISNEY JUNIOR
-http://tv.bestiptv-shop.com:7000/873974867/439074973/245
-#EXTINF: -1 group-title="Portugal_03", |PT| E!
-http://tv.bestiptv-shop.com:7000/873974867/439074973/196
-#EXTINF: -1 group-title="Portugal_03", |PT| EURONEWS
-http://tv.bestiptv-shop.com:7000/873974867/439074973/159
-#EXTINF: -1 group-title="Portugal_03", |PT| EUROSPORT 1
-http://tv.bestiptv-shop.com:7000/873974867/439074973/244
-#EXTINF: -1 group-title="Portugal_03", |PT| EUROSPORT 1HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/154
-#EXTINF: -1 group-title="Portugal_03", |PT| EUROSPORT 2
-http://tv.bestiptv-shop.com:7000/873974867/439074973/243
-#EXTINF: -1 group-title="Portugal_03", |PT| EUROSPORT NEWS
-http://tv.bestiptv-shop.com:7000/873974867/439074973/153
-#EXTINF: -1 group-title="Portugal_03", |PT| FOOD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/242
-#EXTINF: -1 group-title="Portugal_03", |PT| FOX COMEDY
-http://tv.bestiptv-shop.com:7000/873974867/439074973/167
-#EXTINF: -1 group-title="Portugal_03", |PT| FOX CRIME HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/195
-#EXTINF: -1 group-title="Portugal_03", |PT| FOX HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/194
-#EXTINF: -1 group-title="Portugal_03", |PT| FOX LIFE HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/241
-#EXTINF: -1 group-title="Portugal_03", |PT| FOX MOVIES
-http://tv.bestiptv-shop.com:7000/873974867/439074973/240
-#EXTINF: -1 group-title="Portugal_03", |PT| FOXCRIME HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/158
-#EXTINF: -1 group-title="Portugal_03", |PT| FUEL TV
-http://tv.bestiptv-shop.com:7000/873974867/439074973/239
-#EXTINF: -1 group-title="Portugal_03", |PT| GLOBO NEWS
-http://tv.bestiptv-shop.com:7000/873974867/439074973/157
-#EXTINF: -1 group-title="Portugal_03", |PT| GLOBO PREM
-http://tv.bestiptv-shop.com:7000/873974867/439074973/193
-#EXTINF: -1 group-title="Portugal_03", |PT| HOLLYWOOD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/238
-#EXTINF: -1 group-title="Portugal_03", |PT| JIM JAM
-http://tv.bestiptv-shop.com:7000/873974867/439074973/237
-#EXTINF: -1 group-title="Portugal_03", |PT| KOMBAT SPORT
-http://tv.bestiptv-shop.com:7000/873974867/439074973/236
-#EXTINF: -1 group-title="Portugal_03", |PT| MCS Lifestyle
-http://tv.bestiptv-shop.com:7000/873974867/439074973/235
-#EXTINF: -1 group-title="Portugal_03", |PT| MOTORSPORT TV
-http://tv.bestiptv-shop.com:7000/873974867/439074973/234
-#EXTINF: -1 group-title="Portugal_03", |PT| MOTORVISION
-http://tv.bestiptv-shop.com:7000/873974867/439074973/233
-#EXTINF: -1 group-title="Portugal_03", |PT| MTV
-http://tv.bestiptv-shop.com:7000/873974867/439074973/191
-#EXTINF: -1 group-title="Portugal_03", |PT| NAT GEO HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/192
-#EXTINF: -1 group-title="Portugal_03", |PT| NAT GEO WILD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/190
-#EXTINF: -1 group-title="Portugal_03", |PT| NBA
-http://tv.bestiptv-shop.com:7000/873974867/439074973/232
-#EXTINF: -1 group-title="Portugal_03", |PT| NICKELODEON
-http://tv.bestiptv-shop.com:7000/873974867/439074973/231
-#EXTINF: -1 group-title="Portugal_03", |PT| ODISSEIA
-http://tv.bestiptv-shop.com:7000/873974867/439074973/189
-#EXTINF: -1 group-title="Portugal_03", |PT| PFC
-http://tv.bestiptv-shop.com:7000/873974867/439074973/188
-#EXTINF: -1 group-title="Portugal_03", |PT| PORTO CANAL
-http://tv.bestiptv-shop.com:7000/873974867/439074973/230
-#EXTINF: -1 group-title="Portugal_03", |PT| RECORD NEWS
-http://tv.bestiptv-shop.com:7000/873974867/439074973/259
-#EXTINF: -1 group-title="Portugal_03", |PT| RTP 1
-http://tv.bestiptv-shop.com:7000/873974867/439074973/170
-#EXTINF: -1 group-title="Portugal_03", |PT| RTP 2
-http://tv.bestiptv-shop.com:7000/873974867/439074973/169
-#EXTINF: -1 group-title="Portugal_03", |PT| RTP 2 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/152
-#EXTINF: -1 group-title="Portugal_03", |PT| RTP ACORES
-http://tv.bestiptv-shop.com:7000/873974867/439074973/229
-#EXTINF: -1 group-title="Portugal_03", |PT| RTP AFRICA
-http://tv.bestiptv-shop.com:7000/873974867/439074973/258
-#EXTINF: -1 group-title="Portugal_03", |PT| RTP MADEIRA
-http://tv.bestiptv-shop.com:7000/873974867/439074973/161
-#EXTINF: -1 group-title="Portugal_03", |PT| RTP MEMORIA
-http://tv.bestiptv-shop.com:7000/873974867/439074973/228
-#EXTINF: -1 group-title="Portugal_03", |PT| RTP1 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/187
-#EXTINF: -1 group-title="Portugal_03", |PT| RTP3
-http://tv.bestiptv-shop.com:7000/873974867/439074973/186
-#EXTINF: -1 group-title="Portugal_03", |PT| SIC
-http://tv.bestiptv-shop.com:7000/873974867/439074973/185
-#EXTINF: -1 group-title="Portugal_03", |PT| SIC CARAS HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/184
-#EXTINF: -1 group-title="Portugal_03", |PT| SIC HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/227
-#EXTINF: -1 group-title="Portugal_03", |PT| SIC K
-http://tv.bestiptv-shop.com:7000/873974867/439074973/183
-#EXTINF: -1 group-title="Portugal_03", |PT| SIC MULHER
-http://tv.bestiptv-shop.com:7000/873974867/439074973/226
-#EXTINF: -1 group-title="Portugal_03", |PT| SIC NOTICIAS
-http://tv.bestiptv-shop.com:7000/873974867/439074973/225
-#EXTINF: -1 group-title="Portugal_03", |PT| SIC RADICAL
-http://tv.bestiptv-shop.com:7000/873974867/439074973/224
-#EXTINF: -1 group-title="Portugal_03", |PT| SPORT TV+ FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/181
-#EXTINF: -1 group-title="Portugal_03", |PT| SPORT TV1 FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/182
-#EXTINF: -1 group-title="Portugal_03", |PT| SPORT TV1 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/223
-#EXTINF: -1 group-title="Portugal_03", |PT| SPORT TV2 FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/180
-#EXTINF: -1 group-title="Portugal_03", |PT| SPORT TV2 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/222
-#EXTINF: -1 group-title="Portugal_03", |PT| SPORT TV3 FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/179
-#EXTINF: -1 group-title="Portugal_03", |PT| SPORT TV3 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/221
-#EXTINF: -1 group-title="Portugal_03", |PT| SPORT TV4 FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/178
-#EXTINF: -1 group-title="Portugal_03", |PT| SPORT TV4 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/220
-#EXTINF: -1 group-title="Portugal_03", |PT| SPORT TV5 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/219
-#EXTINF: -1 group-title="Portugal_03", |PT| ELEVEN SPORTS 1 FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/575541369
-#EXTINF: -1 group-title="Portugal_03", |PT| ELEVEN SPORTS 1 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/575541368
-#EXTINF: -1 group-title="Portugal_03", |PT| ELEVEN SPORTS 2 FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/575541367
-#EXTINF: -1 group-title="Portugal_03", |PT| ELEVEN SPORTS 2 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/575541366
-#EXTINF: -1 group-title="Portugal_03", |PT| ELEVEN SPORTS 3 FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/575541365
-#EXTINF: -1 group-title="Portugal_03", |PT| ELEVEN SPORTS 3 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/575541364
-#EXTINF: -1 group-title="Portugal_03", |PT| ELEVEN SPORTS 4 FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/575541363
-#EXTINF: -1 group-title="Portugal_03", |PT| ELEVEN SPORTS 5 FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/575541362
-#EXTINF: -1 group-title="Portugal_03", |PT| ELEVEN SPORTS 6 FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/575541361
-#EXTINF: -1 group-title="Portugal_03", |PT| SPORTING TV
-http://tv.bestiptv-shop.com:7000/873974867/439074973/177
-#EXTINF: -1 group-title="Portugal_03", |PT| SYFY
-http://tv.bestiptv-shop.com:7000/873974867/439074973/218
-#EXTINF: -1 group-title="Portugal_03", |PT| SYFY HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/156
-#EXTINF: -1 group-title="Portugal_03", |PT| TLC
-http://tv.bestiptv-shop.com:7000/873974867/439074973/176
-#EXTINF: -1 group-title="Portugal_03", |PT| TOROS
-http://tv.bestiptv-shop.com:7000/873974867/439074973/217
-#EXTINF: -1 group-title="Portugal_03", |PT| TRAVEL CHANNEL HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/216
-#EXTINF: -1 group-title="Portugal_03", |PT| TV GLOBO
-http://tv.bestiptv-shop.com:7000/873974867/439074973/215
-#EXTINF: -1 group-title="Portugal_03", |PT| TV RECORD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/214
-#EXTINF: -1 group-title="Portugal_03", |PT| TV SERIE HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/155
-#EXTINF: -1 group-title="Portugal_03", |PT| TV SERIES
-http://tv.bestiptv-shop.com:7000/873974867/439074973/213
-#EXTINF: -1 group-title="Portugal_03", |PT| TVCINE 1 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/175
-#EXTINF: -1 group-title="Portugal_03", |PT| TVCINE 2 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/174
-#EXTINF: -1 group-title="Portugal_03", |PT| TVCINE 3 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/173
-#EXTINF: -1 group-title="Portugal_03", |PT| TVCINE 4 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/172
-#EXTINF: -1 group-title="Portugal_03", |PT| TVI
-http://tv.bestiptv-shop.com:7000/873974867/439074973/171
-#EXTINF: -1 group-title="Portugal_03", |PT| TVI FICCAO
-http://tv.bestiptv-shop.com:7000/873974867/439074973/212
-#EXTINF: -1 group-title="Portugal_03", |PT| TVI HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/211
-#EXTINF: -1 group-title="Portugal_03", |PT| TVI REALITY
-http://tv.bestiptv-shop.com:7000/873974867/439074973/210
-#EXTINF: -1 group-title="Portugal_03", |PT| TVI24
-http://tv.bestiptv-shop.com:7000/873974867/439074973/209
-#EXTINF: -1 group-title="Portugal_03", |PT| MCS LIFE STYLE
-http://tv.bestiptv-shop.com:7000/873974867/439074973/208
+#EXTINF: -1 group-title="Desporto", POR: SPORTTV 1 HD
+http://blackpearl-ip.com:13461/zno31MLtWt/4bauBg4MFJ/10206
+#EXTINF: -1 group-title="Desporto", POR: SPORTTV 2 HD
+http://blackpearl-ip.com:13461/zno31MLtWt/4bauBg4MFJ/10205
+#EXTINF: -1 group-title="Desporto", POR: SPORTTV 3 HD
+http://blackpearl-ip.com:13461/zno31MLtWt/4bauBg4MFJ/10204
+#EXTINF: -1 group-title="Desporto", POR: SPORTTV 4 HD
+http://blackpearl-ip.com:13461/zno31MLtWt/4bauBg4MFJ/10203
+#EXTINF: -1 group-title="Desporto", POR: SPORTTV 5 HD
+http://blackpearl-ip.com:13461/zno31MLtWt/4bauBg4MFJ/10202
+#EXTM3U #EXTINF: -1 group-title="Portugal_1", PT | A&E HD
+http://live.eurovipserver.com:1453/aksel/ilker/120085
+#EXTINF: -1 group-title="Portugal_1", PT | AFRO MUSIC
+http://live.eurovipserver.com:1453/aksel/ilker/120084
+#EXTINF: -1 group-title="Portugal_1", PT | AMC
+http://live.eurovipserver.com:1453/aksel/ilker/120083
+#EXTINF: -1 group-title="Portugal_1", PT | ANIMAL PLANET
+http://live.eurovipserver.com:1453/aksel/ilker/120082
+#EXTINF: -1 group-title="Portugal_1", PT | ARTV
+http://live.eurovipserver.com:1453/aksel/ilker/120081
+#EXTINF: -1 group-title="Portugal_1", PT | AXN BLACK HD
+http://live.eurovipserver.com:1453/aksel/ilker/120080
+#EXTINF: -1 group-title="Portugal_1", PT | AXN HD
+http://live.eurovipserver.com:1453/aksel/ilker/120079
+#EXTINF: -1 group-title="Portugal_1", PT | AXN WHITE HD
+http://live.eurovipserver.com:1453/aksel/ilker/120078
+#EXTINF: -1 group-title="Portugal_1", PT | Baby First
+http://live.eurovipserver.com:1453/aksel/ilker/120071
+#EXTINF: -1 group-title="Portugal_1", PT | BABY TV
+http://live.eurovipserver.com:1453/aksel/ilker/120077
+#EXTINF: -1 group-title="Portugal_1", PT | BEIN Sports
+http://live.eurovipserver.com:1453/aksel/ilker/120076
+#EXTINF: -1 group-title="Portugal_1", PT | BENFICA TV 1 HD
+http://live.eurovipserver.com:1453/aksel/ilker/120075
+#EXTINF: -1 group-title="Portugal_1", PT | BIGGS
+http://live.eurovipserver.com:1453/aksel/ilker/120073
+#EXTINF: -1 group-title="Portugal_1", PT | BTV 1 HD
+http://live.eurovipserver.com:1453/aksel/ilker/120072
+#EXTINF: -1 group-title="Portugal_1", PT | CACA & PESCA
+http://live.eurovipserver.com:1453/aksel/ilker/120070
+#EXTINF: -1 group-title="Portugal_1", PT | CANAL  TOROS
+http://live.eurovipserver.com:1453/aksel/ilker/120068
+#EXTINF: -1 group-title="Portugal_1", PT | Canal de Historia
+http://live.eurovipserver.com:1453/aksel/ilker/120063
+#EXTINF: -1 group-title="Portugal_1", PT | CANAL PANDA
+http://live.eurovipserver.com:1453/aksel/ilker/120069
+#EXTINF: -1 group-title="Portugal_1", PT | CAPELA DE FATIMA
+http://live.eurovipserver.com:1453/aksel/ilker/120067
+#EXTINF: -1 group-title="Portugal_1", PT | CBS REALITY
+http://live.eurovipserver.com:1453/aksel/ilker/120066
+#EXTINF: -1 group-title="Portugal_1", PT | CINE MUNDO
+http://live.eurovipserver.com:1453/aksel/ilker/120065
+#EXTINF: -1 group-title="Portugal_1", PT | CM TV
+http://live.eurovipserver.com:1453/aksel/ilker/120064
+#EXTINF: -1 group-title="Portugal_1", PT | Crimen & Investigation
+http://live.eurovipserver.com:1453/aksel/ilker/120061
+#EXTINF: -1 group-title="Portugal_1", PT | DISCOVERY CHANNEL
+http://live.eurovipserver.com:1453/aksel/ilker/120060
+#EXTINF: -1 group-title="Portugal_1", PT | DISNEY CHANNEL
+http://live.eurovipserver.com:1453/aksel/ilker/120059
+#EXTINF: -1 group-title="Portugal_1", PT | Disney Channel HD
+http://live.eurovipserver.com:1453/aksel/ilker/120058
+#EXTINF: -1 group-title="Portugal_1", PT | E! ENTERTAINMENT
+http://live.eurovipserver.com:1453/aksel/ilker/120057
+#EXTINF: -1 group-title="Portugal_1", PT | Euronews
+http://live.eurovipserver.com:1453/aksel/ilker/120054
+#EXTINF: -1 group-title="Portugal_1", PT | EUROSPORT 1 HD
+http://live.eurovipserver.com:1453/aksel/ilker/120056
+#EXTINF: -1 group-title="Portugal_1", PT | EUROSPORT 2 HD
+http://live.eurovipserver.com:1453/aksel/ilker/120055
+#EXTINF: -1 group-title="Portugal_1", PT | Food Network HD
+http://live.eurovipserver.com:1453/aksel/ilker/120046
+#EXTINF: -1 group-title="Portugal_1", PT | FOX COMEDY
+http://live.eurovipserver.com:1453/aksel/ilker/120053
+#EXTINF: -1 group-title="Portugal_1", PT | Fox Crime
+http://live.eurovipserver.com:1453/aksel/ilker/120045
+#EXTINF: -1 group-title="Portugal_1", PT | FOX HD
+http://live.eurovipserver.com:1453/aksel/ilker/120052
+#EXTINF: -1 group-title="Portugal_1", PT | FOX LIFE HD
+http://live.eurovipserver.com:1453/aksel/ilker/120051
+#EXTINF: -1 group-title="Portugal_1", PT | FOX NEWS HD
+http://live.eurovipserver.com:1453/aksel/ilker/120049
+#EXTINF: -1 group-title="Portugal_1", PT | FUEL TV HD
+http://live.eurovipserver.com:1453/aksel/ilker/120048
+#EXTINF: -1 group-title="Portugal_1", PT | FX
+http://live.eurovipserver.com:1453/aksel/ilker/120047
+#EXTINF: -1 group-title="Portugal_1", PT | Globo
+http://live.eurovipserver.com:1453/aksel/ilker/120043
+#EXTINF: -1 group-title="Portugal_1", PT | GLOBO HD
+http://live.eurovipserver.com:1453/aksel/ilker/120044
+#EXTINF: -1 group-title="Portugal_1", PT | Globo Now
+http://live.eurovipserver.com:1453/aksel/ilker/120041
+#EXTINF: -1 group-title="Portugal_1", PT | Globo Now HD
+http://live.eurovipserver.com:1453/aksel/ilker/120042
+#EXTINF: -1 group-title="Portugal_1", PT | HOLLYWOOD
+http://live.eurovipserver.com:1453/aksel/ilker/120040
+#EXTINF: -1 group-title="Portugal_1", PT | HOT
+http://live.eurovipserver.com:1453/aksel/ilker/120039
+#EXTINF: -1 group-title="Portugal_1", PT | JimJam
+http://live.eurovipserver.com:1453/aksel/ilker/120038
+#EXTINF: -1 group-title="Portugal_1", PT | LifeStyle TV
+http://live.eurovipserver.com:1453/aksel/ilker/120037
+#EXTINF: -1 group-title="Portugal_1", PT | MCM POP
+http://live.eurovipserver.com:1453/aksel/ilker/120036
+#EXTINF: -1 group-title="Portugal_1", PT | MCM Top
+http://live.eurovipserver.com:1453/aksel/ilker/120035
+#EXTINF: -1 group-title="Portugal_1", PT | MCS LifeStyle
+http://live.eurovipserver.com:1453/aksel/ilker/120033
+#EXTINF: -1 group-title="Portugal_1", PT | Motors TV
+http://live.eurovipserver.com:1453/aksel/ilker/120026
+#EXTINF: -1 group-title="Portugal_1", PT | MOTORSPORT TV
+http://live.eurovipserver.com:1453/aksel/ilker/120032
+#EXTINF: -1 group-title="Portugal_1", PT | MOTORVISION HD (DE)
+http://live.eurovipserver.com:1453/aksel/ilker/120031
+#EXTINF: -1 group-title="Portugal_1", PT | MOV HD
+http://live.eurovipserver.com:1453/aksel/ilker/120030
+#EXTINF: -1 group-title="Portugal_1", PT | MTV
+http://live.eurovipserver.com:1453/aksel/ilker/120029
+#EXTINF: -1 group-title="Portugal_1", PT | MTV Dance
+http://live.eurovipserver.com:1453/aksel/ilker/120028
+#EXTINF: -1 group-title="Portugal_1", PT | MTV PORTUGAL
+http://live.eurovipserver.com:1453/aksel/ilker/120027
+#EXTINF: -1 group-title="Portugal_1", PT | NAT GEO  WILD
+http://live.eurovipserver.com:1453/aksel/ilker/120024
+#EXTINF: -1 group-title="Portugal_1", PT | NAT GEO HD
+http://live.eurovipserver.com:1453/aksel/ilker/120025
+#EXTINF: -1 group-title="Portugal_1", PT | NAT GEO WILD
+http://live.eurovipserver.com:1453/aksel/ilker/120023
+#EXTINF: -1 group-title="Portugal_1", PT | Nick
+http://live.eurovipserver.com:1453/aksel/ilker/120020
+#EXTINF: -1 group-title="Portugal_1", PT | NICKELODEON
+http://live.eurovipserver.com:1453/aksel/ilker/120022
+#EXTINF: -1 group-title="Portugal_1", PT | NRJ HITS TV
+http://live.eurovipserver.com:1453/aksel/ilker/120021
+#EXTINF: -1 group-title="Portugal_1", PT | ODISSEA
+http://live.eurovipserver.com:1453/aksel/ilker/120019
+#EXTINF: -1 group-title="Portugal_1", PT | PANDA BIGGS
+http://live.eurovipserver.com:1453/aksel/ilker/120018
+#EXTINF: -1 group-title="Portugal_1", PT | PFC
+http://live.eurovipserver.com:1453/aksel/ilker/120017
+#EXTINF: -1 group-title="Portugal_1", PT | Plus TVI
+http://live.eurovipserver.com:1453/aksel/ilker/120015
+#EXTINF: -1 group-title="Portugal_1", PT | PORTO CANAL
+http://live.eurovipserver.com:1453/aksel/ilker/120016
+#EXTINF: -1 group-title="Portugal_1", PT | Q CANAL
+http://live.eurovipserver.com:1453/aksel/ilker/120014
+#EXTINF: -1 group-title="Portugal_1", PT | RCI RADICAL
+http://live.eurovipserver.com:1453/aksel/ilker/120013
+#EXTINF: -1 group-title="Portugal_1", PT | Record
+http://live.eurovipserver.com:1453/aksel/ilker/120003
+#EXTINF: -1 group-title="Portugal_1", PT | Record News
+http://live.eurovipserver.com:1453/aksel/ilker/120012
+#EXTINF: -1 group-title="Portugal_1", PT | REDE TV
+http://live.eurovipserver.com:1453/aksel/ilker/120011
+#EXTINF: -1 group-title="Portugal_1", PT | RTP 1
+http://live.eurovipserver.com:1453/aksel/ilker/120010
+#EXTINF: -1 group-title="Portugal_1", PT | RTP 2
+http://live.eurovipserver.com:1453/aksel/ilker/120009
+#EXTINF: -1 group-title="Portugal_1", PT | RTP 3
+http://live.eurovipserver.com:1453/aksel/ilker/120008
+#EXTINF: -1 group-title="Portugal_1", PT | RTP AFRICA
+http://live.eurovipserver.com:1453/aksel/ilker/120007
+#EXTINF: -1 group-title="Portugal_1", PT | RTP INTERNACIONAL
+http://live.eurovipserver.com:1453/aksel/ilker/120006
+#EXTINF: -1 group-title="Portugal_1", PT | RTP MADEIRA
+http://live.eurovipserver.com:1453/aksel/ilker/120005
+#EXTINF: -1 group-title="Portugal_1", PT | RTP Memoria
+http://live.eurovipserver.com:1453/aksel/ilker/120004
+#EXTINF: -1 group-title="Portugal_1", PT | SIC
+http://live.eurovipserver.com:1453/aksel/ilker/120001
+#EXTINF: -1 group-title="Portugal_1", PT | SIC  MULHER
+http://live.eurovipserver.com:1453/aksel/ilker/119999
+#EXTINF: -1 group-title="Portugal_1", PT | SIC  RADICAL
+http://live.eurovipserver.com:1453/aksel/ilker/119996
+#EXTINF: -1 group-title="Portugal_1", PT | SIC CARAS
+http://live.eurovipserver.com:1453/aksel/ilker/120002
+#EXTINF: -1 group-title="Portugal_1", PT | SIC Kids
+http://live.eurovipserver.com:1453/aksel/ilker/120000
+#EXTINF: -1 group-title="Portugal_1", PT | SIC Mulher FHD
+http://live.eurovipserver.com:1453/aksel/ilker/119998
+#EXTINF: -1 group-title="Portugal_1", PT | Sic noticias
+http://live.eurovipserver.com:1453/aksel/ilker/119988
+#EXTINF: -1 group-title="Portugal_1", PT | SIC RADICAL
+http://live.eurovipserver.com:1453/aksel/ilker/119997
+#EXTINF: -1 group-title="Portugal_1", PT | SPORT TV 1
+http://live.eurovipserver.com:1453/aksel/ilker/119995
+#EXTINF: -1 group-title="Portugal_1", PT | SPORT TV 2 HD
+http://live.eurovipserver.com:1453/aksel/ilker/119994
+#EXTINF: -1 group-title="Portugal_1", PT | SPORT TV 3 HD
+http://live.eurovipserver.com:1453/aksel/ilker/119993
+#EXTINF: -1 group-title="Portugal_1", PT | SPORT TV 4 HD
+http://live.eurovipserver.com:1453/aksel/ilker/119992
+#EXTINF: -1 group-title="Portugal_1", PT | SPORT TV 5 HD
+http://live.eurovipserver.com:1453/aksel/ilker/119991
+#EXTINF: -1 group-title="Portugal_1", PT | SPORTING TV
+http://live.eurovipserver.com:1453/aksel/ilker/119990
+#EXTINF: -1 group-title="Portugal_1", PT | SYFY
+http://live.eurovipserver.com:1453/aksel/ilker/119989
+#EXTINF: -1 group-title="Portugal_1", PT | TLC HD
+http://live.eurovipserver.com:1453/aksel/ilker/119986
+#EXTINF: -1 group-title="Portugal_1", PT | Toros TV HD
+http://live.eurovipserver.com:1453/aksel/ilker/119962
+#EXTINF: -1 group-title="Portugal_1", PT | TPA INTERN
+http://live.eurovipserver.com:1453/aksel/ilker/119985
+#EXTINF: -1 group-title="Portugal_1", PT | Trace Urban TV
+http://live.eurovipserver.com:1453/aksel/ilker/119961
+#EXTINF: -1 group-title="Portugal_1", PT | Travel Channel HD
+http://live.eurovipserver.com:1453/aksel/ilker/119960
+#EXTINF: -1 group-title="Portugal_1", PT | TV CANCAO NOVA
+http://live.eurovipserver.com:1453/aksel/ilker/119984
+#EXTINF: -1 group-title="Portugal_1", PT | TV CINE  2
+http://live.eurovipserver.com:1453/aksel/ilker/119982
+#EXTINF: -1 group-title="Portugal_1", PT | TV CINE 1 HD
+http://live.eurovipserver.com:1453/aksel/ilker/119983
+#EXTINF: -1 group-title="Portugal_1", PT | TV CINE 2 HD
+http://live.eurovipserver.com:1453/aksel/ilker/119981
+#EXTINF: -1 group-title="Portugal_1", PT | TV CINE 3
+http://live.eurovipserver.com:1453/aksel/ilker/119980
+#EXTINF: -1 group-title="Portugal_1", PT | TV CINE 4 HD
+http://live.eurovipserver.com:1453/aksel/ilker/119979
+#EXTINF: -1 group-title="Portugal_1", PT | TV GLOBO
+http://live.eurovipserver.com:1453/aksel/ilker/119978
+#EXTINF: -1 group-title="Portugal_1", PT | TV Series
+http://live.eurovipserver.com:1453/aksel/ilker/119977
+#EXTINF: -1 group-title="Portugal_1", PT | TVC 1 FHD
+http://live.eurovipserver.com:1453/aksel/ilker/119976
+#EXTINF: -1 group-title="Portugal_1", PT | TVC 2 FHD
+http://live.eurovipserver.com:1453/aksel/ilker/119975
+#EXTINF: -1 group-title="Portugal_1", PT | TVC 3 FHD
+http://live.eurovipserver.com:1453/aksel/ilker/119974
+#EXTINF: -1 group-title="Portugal_1", PT | TVC 4  FHD
+http://live.eurovipserver.com:1453/aksel/ilker/119973
+#EXTINF: -1 group-title="Portugal_1", PT | TVC Series
+http://live.eurovipserver.com:1453/aksel/ilker/119972
+#EXTINF: -1 group-title="Portugal_1", PT | TVI 24H
+http://live.eurovipserver.com:1453/aksel/ilker/119971
+#EXTINF: -1 group-title="Portugal_1", PT | TVI Camara Exclusiva
+http://live.eurovipserver.com:1453/aksel/ilker/119969
+#EXTINF: -1 group-title="Portugal_1", PT | TVI FICCAO
+http://live.eurovipserver.com:1453/aksel/ilker/119968
+#EXTINF: -1 group-title="Portugal_1", PT | TVI HD
+http://live.eurovipserver.com:1453/aksel/ilker/119967
+#EXTINF: -1 group-title="Portugal_1", PT | TVI Internacional
+http://live.eurovipserver.com:1453/aksel/ilker/119970
+#EXTINF: -1 group-title="Portugal_1", PT | TVI REALITY CAMARA 1
+http://live.eurovipserver.com:1453/aksel/ilker/119966
+#EXTINF: -1 group-title="Portugal_1", PT | TVI REALITY CAMARA 4
+http://live.eurovipserver.com:1453/aksel/ilker/119965
+#EXTINF: -1 group-title="Portugal_1", PT | TVI Reality HD
+http://live.eurovipserver.com:1453/aksel/ilker/119963
+#EXTINF: -1 group-title="Portugal_1", PT | TVI REALITY MOSAICO
+http://live.eurovipserver.com:1453/aksel/ilker/119964
+#EXTINF: -1 group-title="Portugal_1", PT | VH1
+http://live.eurovipserver.com:1453/aksel/ilker/119959
+#EXTINF: -1 group-title="Portugal_2", PT: Spor tv 1
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/880
+#EXTINF: -1 group-title="Portugal_2", PT: SporTV 2
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/881
+#EXTINF: -1 group-title="Portugal_2", PT: SporTV 3
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/882
+#EXTINF: -1 group-title="Portugal_2", PT: SporTV 4
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/883
+#EXTINF: -1 group-title="Portugal_2", PT: SporTV 5
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/884
+#EXTINF: -1 group-title="Portugal_2", PT: Sporting TV HD
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/885
+#EXTINF: -1 group-title="Portugal_2", PT: Sport TV
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/899
+#EXTINF: -1 group-title="Portugal_2", PT: Benfica TV 1
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/900
+#EXTINF: -1 group-title="Portugal_2", PT: TVCine 1
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/936
+#EXTINF: -1 group-title="Portugal_2", PT: TVCine 2
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/935
+#EXTINF: -1 group-title="Portugal_2", PT: TVCine 3
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/934
+#EXTINF: -1 group-title="Portugal_2", PT: TVCine 4
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/933
+#EXTINF: -1 group-title="Portugal_2", PT: TVCseries
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/930
+#EXTINF: -1 group-title="Portugal_2", PT: VeVo 1 HD
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/898
+#EXTINF: -1 group-title="Portugal_2", PT: VeVo 2 HD
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/897
+#EXTINF: -1 group-title="Portugal_2", PT: VeVo 3 HD
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/896
+#EXTINF: -1 group-title="Portugal_2", PT: AXN HD
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/915
+#EXTINF: -1 group-title="Portugal_2", PT: Axn White HD
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/916
+#EXTINF: -1 group-title="Portugal_2", PT: Axn Black HD
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/932
+#EXTINF: -1 group-title="Portugal_2", PT: Fox HD
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/926
+#EXTINF: -1 group-title="Portugal_2", PT: Fox Crime
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/901
+#EXTINF: -1 group-title="Portugal_2", PT: Fox Life HD
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/925
+#EXTINF: -1 group-title="Portugal_2", PT: Fox Comedy
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/923
+#EXTINF: -1 group-title="Portugal_2", PT: Fox Movies HD
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/929
+#EXTINF: -1 group-title="Portugal_2", PT: Toros tv
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/909
+#EXTINF: -1 group-title="Portugal_2", PT: TVI Ficcao
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/886
+#EXTINF: -1 group-title="Portugal_2", PT: TVI
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/889
+#EXTINF: -1 group-title="Portugal_2", PT: TVI 24
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/887
+#EXTINF: -1 group-title="Portugal_2", PT: TV Globo
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/888
+#EXTINF: -1 group-title="Portugal_2", PT: SIC
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/924
+#EXTINF: -1 group-title="Portugal_2", PT: SIC K
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/919
+#EXTINF: -1 group-title="Portugal_2", PT: SIC Noticias
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/903
+#EXTINF: -1 group-title="Portugal_2", PT: Sic Radical
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/914
+#EXTINF: -1 group-title="Portugal_2", PT: SIC Caras
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/912
+#EXTINF: -1 group-title="Portugal_2", PT: Sic Mulher
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/913
+#EXTINF: -1 group-title="Portugal_2", PT: RTP 1
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/895
+#EXTINF: -1 group-title="Portugal_2", PT: RTP 2
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/894
+#EXTINF: -1 group-title="Portugal_2", PT: RTP Memoria
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/890
+#EXTINF: -1 group-title="Portugal_2", PT: RTP Madeira
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/891
+#EXTINF: -1 group-title="Portugal_2", PT: RTP Acores
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/893
+#EXTINF: -1 group-title="Portugal_2", PT: TLC
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/878
+#EXTINF: -1 group-title="Portugal_2", PT: Travel Channel
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/877
+#EXTINF: -1 group-title="Portugal_2", PT: CM TV
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/908
+#EXTINF: -1 group-title="Portugal_2", PT: TV Globo Premium
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/931
+#EXTINF: -1 group-title="Portugal_2", PT: Record
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/917
+#EXTINF: -1 group-title="Portugal_2", PT: PFC
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/911
+#EXTINF: -1 group-title="Portugal_2", PT: Jim Jim
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/918
+#EXTINF: -1 group-title="Portugal_2", PT: SyFy
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/902
+#EXTINF: -1 group-title="Portugal_2", PT: CartoonNet Work
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/920
+#EXTINF: -1 group-title="Portugal_2", PT: Motors TV
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/921
+#EXTINF: -1 group-title="Portugal_2", PT: Cine Mundo
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/892
+#EXTINF: -1 group-title="Portugal_2", PT: EuroSpor News
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/922
+#EXTINF: -1 group-title="Portugal_2", PT: Hollywood
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/907
+#EXTINF: -1 group-title="Portugal_2", PT: EuroSport 2
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/927
+#EXTINF: -1 group-title="Portugal_2", PT: EuroSport
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/928
+#EXTINF: -1 group-title="Portugal_2", PT: Disney Junior
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/905
+#EXTINF: -1 group-title="Portugal_2", PT: Disney Channel
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/904
+#EXTINF: -1 group-title="Portugal_2", PT: Discovery HD
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/906
+#EXTINF: -1 group-title="Portugal_2", PT: Abola tv
+http://ipsatpro.com:8080/AUGPYjfa4l/LDmR1Oj818/910
+#EXTINF:-1,|MEO| AMC
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40384.ts
+#EXTINF:-1,|MEO| TLC
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40383.ts
+#EXTINF:-1,|MEO| AXN BLACK HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40382.ts
+#EXTINF:-1,|MEO| AXN HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40381.ts
+#EXTINF:-1,|MEO| AXN WHITE HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40380.ts
+#EXTINF:-1,|NOWO| CINEMUNDO HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40379.ts
+#EXTINF:-1,|MEO| FOX HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40378.ts
+#EXTINF:-1,|MEO| FOX COMEDY
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40377.ts
+#EXTINF:-1,|MEO| FOX CRIME HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40376.ts
+#EXTINF:-1,|MEO| FOX MOVIES
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40375.ts
+#EXTINF:-1,|MEO| FOX LIFE HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40374.ts
+#EXTINF:-1,|MEO| HOLLYWOOD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40373.ts
+#EXTINF:-1,|MEO| HOLLYWOOD HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40372.ts
+#EXTINF:-1,|MEO| SYFY
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40371.ts
+#EXTINF:-1,|MEO| CINEMUNDO
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40370.ts
+#EXTINF:-1,|MEO| TVCINE 1
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40369.ts
+#EXTINF:-1,|MEO| TVCINE 2
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40368.ts
+#EXTINF:-1,|MEO| TVCINE 3
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40367.ts
+#EXTINF:-1,|MEO| TVCINE 4
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40366.ts
+#EXTINF:-1,|MEO| GLOBO
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40365.ts
+#EXTINF:-1,|MEO| GLOBO NOW
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40364.ts
+#EXTINF:-1,|MEO| TRACE URBAN
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40363.ts
+#EXTINF:-1,|MEO| SIC K
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40362.ts
+#EXTINF:-1,|MEO| SIC CARAS
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40361.ts
+#EXTINF:-1,|MEO| SIC
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40360.ts
+#EXTINF:-1,|MEO| SIC MULHER
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40359.ts
+#EXTINF:-1,|MEO| SIC RADICAL
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40358.ts
+#EXTINF:-1,|MEO| SIC NOTÍCIAS
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40357.ts
+#EXTINF:-1,|MEO| RTP 1
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40356.ts
+#EXTINF:-1,|MEO| RTP 2
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40355.ts
+#EXTINF:-1,|MEO| RTP 3
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40354.ts
+#EXTINF:-1,|MEO| RTP AÇORES
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40353.ts
+#EXTINF:-1,|MEO| RTP ÁFRICA
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40352.ts
+#EXTINF:-1,|MEO| RTP MADEIRA
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40351.ts
+#EXTINF:-1,|MEO| RTP MEMÓRIA
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40350.ts
+#EXTINF:-1,|MEO| BIGGS
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40349.ts
+#EXTINF:-1,|MEO| BLAZE
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40348.ts
+#EXTINF:-1,|MEO| BLOOMBERG
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40347.ts
+#EXTINF:-1,|MEO| CAÇAVISION
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40346.ts
+#EXTINF:-1,|MEO| CANAL Q
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40345.ts
+#EXTINF:-1,|MEO| CANÇÃO NOVA
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40344.ts
+#EXTINF:-1,|MEO| KURIAKOS TV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40343.ts
+#EXTINF:-1,##### PT - SERIES  #####
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40342.ts
+#EXTINF:-1,|MEO| CBS REALITY
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40341.ts
+#EXTINF:-1,|MEO| TV SÉRIES
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40340.ts
+#EXTINF:-1,|MEO| EUROCHANNEL
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40339.ts
+#EXTINF:-1,##### PT - INFANTIL #####
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40338.ts
+#EXTINF:-1,|MEO| BABY TV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40337.ts
+#EXTINF:-1,|MEO| CANAL PANDA
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40336.ts
+#EXTINF:-1,|MEO| CARTOON NETWORK
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40335.ts
+#EXTINF:-1,|MEO| DISNEY CHANNEL
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40334.ts
+#EXTINF:-1,|MEO| DISNEY JÚNIOR
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40333.ts
+#EXTINF:-1,|MEO| JIM JAM
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40332.ts
+#EXTINF:-1,##### PT - DESPORTO #####
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40331.ts
+#EXTINF:-1,|MEO| A BOLA TV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40330.ts
+#EXTINF:-1,|MEO| KOMBAT SPORT
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40329.ts
+#EXTINF:-1,|MEO| EUROSPORT 1
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40328.ts
+#EXTINF:-1,|MEO| EUROSPORT 2
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40327.ts
+#EXTINF:-1,|MEO| EUROSPORT 1 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40326.ts
+#EXTINF:-1,|NOS| SPORTING TV HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40325.ts
+#EXTINF:-1,|MEO| REAL MADRID TV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40313.ts
+#EXTINF:-1,|MEO| BTV HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40312.ts
+#EXTINF:-1,|MEO| CMTV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40311.ts
+#EXTINF:-1,PT - CANAL 11 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/63931.ts
+#EXTINF:-1,##### PT - CULTURA #####
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40310.ts
+#EXTINF:-1,|MEO| 24 KITCHEN HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40308.ts
+#EXTINF:-1,|MEO| DISCOVERY CHANNEL
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40307.ts
+#EXTINF:-1,|MEO| HISTÓRIA
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40306.ts
+#EXTINF:-1,|MEO| NAT GEO WILD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40305.ts
+#EXTINF:-1,|MEO| NATIONAL GEOGRAPHIC HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40304.ts
+#EXTINF:-1,|MEO| TRAVEL CHANNEL HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40303.ts
+#EXTINF:-1,|MEO| CRIME INVESTIGATION
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40301.ts
+#EXTINF:-1,##### PT - MUSICA #####
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40300.ts
+#EXTINF:-1,|MEO| AFRO MUSIC
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40299.ts
+#EXTINF:-1,|MEO| MCM POP
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40298.ts
+#EXTINF:-1,|MEO| MTV PORTUGAL
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40297.ts
+#EXTINF:-1,|NOS| MTV PORTUGAL HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40296.ts
+#EXTINF:-1,|MEO| VH1
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40295.ts
+#EXTINF:-1,|MEO| TV GALICIA
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40294.ts
+#EXTINF:-1,##### PT - INTERNACIONAIS #####
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40293.ts
+#EXTINF:-1,|MEO| ARTV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40292.ts
+#EXTINF:-1,|MEO| BBC WORLD NEWS
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40291.ts
+#EXTINF:-1,|MEO| CHANNEL 1 RUSSIA
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40290.ts
+#EXTINF:-1,|MEO| CNBC Europe
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40289.ts
+#EXTINF:-1,|MEO| CNN
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40288.ts
+#EXTINF:-1,|MEO| DEUTSCHE WELLE
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40287.ts
+#EXTINF:-1,|MEO| E! ENTERTAINMENT
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40286.ts
+#EXTINF:-1,|MEO| EURONEWS
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40285.ts
+#EXTINF:-1,|MEO| FOX NEWS
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40284.ts
+#EXTINF:-1,|MEO| FRANCE 24
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40283.ts
+#EXTINF:-1,|MEO| FTV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40282.ts
+#EXTINF:-1,|MEO| MEZZO
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40280.ts
+#EXTINF:-1,|MEO| MY CUISINE
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40279.ts
+#EXTINF:-1,|MEO| NBA TV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40278.ts
+#EXTINF:-1,|MEO| NHK WORLD JAPAN
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40277.ts
+#EXTINF:-1,|MEO| ODISSEIA
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40276.ts
+#EXTINF:-1,|MEO| PFC
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40275.ts
+#EXTINF:-1,|MEO| PORTO CANAL
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40274.ts
+#EXTINF:-1,|MEO| SKY NEWS
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40273.ts
+#EXTINF:-1,|MEO| TOROS TV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40272.ts
+#EXTINF:-1,|MEO| TV RECORD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40271.ts
+#EXTINF:-1,|MEO| TV5 MONDE
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40270.ts
+#EXTINF:-1,|MEO| TVE 24H
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40269.ts
+#EXTINF:-1,|MEO| TVEI
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40268.ts
+#EXTINF:-1,|MEO| TVI
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40267.ts
+#EXTINF:-1,|MEO| TVI 24
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40266.ts
+#EXTINF:-1,|MEO| TVI FICÇÃO
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40265.ts
+#EXTINF:-1,##### PT - BACKUPSOURCE #####
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40264.ts
+#EXTINF:-1,|NOS| AMC HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40263.ts
+#EXTINF:-1,|NOS| AXN HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40262.ts
+#EXTINF:-1,|NOS| BBC ENTERTAINMENT
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40261.ts
+#EXTINF:-1,|NOS| BLAZE
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40260.ts
+#EXTINF:-1,|NOS| BLAZE HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40259.ts
+#EXTINF:-1,|NOS| BTV 1 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40258.ts
+#EXTINF:-1,|NOS| CAÇA E PESCA HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40257.ts
+#EXTINF:-1,|NOS| CANAL 180
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40256.ts
+#EXTINF:-1,|NOS| CMTV HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40255.ts
+#EXTINF:-1,|NOS| DOGTV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40254.ts
+#EXTINF:-1,|NOS| E! ENTERTAINMENT
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40253.ts
+#EXTINF:-1,|NOS| E! ENTERTAINMENT HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40252.ts
+#EXTINF:-1,|NOS| FIGHT NETWORK HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40251.ts
+#EXTINF:-1,|NOS| FINE LIVING NETWORK HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40250.ts
+#EXTINF:-1,|NOS| FOX COMEDY HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40249.ts
+#EXTINF:-1,|NOS| FOX CRIME HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40248.ts
+#EXTINF:-1,|NOS| FOX HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40247.ts
+#EXTINF:-1,|NOS| FOX LIFE HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40246.ts
+#EXTINF:-1,|NOS| FOX MOVIES HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40245.ts
+#EXTINF:-1,|NOS| FTV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40244.ts
+#EXTINF:-1,|NOS| FTV HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40243.ts
+#EXTINF:-1,|NOS| FUEL TV HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40242.ts
+#EXTINF:-1,|NOS| GLOBO HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40241.ts
+#EXTINF:-1,|NOS| GLOBO NOW HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40240.ts
+#EXTINF:-1,|NOS| HOLLYWOOD HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40239.ts
+#EXTINF:-1,|NOS| ICONCERTS HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40237.ts
+#EXTINF:-1,|NOS| ID INVESTIGATION DISCOVERY
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40236.ts
+#EXTINF:-1,|NOS| IUTV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40235.ts
+#EXTINF:-1,|NOS| KBS WORLD HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40234.ts
+#EXTINF:-1,|NOS| LOCALVISÃO TV HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40233.ts
+#EXTINF:-1,|NOS| MEZZO LIVE HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40231.ts
+#EXTINF:-1,|NOS| MOTORVISION HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40230.ts
+#EXTINF:-1,|NOS| MYZEN TV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40229.ts
+#EXTINF:-1,|NOS| NAT GEO WILD HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40228.ts
+#EXTINF:-1,|NOS| NATIONAL GEOGRAPHIC HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40227.ts
+#EXTINF:-1,|NOS| ODISSEIA HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40226.ts
+#EXTINF:-1,|NOS| OUTDOOR HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40225.ts
+#EXTINF:-1,|NOS| PORTO CANAL HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40222.ts
+#EXTINF:-1,|NOS| RTP 1 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40221.ts
+#EXTINF:-1,|NOS| S   HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40220.ts
+#EXTINF:-1,|NOS| SIC CARAS HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40219.ts
+#EXTINF:-1,|NOS| SIC HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40218.ts
+#EXTINF:-1,|NOS| SIC MULHER HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40217.ts
+#EXTINF:-1,|NOS| SIC NOTÍCIAS HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40216.ts
+#EXTINF:-1,|NOS| SIC RADICAL HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40215.ts
+#EXTINF:-1,|NOS| SPORT TV   HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40214.ts
+#EXTINF:-1,|NOS| SPORT TV 1 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40213.ts
+#EXTINF:-1,|NOS| SPORT TV 1 HD [540P]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40212.ts
+#EXTINF:-1,|NOS| SPORT TV 1 HD [720P]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40211.ts
+#EXTINF:-1,|NOS| SPORT TV 2 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40210.ts
+#EXTINF:-1,|NOS| SPORT TV 2 HD [540P]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40209.ts
+#EXTINF:-1,|NOS| SPORT TV 2 HD [720P]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40208.ts
+#EXTINF:-1,|NOS| SPORT TV 3 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40207.ts
+#EXTINF:-1,|NOS| SPORT TV 3 HD [540P]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40206.ts
+#EXTINF:-1,|NOS| SPORT TV 3 HD [720P]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40205.ts
+#EXTINF:-1,|NOS| SPORT TV 4 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40204.ts
+#EXTINF:-1,|NOS| SPORT TV 4 HD [540P]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40203.ts
+#EXTINF:-1,|NOS| SPORT TV 4 HD [720P]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40202.ts
+#EXTINF:-1,|NOS| SPORT TV 5 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40201.ts
+#EXTINF:-1,|NOS| SPORT TV 5 HD [540P]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40200.ts
+#EXTINF:-1,|NOS| SPORT TV 5 HD [720P]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40199.ts
+#EXTINF:-1,|NOS| SPORT TV NBA
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40198.ts
+#EXTINF:-1,|NOS| SUNDANCE HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40197.ts
+#EXTINF:-1,|NOS| SYFY HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40196.ts
+#EXTINF:-1,|NOS| TOROS TV HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40195.ts
+#EXTINF:-1,|NOS| TRACE URBAN HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40194.ts
+#EXTINF:-1,|NOS| TV RECORD HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40193.ts
+#EXTINF:-1,|NOS| TVCINE 1 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40192.ts
+#EXTINF:-1,|NOS| TVCINE 2 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40191.ts
+#EXTINF:-1,|NOS| TVCINE 3 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40190.ts
+#EXTINF:-1,|NOS| TVCINE 4 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40189.ts
+#EXTINF:-1,|NOS| TVSÉRIES HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40188.ts
+#EXTINF:-1,|NOWO| BOOMERANG
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40187.ts
+#EXTINF:-1,|NOWO| DISCOVERY CHANNEL HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40186.ts
+#EXTINF:-1,|NOWO| ELEVEN SPORTS 1 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/49336.ts
+#EXTINF:-1,|NOWO| ELEVEN SPORTS 1 HD [720p]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40183.ts
+#EXTINF:-1,|NOWO| ELEVEN SPORTS 2 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40182.ts
+#EXTINF:-1,|NOWO| ELEVEN SPORTS 2 HD [540p]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40181.ts
+#EXTINF:-1,|NOWO| ELEVEN SPORTS 2 HD [720p]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40180.ts
+#EXTINF:-1,|NOWO| ELEVEN SPORTS 3 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40179.ts
+#EXTINF:-1,|NOWO| ELEVEN SPORTS 3 HD [540p]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40178.ts
+#EXTINF:-1,|NOWO| ELEVEN SPORTS 3 HD [720p]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40177.ts
+#EXTINF:-1,|NOWO| ELEVEN SPORTS 4 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40176.ts
+#EXTINF:-1,|NOWO| ELEVEN SPORTS 4 HD [540p]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40175.ts
+#EXTINF:-1,|NOWO| ELEVEN SPORTS 4 HD [720p]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40174.ts
+#EXTINF:-1,|NOWO| ELEVEN SPORTS 5 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40173.ts
+#EXTINF:-1,|NOWO| ELEVEN SPORTS 5 HD [540p]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40172.ts
+#EXTINF:-1,|NOWO| ELEVEN SPORTS 5 HD [720p]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40171.ts
+#EXTINF:-1,|NOWO| ELEVEN SPORTS 6 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40170.ts
+#EXTINF:-1,|NOWO| ELEVEN SPORTS 6 HD [540p]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40169.ts
+#EXTINF:-1,|NOWO| ELEVEN SPORTS 6 HD [720p]
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40168.ts
+#EXTINF:-1,|NOWO| EUROSPORT 2 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40167.ts
+#EXTINF:-1,|NOWO| FIGHT SPORTS HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40166.ts
+#EXTINF:-1,|NOWO| FRANCE 24 HD FR
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40165.ts
+#EXTINF:-1,|NOWO| FRANCE 24 HD ING
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40164.ts
+#EXTINF:-1,|NOWO| LUXE TV HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40163.ts
+#EXTINF:-1,|NOWO| QYOU HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40162.ts
+#EXTINF:-1,|NOWO| TRACE SPORTS STARS HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/40161.ts
+#EXTINF:-1,###### PT - VIP ######
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/50652.ts
+#EXTINF:-1,PT VIP - RTP 1
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56208.ts
+#EXTINF:-1,PT VIP - RTP 1 FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56207.ts
+#EXTINF:-1,PT VIP - RTP 2
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56206.ts
+#EXTINF:-1,PT VIP - RTP 2 FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56205.ts
+#EXTINF:-1,PT VIP - RTP 3
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56204.ts
+#EXTINF:-1,PT VIP - RTP Açores
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56203.ts
+#EXTINF:-1,PT VIP - RTP Africa
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56202.ts
+#EXTINF:-1,PT VIP - RTP Madeira
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56201.ts
+#EXTINF:-1,PT VIP - RTP Memoria
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56200.ts
+#EXTINF:-1,PT VIP - TVI FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56145.ts
+#EXTINF:-1,PT VIP - TVI
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56147.ts
+#EXTINF:-1,PT VIP - TVI 24
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56146.ts
+#EXTINF:-1,PT VIP - TVI Ficção
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56144.ts
+#EXTINF:-1,PT VIP - TVI Reality
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56143.ts
+#EXTINF:-1,PT VIP - TVI Reality Camara Exclusiva 1
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56142.ts
+#EXTINF:-1,PT VIP - TVI Reality Camara Exclusiva 2
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56141.ts
+#EXTINF:-1,PT VIP - TVI Reality Mosaico
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56138.ts
+#EXTINF:-1,PT VIP - SIC FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56195.ts
+#EXTINF:-1,PT VIP - SIC
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56198.ts
+#EXTINF:-1,PT VIP - SIC Caras FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56196.ts
+#EXTINF:-1,PT VIP - SIC Caras
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56197.ts
+#EXTINF:-1,PT VIP - Sic Kids
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56194.ts
+#EXTINF:-1,PT VIP - SIC Mulher FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56192.ts
+#EXTINF:-1,PT VIP - SIC Mulher
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56193.ts
+#EXTINF:-1,PT VIP - SIC Noticias FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56190.ts
+#EXTINF:-1,PT VIP - SIC Noticias
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56191.ts
+#EXTINF:-1,PT VIP - SIC Radical FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56188.ts
+#EXTINF:-1,PT VIP - SIC Radical
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56189.ts
+#EXTINF:-1,PT VIP - CMTV FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56107.ts
+#EXTINF:-1,PT VIP - CMTV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56108.ts
+#EXTINF:-1,PT VIP - AMC FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56130.ts
+#EXTINF:-1,PT VIP - AMC
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56131.ts
+#EXTINF:-1,PT VIP - SyFy FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56163.ts
+#EXTINF:-1,PT VIP - SyFy
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56164.ts
+#EXTINF:-1,PT VIP - AXN FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56126.ts
+#EXTINF:-1,PT VIP - AXN Black
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56128.ts
+#EXTINF:-1,PT VIP - AXN Black FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56127.ts
+#EXTINF:-1,PT VIP - AXN White
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56125.ts
+#EXTINF:-1,PT VIP - AXN White FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56124.ts
+#EXTINF:-1,PT VIP - Food Network FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56081.ts
+#EXTINF:-1,PT VIP - Fox News
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56071.ts
+#EXTINF:-1,PT VIP - Fox Comedy
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56080.ts
+#EXTINF:-1,PT VIP - Fox Comedy FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56079.ts
+#EXTINF:-1,PT VIP - Fox Crime
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56078.ts
+#EXTINF:-1,PT VIP - Fox Crime FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56077.ts
+#EXTINF:-1,PT VIP - Fox FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56076.ts
+#EXTINF:-1,PT VIP - Fox Life
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56075.ts
+#EXTINF:-1,PT VIP - Fox Life FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56074.ts
+#EXTINF:-1,PT VIP - Fox Movies
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56073.ts
+#EXTINF:-1,PT VIP - Fox Movies FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56072.ts
+#EXTINF:-1,PT VIP - TVCine 1 FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56154.ts
+#EXTINF:-1,PT VIP - TVCine 1
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56155.ts
+#EXTINF:-1,PT VIP - TVCine 2 FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56152.ts
+#EXTINF:-1,PT VIP - TVCine 2
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56153.ts
+#EXTINF:-1,PT VIP - TVCine 3 FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56150.ts
+#EXTINF:-1,PT VIP - TVCine 3
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56151.ts
+#EXTINF:-1,PT VIP - TVCine 4 FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56148.ts
+#EXTINF:-1,PT VIP - TVCine 4
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56149.ts
+#EXTINF:-1,PT VIP - TVSéries FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56136.ts
+#EXTINF:-1,PT VIP - TVSéries
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56137.ts
+#EXTINF:-1,PT VIP - Hollywood FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56067.ts
+#EXTINF:-1,PT VIP - Hollywood
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56068.ts
+#EXTINF:-1,PT VIP - Sport TV  FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56185.ts
+#EXTINF:-1,PT VIP - Sport TV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56186.ts
+#EXTINF:-1,PT VIP - Sport TV 1 FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56183.ts
+#EXTINF:-1,PT VIP - Sport TV 1
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56184.ts
+#EXTINF:-1,PT VIP - Sport TV 1 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56182.ts
+#EXTINF:-1,PT VIP - Sport TV 1 HD (Low)
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56181.ts
+#EXTINF:-1,PT VIP - Sport TV 2 FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56179.ts
+#EXTINF:-1,PT VIP - Sport TV 2
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56180.ts
+#EXTINF:-1,PT VIP - Sport TV 2 HD (Low)
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56177.ts
+#EXTINF:-1,PT VIP - Sport TV 2 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56178.ts
+#EXTINF:-1,PT VIP - Sport TV 3 FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56175.ts
+#EXTINF:-1,PT VIP - Sport TV 3 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56174.ts
+#EXTINF:-1,PT VIP - Sport TV 3
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56176.ts
+#EXTINF:-1,PT VIP - Sport TV 4K UHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56170.ts
+#EXTINF:-1,PT VIP - Sport TV 4 FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56172.ts
+#EXTINF:-1,PT VIP - Sport TV 4 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56171.ts
+#EXTINF:-1,PT VIP - Sport TV 4
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56173.ts
+#EXTINF:-1,PT VIP - Sport TV 5 FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56168.ts
+#EXTINF:-1,PT VIP - Sport TV 5 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56167.ts
+#EXTINF:-1,PT VIP - Sport TV 5
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56169.ts
+#EXTINF:-1,PT VIP - Sporting TV FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56165.ts
+#EXTINF:-1,PT VIP - Sporting TV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56166.ts
+#EXTINF:-1,PT VIP - Eleven Sports 1 FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56097.ts
+#EXTINF:-1,PT VIP - Eleven Sports 1 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56096.ts
+#EXTINF:-1,PT VIP - Eleven Sports 1 HD (Low)
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56095.ts
+#EXTINF:-1,PT VIP - Eleven Sports 2 FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56094.ts
+#EXTINF:-1,PT VIP - Eleven Sports 2 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56093.ts
+#EXTINF:-1,PT VIP - Eleven Sports 2 HD (Low)
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56092.ts
+#EXTINF:-1,PT VIP - Eleven Sports 3 FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56091.ts
+#EXTINF:-1,PT VIP - Eleven Sports 4 FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56090.ts
+#EXTINF:-1,PT VIP - Eleven Sports 5 FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56089.ts
+#EXTINF:-1,PT VIP - Eleven Sports 6 FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56088.ts
+#EXTINF:-1,PT VIP - Eurosport 1 FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56086.ts
+#EXTINF:-1,PT VIP - Eurosport 2 HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56085.ts
+#EXTINF:-1,PT VIP - Kombat Sport
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56063.ts
+#EXTINF:-1,PT VIP - Porto Canal
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56041.ts
+#EXTINF:-1,PT VIP - Porto Canal FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56040.ts
+#EXTINF:-1,PT VIP - Real Madrid TV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56039.ts
+#EXTINF:-1,PT VIP - NBA
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56050.ts
+#EXTINF:-1,PT VIP - NBA FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56049.ts
+#EXTINF:-1,PT VIP - Discovery Channel
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56103.ts
+#EXTINF:-1,PT VIP - Discovery Showcase FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56102.ts
+#EXTINF:-1,PT VIP - Nat Geo
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56054.ts
+#EXTINF:-1,PT VIP - Nat Geo FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56053.ts
+#EXTINF:-1,PT VIP - Nat Geo Wild
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56052.ts
+#EXTINF:-1,PT VIP - Nat Geo Wild FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56051.ts
+#EXTINF:-1,PT VIP - Canal História
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56114.ts
+#EXTINF:-1,PT VIP - Canal Panda
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56113.ts
+#EXTINF:-1,PT VIP - Canal Q
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56112.ts
+#EXTINF:-1,PT VIP - BBC World News
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56122.ts
+#EXTINF:-1,PT VIP - CineMundo
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56109.ts
+#EXTINF:-1,PT VIP - Sky News
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56187.ts
+#EXTINF:-1,PT VIP - Euronews
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56087.ts
+#EXTINF:-1,PT VIP - CNBC
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56106.ts
+#EXTINF:-1,PT VIP - CNN
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56105.ts
+#EXTINF:-1,PT VIP - Baby TV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56123.ts
+#EXTINF:-1,PT VIP - Bloomberg
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56120.ts
+#EXTINF:-1,PT VIP - BOOMERANG
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56210.ts
+#EXTINF:-1,PT VIP - Nick JR.
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56048.ts
+#EXTINF:-1,PT VIP - Nickelodeon
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56047.ts
+#EXTINF:-1,PT VIP - Disney Channel
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56101.ts
+#EXTINF:-1,PT VIP - Disney Junior
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56100.ts
+#EXTINF:-1,PT VIP - Cartoon Network
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56111.ts
+#EXTINF:-1,PT VIP - Jim Jam
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56064.ts
+#EXTINF:-1,PT VIP - MCM Top
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56059.ts
+#EXTINF:-1,PT VIP - Afro Music Channel
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56132.ts
+#EXTINF:-1,PT VIP - 24 Kitchen FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56134.ts
+#EXTINF:-1,PT VIP - A Bola TV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56133.ts
+#EXTINF:-1,PT VIP - ARTV Parlamento
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56129.ts
+#EXTINF:-1,PT VIP - Blaze
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56121.ts
+#EXTINF:-1,PT VIP - BTV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56119.ts
+#EXTINF:-1,PT VIP - BTV FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56118.ts
+#EXTINF:-1,PT VIP - BTV HD (Low)
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56117.ts
+#EXTINF:-1,PT VIP - Caça e Pesca
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56116.ts
+#EXTINF:-1,PT VIP - Caçavision
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56115.ts
+#EXTINF:-1,PT VIP - CBS Reality
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56110.ts
+#EXTINF:-1,PT VIP - Crime Investigation
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56104.ts
+#EXTINF:-1,PT VIP - Dog TV FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56099.ts
+#EXTINF:-1,PT VIP - E! Entertainment
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56098.ts
+#EXTINF:-1,PT VIP - Fashion TV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56084.ts
+#EXTINF:-1,PT VIP - Fight Network FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56083.ts
+#EXTINF:-1,PT VIP - Fine Living Network FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56082.ts
+#EXTINF:-1,PT VIP - Fuel TV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56070.ts
+#EXTINF:-1,PT VIP - Fuel TV FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56069.ts
+#EXTINF:-1,PT VIP - IConcerts FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56066.ts
+#EXTINF:-1,PT VIP - ID Investigation Discovery FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56065.ts
+#EXTINF:-1,PT VIP - LocalVisao HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56062.ts
+#EXTINF:-1,PT VIP - Luxe.TV FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56061.ts
+#EXTINF:-1,PT VIP - MCM Pop
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56060.ts
+#EXTINF:-1,PT VIP - Mezzo
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56058.ts
+#EXTINF:-1,PT VIP - Motorvision HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56057.ts
+#EXTINF:-1,PT VIP - MTV Portugal
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56056.ts
+#EXTINF:-1,PT VIP - My Cuisinne
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56055.ts
+#EXTINF:-1,PT VIP - TV Globo NOW
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56158.ts
+#EXTINF:-1,PT VIP - NOS STUDIOS
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56036.ts
+#EXTINF:-1,PT VIP - Odisseia
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56045.ts
+#EXTINF:-1,PT VIP - Outdoor Channel FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56044.ts
+#EXTINF:-1,PT VIP - PFC
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56042.ts
+#EXTINF:-1,PT VIP - Santuario Fatima
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56199.ts
+#EXTINF:-1,PT VIP - TLC
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56162.ts
+#EXTINF:-1,PT VIP - Toros TV
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56161.ts
+#EXTINF:-1,PT VIP - Trace&Urban
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56160.ts
+#EXTINF:-1,PT VIP - Travel Channel FHD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56159.ts
+#EXTINF:-1,PT VIP - TV Globo Premium
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56157.ts
+#EXTINF:-1,PT VIP - TV Record HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56156.ts
+#EXTINF:-1,PT VIP - VH1
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56135.ts
+#EXTINF:-1,PT VIP - VH1 Classic
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56038.ts
+#EXTINF:-1,PT VIP - ZAP VIVA HD
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56037.ts
+#EXTINF:-1,PT VIP - NRJ Hits
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56046.ts
+#EXTINF:-1,PT VIP - Panda Biggs
+http://tektv.co:80/live/911615071108/7RVfDfx6oL/56043.ts
+#EXTINF:-1,PT: AMC HD 1080
+http://livegopanel.club:8080/droste/droste123/9646
+#EXTINF:-1,PT: AXN BLACK HD 1080
+http://livegopanel.club:8080/droste/droste123/9645
+#EXTINF:-1,PT: AXN HD 1080
+http://livegopanel.club:8080/droste/droste123/9644
+#EXTINF:-1,PT: AXN WHITE HD 1080
+http://livegopanel.club:8080/droste/droste123/9643
+#EXTINF:-1,PT: BTV 1 HD 1080P
+http://livegopanel.club:8080/droste/droste123/9642
+#EXTINF:-1,PT: Discovery Channel FHD
+http://livegopanel.club:8080/droste/droste123/31446
+#EXTINF:-1,PT: EUROSPORT 1 HD 1080
+http://livegopanel.club:8080/droste/droste123/9641
+#EXTINF:-1,PT: FOX Movies HD 1080
+http://livegopanel.club:8080/droste/droste123/9640
+#EXTINF:-1,PT: FIGHT NETWORK HD 1080
+http://livegopanel.club:8080/droste/droste123/9639
+#EXTINF:-1,PT: FOX Comedy HD 1080
+http://livegopanel.club:8080/droste/droste123/9638
+#EXTINF:-1,PT: FOX CRIME HD 1080
+http://livegopanel.club:8080/droste/droste123/9637
+#EXTINF:-1,PT: FOX HD 1080
+http://livegopanel.club:8080/droste/droste123/9636
+#EXTINF:-1,PT: FOX LIFE HD 1080
+http://livegopanel.club:8080/droste/droste123/9635
+#EXTINF:-1,PT: FUEL TV HD 1080
+http://livegopanel.club:8080/droste/droste123/9634
+#EXTINF:-1,PT: SIC NOTICIAS HD 1080
+http://livegopanel.club:8080/droste/droste123/9633
+#EXTINF:-1,PT: SIC RADICAL HD 1080
+http://livegopanel.club:8080/droste/droste123/9632
+#EXTINF:-1,PT: SPORT TV+HD 1080P
+http://livegopanel.club:8080/droste/droste123/16057
+#EXTINF:-1,PT: SPORT TV 1 HD 1080P
+http://livegopanel.club:8080/droste/droste123/16056
+#EXTINF:-1,PT: SPORT TV 2 HD 1080P
+http://livegopanel.club:8080/droste/droste123/16055
+#EXTINF:-1,PT: SPORT TV 3 HD 1080P
+http://livegopanel.club:8080/droste/droste123/16054
+#EXTINF:-1,PT: SPORT TV 4 HD 1080P
+http://livegopanel.club:8080/droste/droste123/16053
+#EXTINF:-1,PT: SPORT TV 5 HD 1080P
+http://livegopanel.club:8080/droste/droste123/16052
+#EXTINF:-1,PT: Sporting TV HD 1080
+http://livegopanel.club:8080/droste/droste123/9625
+#EXTINF:-1,PT: TVCINE 1 HD 1080P
+http://livegopanel.club:8080/droste/droste123/16051
+#EXTINF:-1,PT: TVCINE 2 HD 1080P
+http://livegopanel.club:8080/droste/droste123/16050
+#EXTINF:-1,PT: TVCINE 3 HD 1080P
+http://livegopanel.club:8080/droste/droste123/16049
+#EXTINF:-1,PT: TVCINE 4 HD 1080P
+http://livegopanel.club:8080/droste/droste123/16048
+#EXTINF:-1,PT: SyFy HD 1080
+http://livegopanel.club:8080/droste/droste123/9624
+#EXTINF:-1,PT: Sport TV1
+http://livegopanel.club:8080/droste/droste123/6494
+#EXTINF:-1,PT: Sport TV2
+http://livegopanel.club:8080/droste/droste123/6495
+#EXTINF:-1,PT: Sport TV3
+http://livegopanel.club:8080/droste/droste123/6496
+#EXTINF:-1,PT: Sport TV4
+http://livegopanel.club:8080/droste/droste123/6497
+#EXTINF:-1,PT: Sport TV5
+http://livegopanel.club:8080/droste/droste123/6498
+#EXTINF:-1,PT: Sport TV NBA HD
+http://livegopanel.club:8080/droste/droste123/4483
+#EXTINF:-1,PT: TV Cine 1HD
+http://livegopanel.club:8080/droste/droste123/6499
+#EXTINF:-1,PT: TV Cine 2HD
+http://livegopanel.club:8080/droste/droste123/6500
+#EXTINF:-1,PT: TV Cine 3HD
+http://livegopanel.club:8080/droste/droste123/6501
+#EXTINF:-1,PT: TV Cine 4HD
+http://livegopanel.club:8080/droste/droste123/6502
+#EXTINF:-1,PT: TV SERIES
+http://livegopanel.club:8080/droste/droste123/6503
+#EXTINF:-1,PT: TV SERIES FHD
+http://livegopanel.club:8080/droste/droste123/31447
+#EXTINF:-1,PT: RTP 1
+http://livegopanel.club:8080/droste/droste123/3643
+#EXTINF:-1,PT: RTP 2 HD
+http://livegopanel.club:8080/droste/droste123/5427
+#EXTINF:-1,PT: RTP 2
+http://livegopanel.club:8080/droste/droste123/3654
+#EXTINF:-1,PT: RTP 3
+http://livegopanel.club:8080/droste/droste123/3642
+#EXTINF:-1,PT: SIC
+http://livegopanel.club:8080/droste/droste123/4476
+#EXTINF:-1,PT: TVI HD
+http://livegopanel.club:8080/droste/droste123/955
+#EXTINF:-1,PT: TVI
+http://livegopanel.club:8080/droste/droste123/4477
+#EXTINF:-1,PT: 24 Kitchen HD
+http://livegopanel.club:8080/droste/droste123/12609
+#EXTINF:-1,PT: A Bola TV
+http://livegopanel.club:8080/droste/droste123/4482
+#EXTINF:-1,PT: Blaze
+http://livegopanel.club:8080/droste/droste123/4495
+#EXTINF:-1,PT: AandE TV
+http://livegopanel.club:8080/droste/droste123/12599
+#EXTINF:-1,PT: Afro Music
+http://livegopanel.club:8080/droste/droste123/4496
+#EXTINF:-1,PT: AMC
+http://livegopanel.club:8080/droste/droste123/3667
+#EXTINF:-1,PT: AR TV HD
+http://livegopanel.club:8080/droste/droste123/12604
+#EXTINF:-1,PT: AXN BLACK HD
+http://livegopanel.club:8080/droste/droste123/4669
+#EXTINF:-1,PT: AXN HD
+http://livegopanel.club:8080/droste/droste123/4667
+#EXTINF:-1,PT: AXN WHITE HD
+http://livegopanel.club:8080/droste/droste123/4668
+#EXTINF:-1,PT: BABY TV
+http://livegopanel.club:8080/droste/droste123/3666
+#EXTINF:-1,PT: Biggs
+http://livegopanel.club:8080/droste/droste123/12623
+#EXTINF:-1,PT: BTV 1 HD
+http://livegopanel.club:8080/droste/droste123/3645
+#EXTINF:-1,PT: Canal 11 FHD
+http://livegopanel.club:8080/droste/droste123/30725
+#EXTINF:-1,PT: Caçae Pesca
+http://livegopanel.club:8080/droste/droste123/12627
+#EXTINF:-1,PT: CAÇÃVISION
+http://livegopanel.club:8080/droste/droste123/4666
+#EXTINF:-1,PT: Canal de Historia
+http://livegopanel.club:8080/droste/droste123/3665
+#EXTINF:-1,PT: Canal Panda
+http://livegopanel.club:8080/droste/droste123/3664
+#EXTINF:-1,PT: Canal Q
+http://livegopanel.club:8080/droste/droste123/28964
+#EXTINF:-1,PT: Cinemundo
+http://livegopanel.club:8080/droste/droste123/3663
+#EXTINF:-1,PT: CM TV HD
+http://livegopanel.club:8080/droste/droste123/15202
+#EXTINF:-1,PT: CM TV
+http://livegopanel.club:8080/droste/droste123/3662
+#EXTINF:-1,PT: Crime & Incvestigation
+http://livegopanel.club:8080/droste/droste123/12598
+#EXTINF:-1,PT: Discovery Channel
+http://livegopanel.club:8080/droste/droste123/4490
+#EXTINF:-1,PT: Discovery Showcase HD
+http://livegopanel.club:8080/droste/droste123/12597
+#EXTINF:-1,PT: Disney Channel
+http://livegopanel.club:8080/droste/droste123/4493
+#EXTINF:-1,PT: Disney Junior
+http://livegopanel.club:8080/droste/droste123/3661
+#EXTINF:-1,PT: E! Entertainment
+http://livegopanel.club:8080/droste/droste123/12621
+#EXTINF:-1,PT: EuroNews
+http://livegopanel.club:8080/droste/droste123/12626
+#EXTINF:-1,PT: EUROSPORT HD
+http://livegopanel.club:8080/droste/droste123/1520
+#EXTINF:-1,PT: EUROSPORT 2
+http://livegopanel.club:8080/droste/droste123/12367
+#EXTINF:-1,PT: FightBOX HD
+http://livegopanel.club:8080/droste/droste123/12602
+#EXTINF:-1,PT: Food Network
+http://livegopanel.club:8080/droste/droste123/12607
+#EXTINF:-1,PT: FOX Comedy
+http://livegopanel.club:8080/droste/droste123/4488
+#EXTINF:-1,PT: FOX CRIME HD
+http://livegopanel.club:8080/droste/droste123/4665
+#EXTINF:-1,PT: FOX HD
+http://livegopanel.club:8080/droste/droste123/4664
+#EXTINF:-1,PT: FOX LIFE HD
+http://livegopanel.club:8080/droste/droste123/4663
+#EXTINF:-1,PT: FOX Movies
+http://livegopanel.club:8080/droste/droste123/4489
+#EXTINF:-1,PT: FOX News
+http://livegopanel.club:8080/droste/droste123/12622
+#EXTINF:-1,PT: France 24
+http://livegopanel.club:8080/droste/droste123/12616
+#EXTINF:-1,PT: Fuel TV
+http://livegopanel.club:8080/droste/droste123/4484
+#EXTINF:-1,PT: Fine Living Network FHD
+http://livegopanel.club:8080/droste/droste123/31317
+#EXTINF:-1,PT: Kuriakos Kids
+http://livegopanel.club:8080/droste/droste123/31321
+#EXTINF:-1,PT: LOCALVISAO TV HD
+http://livegopanel.club:8080/droste/droste123/31319
+#EXTINF:-1,PT: MACAU TV
+http://livegopanel.club:8080/droste/droste123/31320
+#EXTINF:-1,PT: NOW
+http://livegopanel.club:8080/droste/droste123/31322
+#EXTINF:-1,PT: SANTUARIO DE FATIMA HD
+http://livegopanel.club:8080/droste/droste123/31318
+#EXTINF:-1,PT: GLOBO PREMIUM
+http://livegopanel.club:8080/droste/droste123/4661
+#EXTINF:-1,PT: Hollywood HD
+http://livegopanel.club:8080/droste/droste123/4486
+#EXTINF:-1,PT: JIM JAM
+http://livegopanel.club:8080/droste/droste123/3660
+#EXTINF:-1,PT: MCM TOP
+http://livegopanel.club:8080/droste/droste123/4498
+#EXTINF:-1,PT: My Cuisine
+http://livegopanel.club:8080/droste/droste123/12625
+#EXTINF:-1,PT: MCS LifeStyle
+http://livegopanel.club:8080/droste/droste123/12596
+#EXTINF:-1,PT: Fashion TV
+http://livegopanel.club:8080/droste/droste123/3659
+#EXTINF:-1,PT: Motorvision
+http://livegopanel.club:8080/droste/droste123/4485
+#EXTINF:-1,PT: Canal 180
+http://livegopanel.club:8080/droste/droste123/4497
+#EXTINF:-1,PT: MTV
+http://livegopanel.club:8080/droste/droste123/3658
+#EXTINF:-1,PT: Nat Geo Wild
+http://livegopanel.club:8080/droste/droste123/4491
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
+http://livegopanel.club:8080/droste/droste123/4662
+#EXTINF:-1,PT: NBA HD
+http://livegopanel.club:8080/droste/droste123/12603
+#EXTINF:-1,PT: NOS STUDIOS HD
+http://livegopanel.club:8080/droste/droste123/31316
+#EXTINF:-1,PT: Nickelodeon
+http://livegopanel.club:8080/droste/droste123/3657
+#EXTINF:-1,PT: ODISSEIA
+http://livegopanel.club:8080/droste/droste123/1517
+#EXTINF:-1,PT: Panda
+http://livegopanel.club:8080/droste/droste123/4492
+#EXTINF:-1,PT: PANDA BIGGS
+http://livegopanel.club:8080/droste/droste123/3656
+#EXTINF:-1,PT: PFC
+http://livegopanel.club:8080/droste/droste123/4660
+#EXTINF:-1,PT: Porto Canal
+http://livegopanel.club:8080/droste/droste123/3655
+#EXTINF:-1,PT: Regiões TV
+http://livegopanel.club:8080/droste/droste123/12620
+#EXTINF:-1,PT: RTP Açores
+http://livegopanel.club:8080/droste/droste123/4481
+#EXTINF:-1,PT: RTP Africa
+http://livegopanel.club:8080/droste/droste123/4480
+#EXTINF:-1,PT: RTP MADEIRA
+http://livegopanel.club:8080/droste/droste123/3653
+#EXTINF:-1,PT: RTP MEMORIA
+http://livegopanel.club:8080/droste/droste123/3652
+#EXTINF:-1,PT: SIC K
+http://livegopanel.club:8080/droste/droste123/3651
+#EXTINF:-1,PT: Sic Kids
+http://livegopanel.club:8080/droste/droste123/4494
+#EXTINF:-1,PT: Sic Caras
+http://livegopanel.club:8080/droste/droste123/14615
+#EXTINF:-1,PT: SIC MULHER
+http://livegopanel.club:8080/droste/droste123/3650
+#EXTINF:-1,PT: SIC NOTICIAS
+http://livegopanel.club:8080/droste/droste123/3649
+#EXTINF:-1,PT: SIC Radical
+http://livegopanel.club:8080/droste/droste123/4479
+#EXTINF:-1,PT: SKYNews
+http://livegopanel.club:8080/droste/droste123/12615
+#EXTINF:-1,PT: MÁS CHIC
+http://livegopanel.club:8080/droste/droste123/12613
+#EXTINF:-1,PT: MVM
+http://livegopanel.club:8080/droste/droste123/12619
+#EXTINF:-1,PT: Kuriakos TV
+http://livegopanel.club:8080/droste/droste123/12600
+#EXTINF:-1,PT: DOG HD
+http://livegopanel.club:8080/droste/droste123/14629
+#EXTINF:-1,PT: SyFy
+http://livegopanel.club:8080/droste/droste123/4487
+#EXTINF:-1,PT: TCV Cabo Verde
+http://livegopanel.club:8080/droste/droste123/12612
+#EXTINF:-1,PT: TLC
+http://livegopanel.club:8080/droste/droste123/12611
+#EXTINF:-1,PT: Toros TV
+http://livegopanel.club:8080/droste/droste123/12610
+#EXTINF:-1,PT: TPA ANGOLA
+http://livegopanel.club:8080/droste/droste123/12614
+#EXTINF:-1,PT: Trace TV
+http://livegopanel.club:8080/droste/droste123/12617
+#EXTINF:-1,PT: Travel HD
+http://livegopanel.club:8080/droste/droste123/12605
+#EXTINF:-1,PT: TV Globo
+http://livegopanel.club:8080/droste/droste123/5426
+#EXTINF:-1,PT: Tv Record
+http://livegopanel.club:8080/droste/droste123/3648
+#EXTINF:-1,PT: Tvi 24
+http://livegopanel.club:8080/droste/droste123/3647
+#EXTINF:-1,PT: TVI FICCAO
+http://livegopanel.club:8080/droste/droste123/3646
+#EXTINF:-1,PT: TVI Reality
+http://livegopanel.club:8080/droste/droste123/4478
+#EXTINF:-1,PT: VH1
+http://livegopanel.club:8080/droste/droste123/12618
+#EXTINF:-1,PT: ZAP VIVA HD
+http://livegopanel.club:8080/droste/droste123/31315
+#EXTINF:-1,PT| RTP INTERNACIONAL
+http://line.dynoconnect.me:8000/Herman/123456/44498
+#EXTINF:-1,PT| RTP 1 HD
+http://line.dynoconnect.me:8000/Herman/123456/7276
+#EXTINF:-1,PT| RTP 1 HD +
+http://line.dynoconnect.me:8000/Herman/123456/24071
+#EXTINF:-1,PT| RTP 2
+http://line.dynoconnect.me:8000/Herman/123456/7275
+#EXTINF:-1,PT| RTP 2 HD +
+http://line.dynoconnect.me:8000/Herman/123456/24069
+#EXTINF:-1,PT| RTP 3
+http://line.dynoconnect.me:8000/Herman/123456/7274
+#EXTINF:-1,PT| RTP ACORES
+http://line.dynoconnect.me:8000/Herman/123456/7273
+#EXTINF:-1,PT| RTP AFRICA
+http://line.dynoconnect.me:8000/Herman/123456/7272
+#EXTINF:-1,PT| RTP MADEIRA
+http://line.dynoconnect.me:8000/Herman/123456/7271
+#EXTINF:-1,PT| RTP MEMORIA
+http://line.dynoconnect.me:8000/Herman/123456/7270
+#EXTINF:-1,PT| TV RECORD HD
+http://line.dynoconnect.me:8000/Herman/123456/7252
+#EXTINF:-1,PT| TV RECORD
+http://line.dynoconnect.me:8000/Herman/123456/32912
+#EXTINF:-1,PT| NOS STUDIOS HD
+http://line.dynoconnect.me:8000/Herman/123456/75223
+#EXTINF:-1,PT| ZAP VIVA HD
+http://line.dynoconnect.me:8000/Herman/123456/75224
+#EXTINF:-1,PT| AFRO MUSIC
+http://line.dynoconnect.me:8000/Herman/123456/7308
+#EXTINF:-1,PT| TCV CABO
+http://line.dynoconnect.me:8000/Herman/123456/86460
+#EXTINF:-1,PT| GLOBO INTERNACIONAL
+http://line.dynoconnect.me:8000/Herman/123456/79655
+#EXTINF:-1,PT| TV GLOBO
+http://line.dynoconnect.me:8000/Herman/123456/7285
+#EXTINF:-1,PT| TV GLOBO NOW
+http://line.dynoconnect.me:8000/Herman/123456/7284
+#EXTINF:-1,PT| SIC
+http://line.dynoconnect.me:8000/Herman/123456/7269
+#EXTINF:-1,PT| SIC HD +
+http://line.dynoconnect.me:8000/Herman/123456/24072
+#EXTINF:-1,PT| SIC FHD
+http://line.dynoconnect.me:8000/Herman/123456/24073
+#EXTINF:-1,PT| SIC CARAS HD
+http://line.dynoconnect.me:8000/Herman/123456/7246
+#EXTINF:-1,PT| SIC NOTICIAS
+http://line.dynoconnect.me:8000/Herman/123456/25356
+#EXTINF:-1,PT| SIC K
+http://line.dynoconnect.me:8000/Herman/123456/7268
+#EXTINF:-1,PT| SIC MULHER
+http://line.dynoconnect.me:8000/Herman/123456/7267
+#EXTINF:-1,PT| SIC RADICAL HD
+http://line.dynoconnect.me:8000/Herman/123456/7266
+#EXTINF:-1,PT| CMTV HD
+http://line.dynoconnect.me:8000/Herman/123456/7295
+#EXTINF:-1,PT| TVI
+http://line.dynoconnect.me:8000/Herman/123456/7250
+#EXTINF:-1,PT| TVI HD +
+http://line.dynoconnect.me:8000/Herman/123456/24074
+#EXTINF:-1,PT| TVI FICCAO
+http://line.dynoconnect.me:8000/Herman/123456/7249
+#EXTINF:-1,PT| TVI REALITY
+http://line.dynoconnect.me:8000/Herman/123456/7248
+#EXTINF:-1,PT| TVI24
+http://line.dynoconnect.me:8000/Herman/123456/7247
+#EXTINF:-1,PT| CANAL Q
+http://line.dynoconnect.me:8000/Herman/123456/7298
+#EXTINF:-1,PT| TLC
+http://line.dynoconnect.me:8000/Herman/123456/7258
+#EXTINF:-1,PT| BLAZE HD
+http://line.dynoconnect.me:8000/Herman/123456/40317
+#EXTINF:-1,PT| CBS REALITY
+http://line.dynoconnect.me:8000/Herman/123456/40314
+#EXTINF:-1,PT| FASHION TV
+http://line.dynoconnect.me:8000/Herman/123456/40312
+#EXTINF:-1,PT| LOCALVISSAO
+http://line.dynoconnect.me:8000/Herman/123456/40316
+#EXTINF:-1,PT| E! ENTERTAINMENT
+http://line.dynoconnect.me:8000/Herman/123456/40313
+#EXTINF:-1,PT| FOOD NETWORK HD
+http://line.dynoconnect.me:8000/Herman/123456/40307
+#EXTINF:-1,PT| MY CUISINE TV
+http://line.dynoconnect.me:8000/Herman/123456/40304
+#EXTINF:-1,PT| SANTUARIO DE FATIMA
+http://line.dynoconnect.me:8000/Herman/123456/40303
+#EXTINF:-1,PT| KURIAKOS TV
+http://line.dynoconnect.me:8000/Herman/123456/40305
+#EXTINF:-1,PT| ODISSEIA
+http://line.dynoconnect.me:8000/Herman/123456/40311
+#EXTINF:-1,PT| FINE LIVING FHD
+http://line.dynoconnect.me:8000/Herman/123456/40306
+#EXTINF:-1,PT| FOX HD
+http://line.dynoconnect.me:8000/Herman/123456/7289
+#EXTINF:-1,PT| FOX LIFE HD
+http://line.dynoconnect.me:8000/Herman/123456/7288
+#EXTINF:-1,PT| FOX MOVIES HD
+http://line.dynoconnect.me:8000/Herman/123456/7287
+#EXTINF:-1,PT| FOX NEWS
+http://line.dynoconnect.me:8000/Herman/123456/7286
+#EXTINF:-1,PT| FOX CRIME HD
+http://line.dynoconnect.me:8000/Herman/123456/7290
+#EXTINF:-1,PT| FOX COMEDY HD
+http://line.dynoconnect.me:8000/Herman/123456/7291
+#EXTINF:-1,PT| NATIONAL GEOGRAPHIC HD
+http://line.dynoconnect.me:8000/Herman/123456/7280
+#EXTINF:-1,PT| NAT GEO WILD HD
+http://line.dynoconnect.me:8000/Herman/123456/40310
+#EXTINF:-1,PT| DISCOVERY HD
+http://line.dynoconnect.me:8000/Herman/123456/7294
+#EXTINF:-1,PT| CI INVESTIGATION
+http://line.dynoconnect.me:8000/Herman/123456/40308
+#EXTINF:-1,PT| HISTORIA
+http://line.dynoconnect.me:8000/Herman/123456/7283
+#EXTINF:-1,PT| TRAVEL CHANNEL  HD
+http://line.dynoconnect.me:8000/Herman/123456/7257
+#EXTINF:-1,PT| OUTDOOR CHANNEL HD
+http://line.dynoconnect.me:8000/Herman/123456/40325
+#EXTINF:-1,PT| 24KITCHEN HD
+http://line.dynoconnect.me:8000/Herman/123456/7310
+#EXTINF:-1,PT| CACE E  PESCA
+http://line.dynoconnect.me:8000/Herman/123456/7301
+#EXTINF:-1,PT| CACAVISION
+http://line.dynoconnect.me:8000/Herman/123456/40309
+#EXTINF:-1,PT| BABYFIRST
+http://line.dynoconnect.me:8000/Herman/123456/7304
+#EXTINF:-1,PT| CANAL BIGGS
+http://line.dynoconnect.me:8000/Herman/123456/7303
+#EXTINF:-1,PT| CANAL PANDA
+http://line.dynoconnect.me:8000/Herman/123456/7299
+#EXTINF:-1,PT| JIM JAM
+http://line.dynoconnect.me:8000/Herman/123456/7282
+#EXTINF:-1,PT| DISNEY JUNIOR HD
+http://line.dynoconnect.me:8000/Herman/123456/7292
+#EXTINF:-1,PT| DISNEY CHANNEL
+http://line.dynoconnect.me:8000/Herman/123456/7293
+#EXTINF:-1,PT| NICKELODEON
+http://line.dynoconnect.me:8000/Herman/123456/7279
+#EXTINF:-1,PT| KURIAKOS KIDS
+http://line.dynoconnect.me:8000/Herman/123456/40320
+#EXTINF:-1,PT| BTV HD
+http://line.dynoconnect.me:8000/Herman/123456/78410
+#EXTINF:-1,PT| BTV 1 HD
+http://line.dynoconnect.me:8000/Herman/123456/7302
+#EXTINF:-1,PT| PFC HD
+http://line.dynoconnect.me:8000/Herman/123456/7278
+#EXTINF:-1,PT| A BOLA TV
+http://line.dynoconnect.me:8000/Herman/123456/7309
+#EXTINF:-1,PT| KOMBAT SPORT
+http://line.dynoconnect.me:8000/Herman/123456/40324
+#EXTINF:-1,PT| SPORT TV + FHD
+http://line.dynoconnect.me:8000/Herman/123456/7265
+#EXTINF:-1,PT| SPORT TV 1 HD
+http://line.dynoconnect.me:8000/Herman/123456/7264
+#EXTINF:-1,PT| SPORT TV 2 HD
+http://line.dynoconnect.me:8000/Herman/123456/7263
+#EXTINF:-1,PT| SPORT TV 3 HD
+http://line.dynoconnect.me:8000/Herman/123456/7262
+#EXTINF:-1,PT| SPORT TV 4 HD
+http://line.dynoconnect.me:8000/Herman/123456/7261
+#EXTINF:-1,PT| SPORT TV 5 HD
+http://line.dynoconnect.me:8000/Herman/123456/7260
+#EXTINF:-1,PT| SPORTING TV HD
+http://line.dynoconnect.me:8000/Herman/123456/7259
+#EXTINF:-1,PT| ELEVEN SPORTS 1 FHD
+http://line.dynoconnect.me:8000/Herman/123456/40337
+#EXTINF:-1,PT| ELEVEN SPORTS 1
+http://line.dynoconnect.me:8000/Herman/123456/40336
+#EXTINF:-1,PT| ELEVEN SPORTS 2 FHD
+http://line.dynoconnect.me:8000/Herman/123456/40335
+#EXTINF:-1,PT| ELEVEN SPORTS 2
+http://line.dynoconnect.me:8000/Herman/123456/40334
+#EXTINF:-1,PT| ELEVEN SPORTS 3 FHD
+http://line.dynoconnect.me:8000/Herman/123456/40333
+#EXTINF:-1,PT| ELEVEN SPORTS 3
+http://line.dynoconnect.me:8000/Herman/123456/40332
+#EXTINF:-1,PT| ELEVEN SPORTS 4 HD
+http://line.dynoconnect.me:8000/Herman/123456/40331
+#EXTINF:-1,PT| ELEVEN SPORTS 5 FHD
+http://line.dynoconnect.me:8000/Herman/123456/40329
+#EXTINF:-1,PT| ELEVEN SPORTS 6 FHD
+http://line.dynoconnect.me:8000/Herman/123456/40327
+#EXTINF:-1,PT| MOTORS TV
+http://line.dynoconnect.me:8000/Herman/123456/7281
+#EXTINF:-1,PT| AXN HD
+http://line.dynoconnect.me:8000/Herman/123456/7306
+#EXTINF:-1,PT| AXN BLACK HD
+http://line.dynoconnect.me:8000/Herman/123456/7307
+#EXTINF:-1,PT| AXN WHITE HD
+http://line.dynoconnect.me:8000/Herman/123456/7305
+#EXTINF:-1,PT| TV SERIES HD
+http://line.dynoconnect.me:8000/Herman/123456/7251
+#EXTINF:-1,PT| CANAL HOLLYWOOD HD
+http://line.dynoconnect.me:8000/Herman/123456/40323
+#EXTINF:-1,PT| CINEMUNDO
+http://line.dynoconnect.me:8000/Herman/123456/40319
+#EXTINF:-1,PT| AMC HD
+http://line.dynoconnect.me:8000/Herman/123456/40322
+#EXTINF:-1,PT| TV CINE 1 HD
+http://line.dynoconnect.me:8000/Herman/123456/7256
+#EXTINF:-1,PT| TV CINE 2 HD
+http://line.dynoconnect.me:8000/Herman/123456/7255
+#EXTINF:-1,PT| TV CINE 3 HD
+http://line.dynoconnect.me:8000/Herman/123456/7254
+#EXTINF:-1,PT| TV CINE 4 HD
+http://line.dynoconnect.me:8000/Herman/123456/7253
+#EXTINF:-1,PT| SYFY HD
+http://line.dynoconnect.me:8000/Herman/123456/40321
+#EXTINF:-1,PT| CANCAO NOVA
+http://line.dynoconnect.me:8000/Herman/123456/7297
+#EXTINF:-1,PT| TRACE TV HD
+http://line.dynoconnect.me:8000/Herman/123456/40302
+#EXTINF:-1,PT| ICONCERTS
+http://line.dynoconnect.me:8000/Herman/123456/40301
+#EXTINF:-1,PT| MCM POP
+http://line.dynoconnect.me:8000/Herman/123456/40299
+#EXTINF:-1,PT| MCM TOP
+http://line.dynoconnect.me:8000/Herman/123456/40298
+#EXTINF:-1,PT| MEZZO
+http://line.dynoconnect.me:8000/Herman/123456/40297
+#EXTINF:-1,PT| MTV DANCE
+http://line.dynoconnect.me:8000/Herman/123456/40296
+#EXTINF:-1,PT| MTV PORTUGAL
+http://line.dynoconnect.me:8000/Herman/123456/40295
+#EXTINF:-1,PT| VH1
+http://line.dynoconnect.me:8000/Herman/123456/40294
+#EXTINF:-1,PT| VH1 CLASSIC
+http://line.dynoconnect.me:8000/Herman/123456/40293
+#EXTINF:-1,PT| AE PORTUGAL
+http://line.dynoconnect.me:8000/Herman/123456/54151
+#EXTINF:-1,PT| AR TV CANAL PARLEMENTO
+http://line.dynoconnect.me:8000/Herman/123456/54150
+#EXTINF:-1,PT| BBC ENTERTAINMENT
+http://line.dynoconnect.me:8000/Herman/123456/40315
+#EXTINF:-1,PT| BENFICA TV HD
+http://line.dynoconnect.me:8000/Herman/123456/54152
+#EXTINF:-1,PT| BLOOMBERG TV EUROPE
+http://line.dynoconnect.me:8000/Herman/123456/54153
+#EXTINF:-1,PT| CANAL NOS
+http://line.dynoconnect.me:8000/Herman/123456/54154
+#EXTINF:-1,PT| CM TV
+http://line.dynoconnect.me:8000/Herman/123456/54155
+#EXTINF:-1,PT| DISCOVERY SHOWCASE HD
+http://line.dynoconnect.me:8000/Herman/123456/54157
+#EXTINF:-1,PT| EURO NEWS PORTUGUES
+http://line.dynoconnect.me:8000/Herman/123456/54158
+#EXTINF:-1,PT| EUROSPORT 1 HD
+http://line.dynoconnect.me:8000/Herman/123456/54159
+#EXTINF:-1,PT| EUROSPORT 2 HD
+http://line.dynoconnect.me:8000/Herman/123456/54160
+#EXTINF:-1,PT| FOX
+http://line.dynoconnect.me:8000/Herman/123456/54162
+#EXTINF:-1,PT| FOX MOVIES
+http://line.dynoconnect.me:8000/Herman/123456/54161
+#EXTINF:-1,PT| FUEL TV EUROPE
+http://line.dynoconnect.me:8000/Herman/123456/54163
+#EXTINF:-1,PT| GALICIA TV EUROPA
+http://line.dynoconnect.me:8000/Herman/123456/54164
+#EXTINF:-1,PT| NBA SPORT HD
+http://line.dynoconnect.me:8000/Herman/123456/45344
+#EXTINF:-1,PT| TLC PAN REGIONAL
+http://line.dynoconnect.me:8000/Herman/123456/54166
+#EXTINF:-1,PT| TVE INTERNATIONAL EUROPA
+http://line.dynoconnect.me:8000/Herman/123456/54167
+#EXTINF:-1,PT-Sport_TV
+http://configuration.tn:8000/sbss25946/dcba2401/6106
+#EXTINF:-1,PT-Sport_TV_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6105
+#EXTINF:-1,PT-Sport_TV_1
+http://configuration.tn:8000/sbss25946/dcba2401/6104
+#EXTINF:-1,PT-Sport_TV_1_FHD
+http://configuration.tn:8000/sbss25946/dcba2401/6100
+#EXTINF:-1,PT-Sport_TV_1_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6103
+#EXTINF:-1,PT-Sport_TV_2
+http://configuration.tn:8000/sbss25946/dcba2401/6099
+#EXTINF:-1,PT-Sport_TV_2_FHD
+http://configuration.tn:8000/sbss25946/dcba2401/6096
+#EXTINF:-1,PT-Sport_TV_2_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6098
+#EXTINF:-1,PT-Sport_TV_3_FHD
+http://configuration.tn:8000/sbss25946/dcba2401/6093
+#EXTINF:-1,PT-Sport_TV_3
+http://configuration.tn:8000/sbss25946/dcba2401/6095
+#EXTINF:-1,PT-Sport_TV_3_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6094
+#EXTINF:-1,PT-Sport_TV_4_FHD
+http://configuration.tn:8000/sbss25946/dcba2401/6090
+#EXTINF:-1,PT-Sport_TV_4
+http://configuration.tn:8000/sbss25946/dcba2401/6092
+#EXTINF:-1,PT-Sport_TV_4_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6091
+#EXTINF:-1,PT-Sport_TV_5
+http://configuration.tn:8000/sbss25946/dcba2401/6089
+#EXTINF:-1,PT-Sport_TV_5_FHD
+http://configuration.tn:8000/sbss25946/dcba2401/6086
+#EXTINF:-1,PT-Sport_TV_5_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6088
+#EXTINF:-1,PT-Sporting_TV
+http://configuration.tn:8000/sbss25946/dcba2401/6078
+#EXTINF:-1,PT-Sporting_TV_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6077
+#EXTINF:-1,PT-TV_Globo
+http://configuration.tn:8000/sbss25946/dcba2401/2169
+#EXTINF:-1,PT-TV Globo
+http://configuration.tn:8000/sbss25946/dcba2401/6016
+#EXTINF:-1,PT-Globo_Premium
+http://configuration.tn:8000/sbss25946/dcba2401/6015
+#EXTINF:-1,PT-RTP_1
+http://configuration.tn:8000/sbss25946/dcba2401/2173
+#EXTINF:-1,PT-RTP_2
+http://configuration.tn:8000/sbss25946/dcba2401/2172
+#EXTINF:-1,PT-RTP_3 HD
+http://configuration.tn:8000/sbss25946/dcba2401/6127
+#EXTINF:-1,PT-RTP_1_FHD
+http://configuration.tn:8000/sbss25946/dcba2401/6131
+#EXTINF:-1,PT-RTP_2_FHD
+http://configuration.tn:8000/sbss25946/dcba2401/6130
+#EXTINF:-1,PT-RTP_A
+http://configuration.tn:8000/sbss25946/dcba2401/6117
+#EXTINF:-1,PT-RTP_Africa
+http://configuration.tn:8000/sbss25946/dcba2401/6116
+#EXTINF:-1,PT-RTP_Madeira
+http://configuration.tn:8000/sbss25946/dcba2401/6118
+#EXTINF:-1,PT-SIC
+http://configuration.tn:8000/sbss25946/dcba2401/5606
+#EXTINF:-1,PT-SIC_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6129
+#EXTINF:-1,PT-SIC_Radical_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6058
+#EXTINF:-1,PT-Sic_Radical
+http://configuration.tn:8000/sbss25946/dcba2401/3405
+#EXTINF:-1,PT-Sic_Mulher
+http://configuration.tn:8000/sbss25946/dcba2401/3406
+#EXTINF:-1,PT-SIC Noticias
+http://configuration.tn:8000/sbss25946/dcba2401/5966
+#EXTINF:-1,PT-Record
+http://configuration.tn:8000/sbss25946/dcba2401/3408
+#EXTINF:-1,PT-REDE TV
+http://configuration.tn:8000/sbss25946/dcba2401/6012
+#EXTINF:-1,PT-Benfica TV HD
+http://configuration.tn:8000/sbss25946/dcba2401/6014
+#EXTINF:-1,PT-TV_Record_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6013
+#EXTINF:-1,PT-TVCine1
+http://configuration.tn:8000/sbss25946/dcba2401/2168
+#EXTINF:-1,PT-TVCine2
+http://configuration.tn:8000/sbss25946/dcba2401/2167
+#EXTINF:-1,PT-TVCine3
+http://configuration.tn:8000/sbss25946/dcba2401/2166
+#EXTINF:-1,PT-TVCine4
+http://configuration.tn:8000/sbss25946/dcba2401/5699
+#EXTINF:-1,PT-TVCine_1_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6053
+#EXTINF:-1,PT-TVCine_2_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6052
+#EXTINF:-1,PT-TVCine_3_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6051
+#EXTINF:-1,PT-TVCine_4_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6049
+#EXTINF:-1,PT-TVSeries_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6048
+#EXTINF:-1,PT-TVE_24_Horas
+http://configuration.tn:8000/sbss25946/dcba2401/6029
+#EXTINF:-1,PT-TVE_Internacional
+http://configuration.tn:8000/sbss25946/dcba2401/6028
+#EXTINF:-1,PT-TVI_24
+http://configuration.tn:8000/sbss25946/dcba2401/6126
+#EXTINF:-1,PT-TVI_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6128
+#EXTINF:-1,PT-TVI_Reality
+http://configuration.tn:8000/sbss25946/dcba2401/6123
+#EXTINF:-1,PT-TVI_Reality_Mosaico
+http://configuration.tn:8000/sbss25946/dcba2401/6122
+#EXTINF:-1,PT-24_Kitchen_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6027
+#EXTINF:-1,PT-A_Bola_TV
+http://configuration.tn:8000/sbss25946/dcba2401/6075
+#EXTINF:-1,PT-JIMJAM
+http://configuration.tn:8000/sbss25946/dcba2401/5607
+#EXTINF:-1,PT-A&E
+http://configuration.tn:8000/sbss25946/dcba2401/6026
+#EXTINF:-1,PT-Afro_Music_Channel
+http://configuration.tn:8000/sbss25946/dcba2401/6000
+#EXTINF:-1,PT-AMC
+http://configuration.tn:8000/sbss25946/dcba2401/6032
+#EXTINF:-1,PT-AMC_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6033
+#EXTINF:-1,PT-AXN_Black_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6037
+#EXTINF:-1,PT-AXN_HD_(F)
+http://configuration.tn:8000/sbss25946/dcba2401/6040
+#EXTINF:-1,PT-AXN_White_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6039
+#EXTINF:-1,PT-Blaze
+http://configuration.tn:8000/sbss25946/dcba2401/6038
+#EXTINF:-1,PT-SIC_K
+http://configuration.tn:8000/sbss25946/dcba2401/6057
+#EXTINF:-1,PT-Baby_TV
+http://configuration.tn:8000/sbss25946/dcba2401/6056
+#EXTINF:-1,PT-Cartoon_Network
+http://configuration.tn:8000/sbss25946/dcba2401/6061
+#EXTINF:-1,PT-Sic kids
+http://configuration.tn:8000/sbss25946/dcba2401/5989
+#EXTINF:-1,PT-CBS_R
+http://configuration.tn:8000/sbss25946/dcba2401/6020
+#EXTINF:-1,PT-Trace Urban TV
+http://configuration.tn:8000/sbss25946/dcba2401/6113
+#EXTINF:-1,PT-PANDA Biggs
+http://configuration.tn:8000/sbss25946/dcba2401/6059
+#EXTINF:-1,PT-Bloomberg
+http://configuration.tn:8000/sbss25946/dcba2401/6109
+#EXTINF:-1,PT-BTV_1
+http://configuration.tn:8000/sbss25946/dcba2401/6085
+#EXTINF:-1,PT-BTV_1_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6083
+#EXTINF:-1,PT-Canal_Panda
+http://configuration.tn:8000/sbss25946/dcba2401/6060
+#EXTINF:-1,PT-Canal Odisseia
+http://configuration.tn:8000/sbss25946/dcba2401/6119
+#EXTINF:-1,PT-Caza_e_Pesca
+http://configuration.tn:8000/sbss25946/dcba2401/5988
+#EXTINF:-1,PT-CBS_Reality
+http://configuration.tn:8000/sbss25946/dcba2401/6111
+#EXTINF:-1,PT-FORCES_TV
+http://configuration.tn:8000/sbss25946/dcba2401/6073
+#EXTINF:-1,PT-Cinemundo
+http://configuration.tn:8000/sbss25946/dcba2401/6045
+#EXTINF:-1,PT-CMTV
+http://configuration.tn:8000/sbss25946/dcba2401/6125
+#EXTINF:-1,PT-Fox_Movies
+http://configuration.tn:8000/sbss25946/dcba2401/2170
+#EXTINF:-1,PT-SIC_Caras
+http://configuration.tn:8000/sbss25946/dcba2401/2171
+#EXTINF:-1,PT-Fox_HD
+http://configuration.tn:8000/sbss25946/dcba2401/2175
+#EXTINF:-1,PT-Fox_Crime
+http://configuration.tn:8000/sbss25946/dcba2401/2176
+#EXTINF:-1,PT-Fox_Comedy
+http://configuration.tn:8000/sbss25946/dcba2401/2177
+#EXTINF:-1,PT-Disney_Junior
+http://configuration.tn:8000/sbss25946/dcba2401/2178
+#EXTINF:-1,PT-Disney_Channel
+http://configuration.tn:8000/sbss25946/dcba2401/2179
+#EXTINF:-1,PT-TVI
+http://configuration.tn:8000/sbss25946/dcba2401/5702
+#EXTINF:-1,PT-TVI_Ficcao
+http://configuration.tn:8000/sbss25946/dcba2401/3402
+#EXTINF:-1,PT-TV_Cseries
+http://configuration.tn:8000/sbss25946/dcba2401/3403
+#EXTINF:-1,PT-BTV HD
+http://configuration.tn:8000/sbss25946/dcba2401/5700
+#EXTINF:-1,PT-CMTV FHD
+http://configuration.tn:8000/sbss25946/dcba2401/5701
+#EXTINF:-1,PT-Travel Channel HD
+http://configuration.tn:8000/sbss25946/dcba2401/5698
+#EXTINF:-1,PT-Toros_tv
+http://configuration.tn:8000/sbss25946/dcba2401/3404
+#EXTINF:-1,PT-RTP_Memoria
+http://configuration.tn:8000/sbss25946/dcba2401/3407
+#EXTINF:-1,PT-Motors_TV
+http://configuration.tn:8000/sbss25946/dcba2401/3409
+#EXTINF:-1,PT-Jim_Jim
+http://configuration.tn:8000/sbss25946/dcba2401/3410
+#EXTINF:-1,PT-Nat Geo Wild
+http://configuration.tn:8000/sbss25946/dcba2401/5608
+#EXTINF:-1,PT-Discovery_HD
+http://configuration.tn:8000/sbss25946/dcba2401/3411
+#EXTINF:-1,PT-Canal_Porto
+http://configuration.tn:8000/sbss25946/dcba2401/3412
+#EXTINF:-1,PT-AXN_HD
+http://configuration.tn:8000/sbss25946/dcba2401/3413
+#EXTINF:-1,PT-Abola_tv
+http://configuration.tn:8000/sbss25946/dcba2401/3414
+#EXTINF:-1,PT-Crime_Investigation_CI
+http://configuration.tn:8000/sbss25946/dcba2401/6031
+#EXTINF:-1,PT-Discovery_Channel
+http://configuration.tn:8000/sbss25946/dcba2401/5999
+#EXTINF:-1,PT-Discovery_Showcase_HD
+http://configuration.tn:8000/sbss25946/dcba2401/5998
+#EXTINF:-1,PT-MOV HD
+http://configuration.tn:8000/sbss25946/dcba2401/6120
+#EXTINF:-1,PT-E!_Entertainment
+http://configuration.tn:8000/sbss25946/dcba2401/6024
+#EXTINF:-1,PT-Eurosport_1
+http://configuration.tn:8000/sbss25946/dcba2401/6072
+#EXTINF:-1,PT-Eurosport_2
+http://configuration.tn:8000/sbss25946/dcba2401/6070
+#EXTINF:-1,PT-Eurosport_News
+http://configuration.tn:8000/sbss25946/dcba2401/6069
+#EXTINF:-1,PT-Fashion_TV
+http://configuration.tn:8000/sbss25946/dcba2401/6110
+#EXTINF:-1,PT-Fight_Network_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6066
+#EXTINF:-1,PT-Fine_Living_Network_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6021
+#EXTINF:-1,PT-Food_Network_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6022
+#EXTINF:-1,PT-FOX_Comedy_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6041
+#EXTINF:-1,PT-FOX_Crime_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6042
+#EXTINF:-1,PT-FOX_Life_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6043
+#EXTINF:-1,PT-FOX_Movies_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6044
+#EXTINF:-1,PT-FOX_News
+http://configuration.tn:8000/sbss25946/dcba2401/6107
+#EXTINF:-1,PT-Fuel_TV
+http://configuration.tn:8000/sbss25946/dcba2401/6064
+#EXTINF:-1,PT-Hollywood
+http://configuration.tn:8000/sbss25946/dcba2401/6047
+#EXTINF:-1,PT-Hollywood_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6046
+#EXTINF:-1,PT-Kuriakos
+http://configuration.tn:8000/sbss25946/dcba2401/5994
+#EXTINF:-1,PT-Localvisao_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6121
+#EXTINF:-1,PT-MCM_TOP
+http://configuration.tn:8000/sbss25946/dcba2401/6006
+#EXTINF:-1,PT-MCS_Extreme
+http://configuration.tn:8000/sbss25946/dcba2401/5991
+#EXTINF:-1,PT-MCS_LifeStyle
+http://configuration.tn:8000/sbss25946/dcba2401/5990
+#EXTINF:-1,PT-Motors TV HD
+http://configuration.tn:8000/sbss25946/dcba2401/6068
+#EXTINF:-1,PT-MTV_Portugal
+http://configuration.tn:8000/sbss25946/dcba2401/6011
+#EXTINF:-1,PT-Nat_Geo_Wild
+http://configuration.tn:8000/sbss25946/dcba2401/5996
+#EXTINF:-1,PT-NBA HD
+http://configuration.tn:8000/sbss25946/dcba2401/5995
+#EXTINF:-1,PT-National_Geographic_HD
+http://configuration.tn:8000/sbss25946/dcba2401/5997
+#EXTINF:-1,PT-Nickelodeon
+http://configuration.tn:8000/sbss25946/dcba2401/6062
+#EXTINF:-1,PT-Chelsea TV HD
+http://configuration.tn:8000/sbss25946/dcba2401/5992
+#EXTINF:-1,PT-Outdoor_Channel_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6065
+#EXTINF:-1,PT-PFC
+http://configuration.tn:8000/sbss25946/dcba2401/6017
+#EXTINF:-1,PT-Historia
+http://configuration.tn:8000/sbss25946/dcba2401/5993
+#EXTINF:-1,PT-Porto_Canal
+http://configuration.tn:8000/sbss25946/dcba2401/6115
+#EXTINF:-1,PT-Real_Madrid_TV
+http://configuration.tn:8000/sbss25946/dcba2401/6074
+#EXTINF:-1,PT-europe_News
+http://configuration.tn:8000/sbss25946/dcba2401/6108
+#EXTINF:-1,PT-TPA (Angola)
+http://configuration.tn:8000/sbss25946/dcba2401/6004
+#EXTINF:-1,PT-SyFy
+http://configuration.tn:8000/sbss25946/dcba2401/6035
+#EXTINF:-1,PT-SyFy_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6034
+#EXTINF:-1,PT-TLC
+http://configuration.tn:8000/sbss25946/dcba2401/6025
+#EXTINF:-1,PT-VH1 EUROPE
+http://configuration.tn:8000/sbss25946/dcba2401/6005
+#EXTINF:-1,PT-Travel_Channel_HD
+http://configuration.tn:8000/sbss25946/dcba2401/6023
+#EXTINF:-1,PT-VH1
+http://configuration.tn:8000/sbss25946/dcba2401/6009
+#EXTINF:-1,PT-VH1_Classic
+http://configuration.tn:8000/sbss25946/dcba2401/6008
+#EXTINF:-1,PT-trc_Exclusiva_1
+http://configuration.tn:8000/sbss25946/dcba2401/5987
+#EXTINF:-1,PT-trc_Exclusiva_2
+http://configuration.tn:8000/sbss25946/dcba2401/5986
+#EXTINF:-1,PT-trc_Exclusiva_3
+http://configuration.tn:8000/sbss25946/dcba2401/5985
+#EXTINF:-1,PT-trc_Exclusiva_4
+http://configuration.tn:8000/sbss25946/dcba2401/5984
+#EXTINF:-1,PT | A&E HD
+http://live.eurovipserver.com:1453/aksel/ilker/120085
+#EXTINF:-1,PT | AFRO MUSIC
+http://live.eurovipserver.com:1453/aksel/ilker/120084
+#EXTINF:-1,PT | AMC
+http://live.eurovipserver.com:1453/aksel/ilker/120083
+#EXTINF:-1,PT | ANIMAL PLANET
+http://live.eurovipserver.com:1453/aksel/ilker/120082
+#EXTINF:-1,PT | ARTV
+http://live.eurovipserver.com:1453/aksel/ilker/120081
+#EXTINF:-1,PT | AXN BLACK HD
+http://live.eurovipserver.com:1453/aksel/ilker/120080
+#EXTINF:-1,PT | AXN HD
+http://live.eurovipserver.com:1453/aksel/ilker/120079
+#EXTINF:-1,PT | AXN WHITE HD
+http://live.eurovipserver.com:1453/aksel/ilker/120078
+#EXTINF:-1,PT | Baby First
+http://live.eurovipserver.com:1453/aksel/ilker/120071
+#EXTINF:-1,PT | BABY TV
+http://live.eurovipserver.com:1453/aksel/ilker/120077
+#EXTINF:-1,PT | BEIN Sports
+http://live.eurovipserver.com:1453/aksel/ilker/120076
+#EXTINF:-1,PT | BENFICA TV 1 HD
+http://live.eurovipserver.com:1453/aksel/ilker/120075
+#EXTINF:-1,PT | BIGGS
+http://live.eurovipserver.com:1453/aksel/ilker/120073
+#EXTINF:-1,PT | BTV 1 HD
+http://live.eurovipserver.com:1453/aksel/ilker/120072
+#EXTINF:-1,PT | CACA & PESCA
+http://live.eurovipserver.com:1453/aksel/ilker/120070
+#EXTINF:-1,PT | CANAL  TOROS
+http://live.eurovipserver.com:1453/aksel/ilker/120068
+#EXTINF:-1,PT | Canal de Historia
+http://live.eurovipserver.com:1453/aksel/ilker/120063
+#EXTINF:-1,PT | CANAL PANDA
+http://live.eurovipserver.com:1453/aksel/ilker/120069
+#EXTINF:-1,PT | CAPELA DE FATIMA
+http://live.eurovipserver.com:1453/aksel/ilker/120067
+#EXTINF:-1,PT | CBS REALITY
+http://live.eurovipserver.com:1453/aksel/ilker/120066
+#EXTINF:-1,PT | CINE MUNDO
+http://live.eurovipserver.com:1453/aksel/ilker/120065
+#EXTINF:-1,PT | CM TV
+http://live.eurovipserver.com:1453/aksel/ilker/120064
+#EXTINF:-1,PT | Crimen & Investigation
+http://live.eurovipserver.com:1453/aksel/ilker/120061
+#EXTINF:-1,PT | DISCOVERY CHANNEL
+http://live.eurovipserver.com:1453/aksel/ilker/120060
+#EXTINF:-1,PT | DISNEY CHANNEL
+http://live.eurovipserver.com:1453/aksel/ilker/120059
+#EXTINF:-1,PT | Disney Channel HD
+http://live.eurovipserver.com:1453/aksel/ilker/120058
+#EXTINF:-1,PT | E! ENTERTAINMENT
+http://live.eurovipserver.com:1453/aksel/ilker/120057
+#EXTINF:-1,PT | Euronews
+http://live.eurovipserver.com:1453/aksel/ilker/120054
+#EXTINF:-1,PT | EUROSPORT 1 HD
+http://live.eurovipserver.com:1453/aksel/ilker/120056
+#EXTINF:-1,PT | EUROSPORT 2 HD
+http://live.eurovipserver.com:1453/aksel/ilker/120055
+#EXTINF:-1,PT | Food Network HD
+http://live.eurovipserver.com:1453/aksel/ilker/120046
+#EXTINF:-1,PT | FOX COMEDY
+http://live.eurovipserver.com:1453/aksel/ilker/120053
+#EXTINF:-1,PT | Fox Crime
+http://live.eurovipserver.com:1453/aksel/ilker/120045
+#EXTINF:-1,PT | FOX HD
+http://live.eurovipserver.com:1453/aksel/ilker/120052
+#EXTINF:-1,PT | FOX LIFE HD
+http://live.eurovipserver.com:1453/aksel/ilker/120051
+#EXTINF:-1,PT | FOX NEWS HD
+http://live.eurovipserver.com:1453/aksel/ilker/120049
+#EXTINF:-1,PT | FUEL TV HD
+http://live.eurovipserver.com:1453/aksel/ilker/120048
+#EXTINF:-1,PT | FX
+http://live.eurovipserver.com:1453/aksel/ilker/120047
+#EXTINF:-1,PT | Globo
+http://live.eurovipserver.com:1453/aksel/ilker/120043
+#EXTINF:-1,PT | GLOBO HD
+http://live.eurovipserver.com:1453/aksel/ilker/120044
+#EXTINF:-1,PT | Globo Now
+http://live.eurovipserver.com:1453/aksel/ilker/120041
+#EXTINF:-1,PT | Globo Now HD
+http://live.eurovipserver.com:1453/aksel/ilker/120042
+#EXTINF:-1,PT | HOLLYWOOD
+http://live.eurovipserver.com:1453/aksel/ilker/120040
+#EXTINF:-1,PT | HOT
+http://live.eurovipserver.com:1453/aksel/ilker/120039
+#EXTINF:-1,PT | JimJam
+http://live.eurovipserver.com:1453/aksel/ilker/120038
+#EXTINF:-1,PT | LifeStyle TV
+http://live.eurovipserver.com:1453/aksel/ilker/120037
+#EXTINF:-1,PT | MCM POP
+http://live.eurovipserver.com:1453/aksel/ilker/120036
+#EXTINF:-1,PT | MCM Top
+http://live.eurovipserver.com:1453/aksel/ilker/120035
+#EXTINF:-1,PT | MCS LifeStyle
+http://live.eurovipserver.com:1453/aksel/ilker/120033
+#EXTINF:-1,PT | Motors TV
+http://live.eurovipserver.com:1453/aksel/ilker/120026
+#EXTINF:-1,PT | MOTORSPORT TV
+http://live.eurovipserver.com:1453/aksel/ilker/120032
+#EXTINF:-1,PT | MOTORVISION HD (DE)
+http://live.eurovipserver.com:1453/aksel/ilker/120031
+#EXTINF:-1,PT | MOV HD
+http://live.eurovipserver.com:1453/aksel/ilker/120030
+#EXTINF:-1,PT | MTV
+http://live.eurovipserver.com:1453/aksel/ilker/120029
+#EXTINF:-1,PT | MTV Dance
+http://live.eurovipserver.com:1453/aksel/ilker/120028
+#EXTINF:-1,PT | MTV PORTUGAL
+http://live.eurovipserver.com:1453/aksel/ilker/120027
+#EXTINF:-1,PT | NAT GEO  WILD
+http://live.eurovipserver.com:1453/aksel/ilker/120024
+#EXTINF:-1,PT | NAT GEO HD
+http://live.eurovipserver.com:1453/aksel/ilker/120025
+#EXTINF:-1,PT | NAT GEO WILD
+http://live.eurovipserver.com:1453/aksel/ilker/120023
+#EXTINF:-1,PT | Nick
+http://live.eurovipserver.com:1453/aksel/ilker/120020
+#EXTINF:-1,PT | NICKELODEON
+http://live.eurovipserver.com:1453/aksel/ilker/120022
+#EXTINF:-1,PT | NRJ HITS TV
+http://live.eurovipserver.com:1453/aksel/ilker/120021
+#EXTINF:-1,PT | ODISSEA
+http://live.eurovipserver.com:1453/aksel/ilker/120019
+#EXTINF:-1,PT | PANDA BIGGS
+http://live.eurovipserver.com:1453/aksel/ilker/120018
+#EXTINF:-1,PT | PFC
+http://live.eurovipserver.com:1453/aksel/ilker/120017
+#EXTINF:-1,PT | Plus TVI
+http://live.eurovipserver.com:1453/aksel/ilker/120015
+#EXTINF:-1,PT | PORTO CANAL
+http://live.eurovipserver.com:1453/aksel/ilker/120016
+#EXTINF:-1,PT | Q CANAL
+http://live.eurovipserver.com:1453/aksel/ilker/120014
+#EXTINF:-1,PT | RCI RADICAL
+http://live.eurovipserver.com:1453/aksel/ilker/120013
+#EXTINF:-1,PT | Record
+http://live.eurovipserver.com:1453/aksel/ilker/120003
+#EXTINF:-1,PT | Record News
+http://live.eurovipserver.com:1453/aksel/ilker/120012
+#EXTINF:-1,PT | REDE TV
+http://live.eurovipserver.com:1453/aksel/ilker/120011
+#EXTINF:-1,PT | RTP 1
+http://live.eurovipserver.com:1453/aksel/ilker/120010
+#EXTINF:-1,PT | RTP 2
+http://live.eurovipserver.com:1453/aksel/ilker/120009
+#EXTINF:-1,PT | RTP 3
+http://live.eurovipserver.com:1453/aksel/ilker/120008
+#EXTINF:-1,PT | RTP AFRICA
+http://live.eurovipserver.com:1453/aksel/ilker/120007
+#EXTINF:-1,PT | RTP INTERNACIONAL
+http://live.eurovipserver.com:1453/aksel/ilker/120006
+#EXTINF:-1,PT | RTP MADEIRA
+http://live.eurovipserver.com:1453/aksel/ilker/120005
+#EXTINF:-1,PT | RTP Memoria
+http://live.eurovipserver.com:1453/aksel/ilker/120004
+#EXTINF:-1,PT | SIC
+http://live.eurovipserver.com:1453/aksel/ilker/120001
+#EXTINF:-1,PT | SIC  MULHER
+http://live.eurovipserver.com:1453/aksel/ilker/119999
+#EXTINF:-1,PT | SIC  RADICAL
+http://live.eurovipserver.com:1453/aksel/ilker/119996
+#EXTINF:-1,PT | SIC CARAS
+http://live.eurovipserver.com:1453/aksel/ilker/120002
+#EXTINF:-1,PT | SIC Kids
+http://live.eurovipserver.com:1453/aksel/ilker/120000
+#EXTINF:-1,PT | SIC Mulher FHD
+http://live.eurovipserver.com:1453/aksel/ilker/119998
+#EXTINF:-1,PT | Sic noticias
+http://live.eurovipserver.com:1453/aksel/ilker/119988
+#EXTINF:-1,PT | SIC RADICAL
+http://live.eurovipserver.com:1453/aksel/ilker/119997
+#EXTINF:-1,PT | SPORT TV 1
+http://live.eurovipserver.com:1453/aksel/ilker/119995
+#EXTINF:-1,PT | SPORT TV 2 HD
+http://live.eurovipserver.com:1453/aksel/ilker/119994
+#EXTINF:-1,PT | SPORT TV 3 HD
+http://live.eurovipserver.com:1453/aksel/ilker/119993
+#EXTINF:-1,PT | SPORT TV 4 HD
+http://live.eurovipserver.com:1453/aksel/ilker/119992
+#EXTINF:-1,PT | SPORT TV 5 HD
+http://live.eurovipserver.com:1453/aksel/ilker/119991
+#EXTINF:-1,PT | SPORTING TV
+http://live.eurovipserver.com:1453/aksel/ilker/119990
+#EXTINF:-1,PT | SYFY
+http://live.eurovipserver.com:1453/aksel/ilker/119989
+#EXTINF:-1,PT | TLC HD
+http://live.eurovipserver.com:1453/aksel/ilker/119986
+#EXTINF:-1,PT | Toros TV HD
+http://live.eurovipserver.com:1453/aksel/ilker/119962
+#EXTINF:-1,PT | TPA INTERN
+http://live.eurovipserver.com:1453/aksel/ilker/119985
+#EXTINF:-1,PT | Trace Urban TV
+http://live.eurovipserver.com:1453/aksel/ilker/119961
+#EXTINF:-1,PT | Travel Channel HD
+http://live.eurovipserver.com:1453/aksel/ilker/119960
+#EXTINF:-1,PT | TV CANCAO NOVA
+http://live.eurovipserver.com:1453/aksel/ilker/119984
+#EXTINF:-1,PT | TV CINE  2
+http://live.eurovipserver.com:1453/aksel/ilker/119982
+#EXTINF:-1,PT | TV CINE 1 HD
+http://live.eurovipserver.com:1453/aksel/ilker/119983
+#EXTINF:-1,PT | TV CINE 2 HD
+http://live.eurovipserver.com:1453/aksel/ilker/119981
+#EXTINF:-1,PT | TV CINE 3
+http://live.eurovipserver.com:1453/aksel/ilker/119980
+#EXTINF:-1,PT | TV CINE 4 HD
+http://live.eurovipserver.com:1453/aksel/ilker/119979
+#EXTINF:-1,PT | TV GLOBO
+http://live.eurovipserver.com:1453/aksel/ilker/119978
+#EXTINF:-1,PT | TV Series
+http://live.eurovipserver.com:1453/aksel/ilker/119977
+#EXTINF:-1,PT | TVC 1 FHD
+http://live.eurovipserver.com:1453/aksel/ilker/119976
+#EXTINF:-1,PT | TVC 2 FHD
+http://live.eurovipserver.com:1453/aksel/ilker/119975
+#EXTINF:-1,PT | TVC 3 FHD
+http://live.eurovipserver.com:1453/aksel/ilker/119974
+#EXTINF:-1,PT | TVC 4  FHD
+http://live.eurovipserver.com:1453/aksel/ilker/119973
+#EXTINF:-1,PT | TVC Series
+http://live.eurovipserver.com:1453/aksel/ilker/119972
+#EXTINF:-1,PT | TVI 24H
+http://live.eurovipserver.com:1453/aksel/ilker/119971
+#EXTINF:-1,PT | TVI Camara Exclusiva
+http://live.eurovipserver.com:1453/aksel/ilker/119969
+#EXTINF:-1,PT | TVI FICCAO
+http://live.eurovipserver.com:1453/aksel/ilker/119968
+#EXTINF:-1,PT | TVI HD
+http://live.eurovipserver.com:1453/aksel/ilker/119967
+#EXTINF:-1,PT | TVI Internacional
+http://live.eurovipserver.com:1453/aksel/ilker/119970
+#EXTINF:-1,PT | TVI REALITY CAMARA 1
+http://live.eurovipserver.com:1453/aksel/ilker/119966
+#EXTINF:-1,PT | TVI REALITY CAMARA 4
+http://live.eurovipserver.com:1453/aksel/ilker/119965
+#EXTINF:-1,PT | TVI Reality HD
+http://live.eurovipserver.com:1453/aksel/ilker/119963
+#EXTINF:-1,PT | TVI REALITY MOSAICO
+http://live.eurovipserver.com:1453/aksel/ilker/119964
+#EXTINF:-1,PT | VH1
+http://live.eurovipserver.com:1453/aksel/ilker/119959
 #EXTINF: 59 group-title="XXX", ADULT3D Porn Action - VOD 01
 http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
 #EXTINF: -1 group-title="XXX", ADULT3D Porn Action - VOD 02
