@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,PT: BENFICA TV
+http://primestreams.tv:826/live/Beard1/Beard1/97433.m3u8
 #EXTINF:-1,RTP 1 HD+
 http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2615
 #EXTINF:-1,RTP 2 HD+
