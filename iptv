@@ -1,203 +1,179 @@
-#EXTM3U
-#EXTINF:-1,PT: BENFICA TV
-http://primestreams.tv:826/live/Beard1/Beard1/97433.m3u8
-#EXTINF:-1,RTP 1 HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2615
-#EXTINF:-1,RTP 2 HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2616
-#EXTINF:-1,RTP 3 HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2617
-#EXTINF:-1,RTP ACORES HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2621
-#EXTINF:-1,RTP MEMORIA HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2618
-#EXTINF:-1,RTP AFRICA HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2620
-#EXTINF:-1,RTP INTER HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50199
-#EXTINF:-1,TPA (Angola)
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/70066
-#EXTINF:-1,TCV Cabo.
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/56881
-#EXTINF:-1,DISNEY JUNIOR .HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2651
-#EXTINF:-1,DISNEY CHANNEL .HD
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2650
-#EXTINF:-1,NICKLODEON HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2648
-#EXTINF:-1,CARTON NETWORK .HD
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2649
-#EXTINF:-1,PANDA BIGGS HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2653
-#EXTINF:-1,JIMJAM HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50194
-#EXTINF:-1,PANDA HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2652
-#EXTINF:-1,National  Geographic  HD
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/6294
-#EXTINF:-1,NAT GEO WILD .HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2646
-#EXTINF:-1,DISCOVERY CHANNEL .HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/5453
-#EXTINF:-1,DISCOVERY SHOWCASE .HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/5452
-#EXTINF:-1,Odisseia HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/5451
-#EXTINF:-1,CANAL HISTÓRIA HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2641
-#EXTINF:-1,E! HD
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/6307
-#EXTINF:-1,24 KITCHEN .HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50192
-#EXTINF:-1,BABY FIRST HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50195
-#EXTINF:-1,CAÇA PESCA
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50202
-#EXTINF:-1,CAçAVISION HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50201
-#EXTINF:-1,MY CUISINE HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50191
-#EXTINF:-1,TRAVEL-CHANNEL HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50190
-#EXTINF:-1,TVI HD
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/5449
-#EXTINF:-1,TVI 24 HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50228
-#EXTINF:-1,TVI Reality HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/5447
-#EXTINF:-1,TVI Ficção HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/5448
-#EXTINF:-1,SIC HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2622
-#EXTINF:-1,SIC MULHER HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2624
-#EXTINF:-1,SIC Radical HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/6280
-#EXTINF:-1,SIC NOTICIAS HD
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2623
-#EXTINF:-1,SIC KIDS HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50193
-#EXTINF:-1,SIC CARAS HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/6281
-#EXTINF:-1,TV Globo
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/9681
-#EXTINF:-1,TV Globo Premium HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/9682
-#EXTINF:-1,TV Record HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/9683
-#EXTINF:-1,MTV PORTUGAL HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2647
-#EXTINF:-1,SYFY .HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/5450
-#EXTINF:-1,VH1
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/5446
-#EXTINF:-1,TLC .HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50188
-#EXTINF:-1,A BOLA HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50203
-#EXTINF:-1,AFRO MUSIC. HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50184
-#EXTINF:-1,AMC HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50196
-#EXTINF:-1,BLAZE
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50227
-#EXTINF:-1,PORTO CANAL HD
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50230
-#EXTINF:-1,CANçAO NOVA HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50224
-#EXTINF:-1,CBS REALITY HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50229
-#EXTINF:-1,MCM-TOP HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50186
-#EXTINF:-1,FUEL HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50200
-#EXTINF:-1,CM TV HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/6287
-#EXTINF:-1,PFC HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50206
-#EXTINF:-1,TVCINE 1 HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2627
-#EXTINF:-1,TVCINE 2 HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2628
-#EXTINF:-1,TVCINE 3 HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2629
-#EXTINF:-1,TVCINE 4 HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2630
-#EXTINF:-1,Hollywood  HD
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/6298
-#EXTINF:-1,CINE MUNDO HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2632
-#EXTINF:-1,CINE MUNDO .HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/6299
-#EXTINF:-1,FOX LIFE HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2644
-#EXTINF:-1,Fox  Life  HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/6302
-#EXTINF:-1,FOX  HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2643
-#EXTINF:-1,Fox  Movies  HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/6303
-#EXTINF:-1,Fox  Comedy  HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/6304
-#EXTINF:-1,FOX CRIME HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2645
-#EXTINF:-1,AXN HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/2642
-#EXTINF:-1,AXN White HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/6305
-#EXTINF:-1,AXN Black HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/6306
-#EXTINF:-1,Porto Canal HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50225
-#EXTINF:-1,REAL MADRID HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50211
-#EXTINF:-1,EUROSPORT 2HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50207
-#EXTINF:-1,KOMBAT  SPORT
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50209
-#EXTINF:-1,MOTORVISION HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50204
-#EXTINF:-1,NBA .HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50205
-#EXTINF:-1,TOROS TV HD
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50198
-#EXTINF:-1,RECORD NEWS HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50226
-#EXTINF:-1,Benfica TV HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/11401
-#EXTINF:-1,Sporting TV HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/9680
-#EXTINF:-1,SPORT TV HD
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50197
-#EXTINF:-1,SPORT TV 1 HD
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50223
-#EXTINF:-1,SPORT TV 1 HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/6726
-#EXTINF:-1,SPORT TV 2 HD
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50231
-#EXTINF:-1,SPORT TV 2 HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/6727
-#EXTINF:-1,SPORT TV 3 HD
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50222
-#EXTINF:-1,SPORT TV 3 HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/6728
-#EXTINF:-1,SPORTV 4 HD
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50221
-#EXTINF:-1,SPORT TV 4 HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/6729
-#EXTINF:-1,SPORT TV 5 HD
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50220
-#EXTINF:-1,SPORT TV 5 HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/6730
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50215
-#EXTINF:-1,ELEVEN SPORTS  1 HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50218
-#EXTINF:-1,ELEVEN SPORTS 4 FHD
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50214
-#EXTINF:-1,ELEVEN SPORTS  2  HD
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50217
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50213
-#EXTINF:-1,ELEVEN SPORTS  3  HD+
-http://nettv-xcruiser.com:8000/1LRfyqNLkK/mrFQVItkH5/50216
+#EXTM3U url-tvg="https://ptiptv.tk/guia.xml"
+#EXTINF:-1 tvg-id="RTP1" tvg-logo="https://ptiptv.tk/logo?i=RTP1" group-title="Entertainment",RTP 1
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Safari/605.1.15
+#EXTINF:-1 tvg-id="RTP2" tvg-logo="https://ptiptv.tk/logo?i=RTP2" group-title="Entertainment",RTP 2
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Safari/605.1.15
+#EXTINF:-1 tvg-id="TVI" tvg-logo="https://ptiptv.tk/logo?i=TVI" group-title="Entertainment",TVI
+http://video-auth7.iol.pt/live_tvi/live_tvi/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP3" tvg-logo="https://ptiptv.tk/logo?i=RTP3" group-title="News",RTP 3
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Safari/605.1.15
+#EXTINF:-1 tvg-id="TVI24" tvg-logo="https://ptiptv.tk/logo?i=TVI24" group-title="News",TVI 24
+http://video-auth7.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
+#EXTINF:-1 tvg-id="ARTV" tvg-logo="https://ptiptv.tk/logo?i=ARTV" group-title="News",ARTV
+http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPM" tvg-logo="https://ptiptv.tk/logo?i=RTPM" group-title="Entertainment",RTP Memória
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Safari/605.1.15
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=TVIREAL" group-title="Entertainment",TVI Reality
+http://video-auth7.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAC" tvg-logo="https://ptiptv.tk/logo?i=RTPAC" group-title="Entertainment",RTP Açores
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Safari/605.1.15
+#EXTINF:-1 tvg-id="RTPMD" tvg-logo="https://ptiptv.tk/logo?i=RTPMD" group-title="Entertainment",RTP Madeira
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Safari/605.1.15
+#EXTINF:-1 tvg-id="RTPI" tvg-logo="https://ptiptv.tk/logo?i=RTPI" group-title="Entertainment",RTP Internacional
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Safari/605.1.15
+#EXTINF:-1 tvg-id="RTPA" tvg-logo="https://ptiptv.tk/logo?i=RTPA" group-title="Entertainment",RTP África
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Safari/605.1.15
+#EXTINF:-1 tvg-id="PORTO" tvg-logo="https://ptiptv.tk/logo?i=PORTO" group-title="Entertainment",Porto Canal
+https://ptiptv.tk/porto.m3u8?hkfqb1Wht0-DQkVTveVQDAJQe7s|referer=http://portocanal.sapo.pt/live
+#EXTINF:-1 tvg-id="SKYN" tvg-logo="https://ptiptv.tk/logo?i=SKYN" tvg-language="en" group-title="News",Sky News 🇬🇧
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
+#EXTINF:-1 tvg-id="BLOOM" tvg-logo="https://ptiptv.tk/logo?i=BLOOM" tvg-language="en" group-title="News",Bloomberg 🇬🇧
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-id="FR24I" tvg-logo="https://ptiptv.tk/logo?i=FR24I" tvg-language="en" group-title="News",France 24 🇬🇧
+http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="DW-TV" tvg-logo="https://ptiptv.tk/logo?i=DW-TV" tvg-language="en" group-title="News",Deutsche Welle 🇬🇧
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://ptiptv.tk/logo?i=ALJAZ" tvg-language="en" group-title="News",Al Jazeera 🇬🇧
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-id="RUSST" tvg-logo="https://ptiptv.tk/logo?i=RUSST" tvg-language="en" group-title="News",Russia Today 🇬🇧
+http://rt-news.secure.footprint.net/1103.m3u8
+#EXTINF:-1 tvg-id="NHKHD" tvg-logo="https://ptiptv.tk/logo?i=NHKHD" tvg-language="en" group-title="News",NHK World 🇬🇧
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://ptiptv.tk/logo?i=CGTN" tvg-language="en" group-title="News",CGTN 🇬🇧
+http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="CGTNDHD" tvg-logo="https://ptiptv.tk/logo?i=CGTNDHD" tvg-language="en" group-title="Documentary",CGTN Documentary 🇬🇧
+http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-id="TVE24" tvg-logo="https://ptiptv.tk/logo?i=TVE24" tvg-language="es" group-title="News",TVE 24h 🇪🇸
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=TVEI" tvg-language="es" group-title="Entertainment",TVE 🇪🇸
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=A3INTER" tvg-language="es" group-title="Entertainment",Antena 3 🇪🇸
+https://livestartover-i.akamaized.net/geoantena3/master.m3u8
+#EXTINF:-1 tvg-id="TVGAL" tvg-logo="https://ptiptv.tk/logo?i=TVGAL" tvg-country="ES" tvg-language="gl" group-title="Entertainment",TV Galicia 🇪🇸
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="FR24F" tvg-logo="https://ptiptv.tk/logo?i=FR24F" tvg-language="fr" group-title="News",France 24 🇫🇷
+http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="TV5" tvg-logo="https://ptiptv.tk/logo?i=TV5" tvg-language="fr" group-title="Entertainment",TV5 Monde 🇫🇷
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1 tvg-id="RAINEWS" tvg-logo="https://ptiptv.tk/logo?i=RAINEWS" tvg-language="it" group-title="News",Rai News 24 🇮🇹
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 tvg-id="DWTVA" tvg-logo="https://ptiptv.tk/logo?i=DWTVA" tvg-language="de" group-title="News",Deutsche Welle 🇩🇪
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://ptiptv.tk/logo?i=ZIGZAG" group-title="Kids",Zig Zag
+https://ptiptv.tk/zigzag.m3u8
+#EXTINF:-1 tvg-id="FTV" tvg-logo="https://ptiptv.tk/logo?i=FTV" group-title="Lifestyle",Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FTVHD" tvg-logo="https://ptiptv.tk/logo?i=FTVHD" group-title="Lifestyle",Fashion HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TRACE" tvg-logo="https://ptiptv.tk/logo?i=TRACE" group-title="Music",Trace Urban
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+#EXTINF:-1 tvg-id="TRACETC" tvg-logo="https://ptiptv.tk/logo?i=TRACETC" group-title="Music",Trace Toca
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/5/prog_index.m3u8
+#EXTINF:-1 tvg-id="RDP1" tvg-logo="https://ptiptv.tk/logo?i=RDP1" group-title="Entertainment",Antena 1 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDP2" tvg-logo="https://ptiptv.tk/logo?i=RDP2" group-title="Entertainment",Antena 2 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDP3" tvg-logo="https://ptiptv.tk/logo?i=RDP3" group-title="Entertainment",Antena 3 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDP1AC" tvg-logo="https://ptiptv.tk/logo?i=RDP1AC" group-title="Entertainment",Antena 1 Açores 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDP1MD" tvg-logo="https://ptiptv.tk/logo?i=RDP1MD" group-title="Entertainment",Antena 1 Madeira 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDP3MD" tvg-logo="https://ptiptv.tk/logo?i=RDP3MD" group-title="Entertainment",Antena 3 Madeira 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDPI" tvg-logo="https://ptiptv.tk/logo?i=RDPI" group-title="Entertainment",RDP Internacional 🎧
+http://streaming-live-app.rtp.pt/liveradio/rdpint80a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDPA" tvg-logo="https://ptiptv.tk/logo?i=RDPA" group-title="Entertainment",RDP África 🎧
+http://streaming-live-app.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1M" group-title="Entertainment",Antena 1 Memória 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena1memoria80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1L" group-title="Music",Antena 1 Lusitânia 🎧
+http://streaming-live-app.rtp.pt/liveradio/lusitania80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1V" group-title="Entertainment",Antena 1 Vida 🎧
+http://streaming-live-app.rtp.pt/liveradio/vida80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1F" group-title="Music",Antena 1 Fado 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena1fado80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP2J" group-title="Music",Antena 2 Jazzin’ 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP2O" group-title="Music",Antena 2 Ópera 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=ZIGZAGR" group-title="Kids",Rádio ZigZag 🎧
+http://streaming-live-app.rtp.pt/liveradio/zigzag80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCOM" group-title="Entertainment",Rádio Comercial 🎧
+http://mcrwowza3.mcr.iol.pt/comercial/ngrp:comercial.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCROCK" group-title="Music",Rádio Comercial Rock 🎧
+http://mcrwowza7.mcr.iol.pt/rcrock/rcrock.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCDANCE" group-title="Music",Rádio Comercial Dance 🎧
+http://mcrwowza7.mcr.iol.pt/rcdance/rcdance.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCHIT" group-title="Music",Rádio Comercial One Hit Wonders 🎧
+http://mcrwowza7.mcr.iol.pt/rchit/rchit.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCSOFT" group-title="Music",Rádio Comercial Soft 🎧
+http://mcrwowza7.mcr.iol.pt/rcsoft/rcsoft.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCTUGA" group-title="Music",Rádio Comercial Made in Portugal 🎧
+http://mcrwowza7.mcr.iol.pt/rctuga/rctuga.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80" group-title="Entertainment",M80 Rádio 🎧
+http://mcrwowza3.mcr.iol.pt/m80/ngrp:m80.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M8080" group-title="Music",M80 Rádio 80’s 🎧
+http://mcrwowza7.mcr.iol.pt/m8080/m8080.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80RCK" group-title="Music",M80 Rádio Rock 🎧
+http://mcrwowza7.mcr.iol.pt/m80rock/m80rock.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M8090" group-title="Music",M80 Rádio 90’s 🎧
+http://mcrwowza7.mcr.iol.pt/m8090/m8090.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80BAL" group-title="Music",M80 Rádio Ballads 🎧
+http://mcrwowza7.mcr.iol.pt/m80ballads/m80ballads.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80POP" group-title="Music",M80 Rádio Pop 🎧
+http://mcrwowza7.mcr.iol.pt/m80pop/m80pop.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M8070" group-title="Music",M80 Rádio 70’s 🎧
+http://mcrwowza7.mcr.iol.pt/m8070/m8070.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80DNC" group-title="Music",M80 Rádio Dance 🎧
+http://mcrwowza7.mcr.iol.pt/m80dance/m80dance.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80IND" group-title="Music",M80 Rádio Indie 🎧
+http://mcrwowza7.mcr.iol.pt/m80indie/m80indie.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80NAC" group-title="Music",M80 Rádio Portugal 🎧
+http://mcrwowza7.mcr.iol.pt/m80nacional/m80nacional.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80SOL" group-title="Music",M80 Rádio Soul 🎧
+http://mcrwowza7.mcr.iol.pt/m80soul/m80soul.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M8060" group-title="Music",M80 Rádio 60’s 🎧
+http://mcrwowza7.mcr.iol.pt/m8060/m8060.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=CIDFM" group-title="Entertainment",Cidade FM 🎧
+http://mcrwowza3.mcr.iol.pt/cidade/ngrp:cidade.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=CIDHH" group-title="Music",Cidade Hip Hop 🎧
+http://mcrwowza7.mcr.iol.pt/cidhiphop/cidhiphop.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOFM" group-title="Entertainment",Smooth FM 🎧
+http://mcrwowza3.mcr.iol.pt/smooth/ngrp:smooth.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOVJZ" group-title="Music",Smooth Vocal Jazz 🎧
+http://mcrwowza7.mcr.iol.pt/smovocaljazz/smovocaljazz.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOSOL" group-title="Music",Smooth Soul 🎧
+http://mcrwowza7.mcr.iol.pt/smoothsoul/smoothsoul.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOBLS" group-title="Music",Smooth Blues 🎧
+http://mcrwowza7.mcr.iol.pt/smoblues/smoblues.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOBOS" group-title="Music",Smooth Bossa Nova 🎧
+http://mcrwowza7.mcr.iol.pt/smobossa/smobossa.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOJZ" group-title="Music",Smooth Jazz 🎧
+http://mcrwowza7.mcr.iol.pt/smojazz/smojazz.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=VDFFM" group-title="Music",Vodafone.FM 🎧
+http://mcrwowza3.mcr.iol.pt/vodafone/ngrp:vodafone.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RFM" group-title="Entertainment",RFM 🎧
+http://19553.live.streamtheworld.com/RFMAAC
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RFM80S" group-title="Music",RFM 80’s 🎧
+http://19553.live.streamtheworld.com/GR80SRFMAAC
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RFMOTR" group-title="Music",RFM On The Rock 🎧
+http://19553.live.streamtheworld.com/RFMONTHEROCKAAC
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RFMDF" group-title="Music",RFM Dancefloor 🎧
+http://19553.live.streamtheworld.com/DANCEONTHEFLOORAAC
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RFMOP" group-title="Music",RFM Oceano Pacífico 🎧
+http://19553.live.streamtheworld.com/OCEANPACIFICAAC
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RENASC" group-title="Entertainment",Rádio Renascença 🎧
+http://19553.live.streamtheworld.com/RADIO_RENASCENCAAAC
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=MEGAHITS" group-title="Music",Mega Hits 🎧
+http://19553.live.streamtheworld.com/MEGA_HITSAAC
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RSIM" group-title="Entertainment",Rádio Sim 🎧
+http://19553.live.streamtheworld.com/RADIO_SIMAAC
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=TSF" group-title="News",TSF Rádio Notícias 🎧
+http://tsfdirecto.tsf.pt/tsfdirecto.aac
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=OBSRV" group-title="News",Rádio Observador 🎧
+http://streamingv2.shoutcast.com/observador_64.aac
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SBSRFM" group-title="Music",SBSR FM 🎧
+http://centova.radios.pt/proxy/435?mp=/stream
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RMSW" group-title="Music",Rádio MEO Sudoeste 🎧
+http://centova.radios.pt/proxy/495?mp=/stream
